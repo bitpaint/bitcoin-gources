@@ -1,0 +1,106 @@
+1428944529|J. Paul Daigle|A|/.gitignore
+1428944529|J. Paul Daigle|A|/LICENSE
+1428944529|J. Paul Daigle|A|/README.md
+1430185963|Paul Daigle|M|/.gitignore
+1430185963|Paul Daigle|A|/.travis.yml
+1430185963|Paul Daigle|A|/GUIDE.md
+1430185963|Paul Daigle|A|/Gemfile
+1430185963|Paul Daigle|A|/Gemfile.lock
+1430185963|Paul Daigle|A|/MIT-LICENSE
+1430185963|Paul Daigle|M|/README.md
+1430185963|Paul Daigle|A|/README.rdoc
+1430185963|Paul Daigle|A|/Rakefile
+1430185963|Paul Daigle|A|/app/assets/images/bit_pay_rails/.keep
+1430185963|Paul Daigle|A|/app/assets/javascripts/bit_pay_rails/.keep
+1430185963|Paul Daigle|A|/app/assets/stylesheets/bit_pay_rails/.keep
+1430185963|Paul Daigle|A|/app/controllers/.keep
+1430185963|Paul Daigle|A|/app/helpers/.keep
+1430185963|Paul Daigle|A|/app/mailers/.keep
+1430185963|Paul Daigle|A|/app/models/.keep
+1430185963|Paul Daigle|A|/app/models/bit_pay_client.rb
+1430185963|Paul Daigle|A|/app/views/.keep
+1430185963|Paul Daigle|A|/bin/rails
+1430185963|Paul Daigle|A|/bit_pay_rails.gemspec
+1430185963|Paul Daigle|A|/config/routes.rb
+1430185963|Paul Daigle|A|/db/migrate/20150427150251_bit_pay_rails_client.rb
+1430185963|Paul Daigle|A|/lib/bit_pay_rails.rb
+1430185963|Paul Daigle|A|/lib/bit_pay_rails/engine.rb
+1430185963|Paul Daigle|A|/lib/bit_pay_rails/version.rb
+1430185963|Paul Daigle|A|/lib/tasks/bit_pay_rails_tasks.rake
+1430185963|Paul Daigle|A|/test/bit_pay_rails_test.rb
+1430185963|Paul Daigle|A|/test/dummy/README.rdoc
+1430185963|Paul Daigle|A|/test/dummy/Rakefile
+1430185963|Paul Daigle|A|/test/dummy/app/assets/images/.keep
+1430185963|Paul Daigle|A|/test/dummy/app/assets/javascripts/application.js
+1430185963|Paul Daigle|A|/test/dummy/app/assets/stylesheets/application.css
+1430185963|Paul Daigle|A|/test/dummy/app/controllers/application_controller.rb
+1430185963|Paul Daigle|A|/test/dummy/app/controllers/concerns/.keep
+1430185963|Paul Daigle|A|/test/dummy/app/helpers/application_helper.rb
+1430185963|Paul Daigle|A|/test/dummy/app/mailers/.keep
+1430185963|Paul Daigle|A|/test/dummy/app/models/.keep
+1430185963|Paul Daigle|A|/test/dummy/app/models/concerns/.keep
+1430185963|Paul Daigle|A|/test/dummy/app/views/layouts/application.html.erb
+1430185963|Paul Daigle|A|/test/dummy/bin/bundle
+1430185963|Paul Daigle|A|/test/dummy/bin/rails
+1430185963|Paul Daigle|A|/test/dummy/bin/rake
+1430185963|Paul Daigle|A|/test/dummy/bin/setup
+1430185963|Paul Daigle|A|/test/dummy/config.ru
+1430185963|Paul Daigle|A|/test/dummy/config/application.rb
+1430185963|Paul Daigle|A|/test/dummy/config/boot.rb
+1430185963|Paul Daigle|A|/test/dummy/config/database.yml
+1430185963|Paul Daigle|A|/test/dummy/config/environment.rb
+1430185963|Paul Daigle|A|/test/dummy/config/environments/development.rb
+1430185963|Paul Daigle|A|/test/dummy/config/environments/production.rb
+1430185963|Paul Daigle|A|/test/dummy/config/environments/test.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/assets.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/backtrace_silencers.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/cookies_serializer.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/filter_parameter_logging.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/inflections.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/mime_types.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/session_store.rb
+1430185963|Paul Daigle|A|/test/dummy/config/initializers/wrap_parameters.rb
+1430185963|Paul Daigle|A|/test/dummy/config/locales/en.yml
+1430185963|Paul Daigle|A|/test/dummy/config/routes.rb
+1430185963|Paul Daigle|A|/test/dummy/config/secrets.yml
+1430185963|Paul Daigle|A|/test/dummy/db/schema.rb
+1430185963|Paul Daigle|A|/test/dummy/lib/assets/.keep
+1430185963|Paul Daigle|A|/test/dummy/log/.keep
+1430185963|Paul Daigle|A|/test/dummy/public/404.html
+1430185963|Paul Daigle|A|/test/dummy/public/422.html
+1430185963|Paul Daigle|A|/test/dummy/public/500.html
+1430185963|Paul Daigle|A|/test/dummy/public/favicon.ico
+1430185963|Paul Daigle|A|/test/integration/navigation_test.rb
+1430185963|Paul Daigle|A|/test/models/bit_pay_client_test.rb
+1430185963|Paul Daigle|A|/test/test_helper.rb
+1430344798|Paul Daigle|M|/README.md
+1432842783|Paul Daigle|A|/CHANGELOG.md
+1432842783|Paul Daigle|M|/app/models/bit_pay_client.rb
+1432842783|Paul Daigle|M|/lib/bit_pay_rails/version.rb
+1432842783|Paul Daigle|M|/test/models/bit_pay_client_test.rb
+1432844765|Paul Daigle|M|/Gemfile
+1432844765|Paul Daigle|M|/Gemfile.lock
+1432845520|J. Paul Daigle|M|/README.md
+1432848785|J. Paul Daigle|M|/CHANGELOG.md
+1432848785|J. Paul Daigle|M|/Gemfile.lock
+1432848785|J. Paul Daigle|M|/app/models/bit_pay_client.rb
+1432848785|J. Paul Daigle|M|/bit_pay_rails.gemspec
+1432848785|J. Paul Daigle|M|/lib/bit_pay_rails/version.rb
+1432848785|J. Paul Daigle|M|/test/models/bit_pay_client_test.rb
+1432848785|J. Paul Daigle|M|/test/test_helper.rb
+1432849770|Paul Daigle|M|/README.md
+1432849770|Paul Daigle|M|/app/models/bit_pay_client.rb
+1518408410|Kevin Quiring|M|/Gemfile
+1518408410|Kevin Quiring|M|/Gemfile.lock
+1518408410|Kevin Quiring|M|/app/models/bit_pay_client.rb
+1518408410|Kevin Quiring|M|/bit_pay_rails.gemspec
+1518408410|Kevin Quiring|M|/db/migrate/20150427150251_bit_pay_rails_client.rb
+1518408410|Kevin Quiring|M|/lib/bit_pay_rails/version.rb
+1518409636|Kevin Quiring|M|/bit_pay_rails.gemspec
+1518409759|Kevin Quiring|M|/lib/bit_pay_rails/version.rb
+1518413064|kevin quiring|M|/GUIDE.md
+1518413266|kevin quiring|M|/README.md
+1518413337|kevin quiring|M|/README.md
+1518413528|kevin quiring|M|/README.md
+1519599443|kevin quiring|M|/README.md
+1519600469|kevin quiring|M|/README.md

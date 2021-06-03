@@ -1,0 +1,190 @@
+1513244207|Nicolas Dorier|A|/.gitignore
+1513244207|Nicolas Dorier|A|/LICENSE
+1513244207|Nicolas Dorier|A|/README.md
+1513263478|nicolas.dorier|A|/.gitattributes
+1513263478|nicolas.dorier|M|/README.md
+1513263478|nicolas.dorier|A|/azuredeploy.json
+1513263478|nicolas.dorier|A|/deployOnAzure.ps1
+1513263478|nicolas.dorier|A|/entrypoint.sh
+1513263537|nicolas.dorier|M|/azuredeploy.json
+1513304194|nicolas.dorier|M|/azuredeploy.json
+1513304194|nicolas.dorier|M|/entrypoint.sh
+1513306447|nicolas.dorier|M|/azuredeploy.json
+1513306447|nicolas.dorier|M|/entrypoint.sh
+1513308258|nicolas.dorier|M|/azuredeploy.json
+1513308258|nicolas.dorier|M|/entrypoint.sh
+1513309354|nicolas.dorier|M|/entrypoint.sh
+1513310013|nicolas.dorier|M|/entrypoint.sh
+1513311809|nicolas.dorier|M|/entrypoint.sh
+1513323067|nicolas.dorier|M|/entrypoint.sh
+1513323157|nicolas.dorier|M|/entrypoint.sh
+1513346119|nicolas.dorier|M|/azuredeploy.json
+1513346119|nicolas.dorier|M|/entrypoint.sh
+1513347505|nicolas.dorier|M|/entrypoint.sh
+1513347896|nicolas.dorier|M|/entrypoint.sh
+1513356649|nicolas.dorier|M|/entrypoint.sh
+1513357817|nicolas.dorier|M|/entrypoint.sh
+1513359360|nicolas.dorier|M|/entrypoint.sh
+1513359418|nicolas.dorier|M|/entrypoint.sh
+1513516001|nicolas.dorier|M|/azuredeploy.json
+1513516001|nicolas.dorier|A|/changedomain.sh
+1513516001|nicolas.dorier|M|/entrypoint.sh
+1513516327|nicolas.dorier|M|/entrypoint.sh
+1513518300|nicolas.dorier|M|/entrypoint.sh
+1513524360|nicolas.dorier|M|/changedomain.sh
+1513526511|nicolas.dorier|M|/deployOnAzure.ps1
+1513530713|nicolas.dorier|M|/azuredeploy.json
+1513530713|nicolas.dorier|M|/changedomain.sh
+1513530713|nicolas.dorier|M|/deployOnAzure.ps1
+1513530713|nicolas.dorier|M|/entrypoint.sh
+1513531001|nicolas.dorier|M|/README.md
+1513531106|nicolas.dorier|M|/entrypoint.sh
+1513558068|nicolas.dorier|M|/changedomain.sh
+1513558068|nicolas.dorier|M|/entrypoint.sh
+1513574070|nicolas.dorier|M|/azuredeploy.json
+1513574217|nicolas.dorier|M|/README.md
+1513575191|nicolas.dorier|M|/azuredeploy.json
+1513575715|nicolas.dorier|M|/azuredeploy.json
+1513576460|nicolas.dorier|M|/azuredeploy.json
+1513577795|nicolas.dorier|M|/azuredeploy.json
+1513577795|nicolas.dorier|M|/changedomain.sh
+1513577795|nicolas.dorier|M|/entrypoint.sh
+1513585825|nicolas.dorier|M|/entrypoint.sh
+1513590667|nicolas.dorier|M|/README.md
+1514717624|Nicolas Dorier|M|/README.md
+1514717866|Nicolas Dorier|M|/README.md
+1514719035|Nicolas Dorier|M|/README.md
+1515156454|Nicolas Dorier|M|/README.md
+1515157300|Nicolas Dorier|M|/README.md
+1515157649|Nicolas Dorier|M|/README.md
+1515157682|Nicolas Dorier|M|/README.md
+1515161602|nicolas.dorier|M|/changedomain.sh
+1515166095|nicolas.dorier|M|/README.md
+1515488409|nicolas.dorier|M|/azuredeploy.json
+1515488409|nicolas.dorier|M|/entrypoint.sh
+1515490879|nicolas.dorier|M|/changedomain.sh
+1515490879|nicolas.dorier|M|/entrypoint.sh
+1515557014|nicolas.dorier|M|/azuredeploy.json
+1515744902|nicolas.dorier|M|/changedomain.sh
+1515744902|nicolas.dorier|M|/entrypoint.sh
+1515745204|nicolas.dorier|M|/changedomain.sh
+1515747349|nicolas.dorier|M|/README.md
+1515747349|nicolas.dorier|M|/azuredeploy.json
+1515747349|nicolas.dorier|A|/btcpay-restart.sh
+1515747349|nicolas.dorier|A|/btcpay-update.sh
+1515747349|nicolas.dorier|M|/changedomain.sh
+1515747349|nicolas.dorier|M|/entrypoint.sh
+1515747486|nicolas.dorier|M|/changedomain.sh
+1515749877|nicolas.dorier|M|/entrypoint.sh
+1515751888|nicolas.dorier|M|/changedomain.sh
+1515751888|nicolas.dorier|M|/entrypoint.sh
+1515752827|nicolas.dorier|M|/btcpay-restart.sh
+1515752827|nicolas.dorier|M|/btcpay-update.sh
+1515752827|nicolas.dorier|M|/changedomain.sh
+1515752827|nicolas.dorier|M|/entrypoint.sh
+1515762676|nicolas.dorier|M|/btcpay-restart.sh
+1515762676|nicolas.dorier|M|/btcpay-update.sh
+1515773738|nicolas.dorier|M|/changedomain.sh
+1515817072|nicolas.dorier|M|/azuredeploy.json
+1515817072|nicolas.dorier|M|/btcpay-update.sh
+1515817072|nicolas.dorier|M|/changedomain.sh
+1515817072|nicolas.dorier|M|/entrypoint.sh
+1515817162|nicolas.dorier|M|/azuredeploy.json
+1515817575|nicolas.dorier|M|/btcpay-update.sh
+1515817575|nicolas.dorier|M|/entrypoint.sh
+1515822443|nicolas.dorier|M|/README.md
+1515822919|nicolas.dorier|M|/README.md
+1515823527|nicolas.dorier|M|/README.md
+1515840456|nicolas.dorier|M|/README.md
+1516196644|nicolas.dorier|M|/entrypoint.sh
+1516196700|nicolas.dorier|M|/README.md
+1518540772|nicolas.dorier|M|/entrypoint.sh
+1518625852|nicolas.dorier|M|/azuredeploy.json
+1518626262|nicolas.dorier|M|/azuredeploy.json
+1521615608|nicolas.dorier|M|/azuredeploy.json
+1521615608|nicolas.dorier|M|/btcpay-update.sh
+1521615608|nicolas.dorier|M|/entrypoint.sh
+1521616501|nicolas.dorier|M|/entrypoint.sh
+1521616756|nicolas.dorier|M|/azuredeploy.json
+1521617131|nicolas.dorier|M|/entrypoint.sh
+1521617861|nicolas.dorier|M|/entrypoint.sh
+1521618489|nicolas.dorier|M|/btcpay-update.sh
+1521619190|nicolas.dorier|M|/azuredeploy.json
+1521639193|nicolas.dorier|M|/azuredeploy.json
+1521639896|nicolas.dorier|M|/entrypoint.sh
+1521645267|nicolas.dorier|M|/azuredeploy.json
+1521645267|nicolas.dorier|M|/entrypoint.sh
+1521645696|nicolas.dorier|M|/azuredeploy.json
+1521645696|nicolas.dorier|M|/entrypoint.sh
+1521646405|nicolas.dorier|M|/azuredeploy.json
+1523637249|nicolas.dorier|M|/btcpay-update.sh
+1523637249|nicolas.dorier|M|/changedomain.sh
+1523638131|Nicolas Dorier|M|/README.md
+1523796363|nicolas.dorier|M|/btcpay-update.sh
+1523803457|Nicolas Dorier|M|/README.md
+1523803528|Nicolas Dorier|M|/README.md
+1524452887|nicolas.dorier|M|/btcpay-update.sh
+1524453830|nicolas.dorier|M|/btcpay-update.sh
+1524834845|nicolas.dorier|M|/entrypoint.sh
+1524834940|nicolas.dorier|M|/btcpay-restart.sh
+1524834940|nicolas.dorier|M|/btcpay-update.sh
+1524834940|nicolas.dorier|M|/changedomain.sh
+1524834940|nicolas.dorier|M|/entrypoint.sh
+1524835962|nicolas.dorier|M|/entrypoint.sh
+1524882173|nicolas.dorier|M|/README.md
+1524882262|nicolas.dorier|M|/README.md
+1524882358|nicolas.dorier|M|/README.md
+1524882456|nicolas.dorier|M|/README.md
+1524883330|nicolas.dorier|M|/README.md
+1524965422|nicolas.dorier|M|/entrypoint.sh
+1524967053|nicolas.dorier|M|/entrypoint.sh
+1524970799|nicolas.dorier|M|/entrypoint.sh
+1524972276|nicolas.dorier|M|/entrypoint.sh
+1524973796|nicolas.dorier|M|/azuredeploy.json
+1524974231|nicolas.dorier|M|/azuredeploy.json
+1525195471|nicolas.dorier|M|/entrypoint.sh
+1525941468|nicolas.dorier|M|/README.md
+1525946865|nicolas.dorier|M|/entrypoint.sh
+1526788216|nicolas.dorier|M|/README.md
+1526788216|nicolas.dorier|A|/azure-entrypoint.sh
+1526788216|nicolas.dorier|M|/azuredeploy.json
+1526788216|nicolas.dorier|D|/btcpay-restart.sh
+1526788216|nicolas.dorier|D|/btcpay-update.sh
+1526788216|nicolas.dorier|D|/changedomain.sh
+1526788216|nicolas.dorier|D|/deployOnAzure.ps1
+1526788216|nicolas.dorier|D|/entrypoint.sh
+1526789066|nicolas.dorier|M|/README.md
+1529333402|nicolas.dorier|M|/azuredeploy.json
+1529340120|nicolas.dorier|M|/azuredeploy.json
+1529340190|nicolas.dorier|M|/azuredeploy.json
+1529343464|nicolas.dorier|M|/azuredeploy.json
+1529815351|nicolas.dorier|M|/azuredeploy.json
+1529839135|nicolas.dorier|M|/azuredeploy.json
+1531300746|nicolas.dorier|M|/azuredeploy.json
+1532094965|nicolas.dorier|M|/azuredeploy.json
+1532493847|nicolas.dorier|M|/azuredeploy.json
+1534128581|nicolas.dorier|M|/azure-entrypoint.sh
+1534128581|nicolas.dorier|M|/azuredeploy.json
+1534129126|nicolas.dorier|M|/azuredeploy.json
+1534130038|nicolas.dorier|M|/azure-entrypoint.sh
+1534130308|nicolas.dorier|M|/azuredeploy.json
+1534410446|nicolas.dorier|M|/azure-entrypoint.sh
+1534410500|nicolas.dorier|M|/azure-entrypoint.sh
+1536296005|Masaki Muranaka|M|/README.md
+1543670162|nicolas.dorier|M|/azuredeploy.json
+1564488220|Andras Fuchs|M|/azuredeploy.json
+1564488503|Andras Fuchs|M|/README.md
+1564488503|Andras Fuchs|M|/azure-entrypoint.sh
+1564488503|Andras Fuchs|M|/azuredeploy.json
+1564489888|Andras Fuchs|M|/azuredeploy.json
+1564497581|Andras Fuchs|M|/azuredeploy.json
+1564509493|Andras Fuchs|M|/azuredeploy.json
+1564509963|Andras Fuchs|M|/README.md
+1564509963|Andras Fuchs|M|/azuredeploy.json
+1564510198|Andras Fuchs|M|/azuredeploy.json
+1566704096|Nicolas Dorier|M|/azure-entrypoint.sh
+1569158974|nicolas.dorier|M|/azure-entrypoint.sh
+1569160410|nicolas.dorier|M|/azuredeploy.json
+1569160495|nicolas.dorier|M|/azure-entrypoint.sh
+1569161312|nicolas.dorier|M|/azuredeploy.json
+1569161368|nicolas.dorier|M|/azure-entrypoint.sh

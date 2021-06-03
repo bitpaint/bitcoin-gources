@@ -1,0 +1,2987 @@
+1503062711|Nicolas Dorier|A|/LICENSE
+1503062711|Nicolas Dorier|A|/README.md
+1503063137|Christopher Zechendorf|A|/CNAME
+1503063495|Christopher Zechendorf|M|/README.md
+1503067057|Christopher Zechendorf|M|/README.md
+1544920389|vswee|A|/css/styles.css
+1544920389|vswee|A|/img/DtlwzdZUwAAqZIS.jpglarge.jpg
+1544920389|vswee|A|/img/btcpay_icon-01.svg
+1544920389|vswee|A|/img/btcpay_icon_white-01.svg
+1544920389|vswee|A|/img/btcpayserver-icon-green.svg
+1544920389|vswee|A|/img/btcpayserver-icon-white.svg
+1544920389|vswee|A|/img/btcpayserver_banner-02-03.svg
+1544920389|vswee|A|/img/btcpayserver_banner-02-04.svg
+1544920389|vswee|A|/img/btcpayserver_banner-02.svg
+1544920389|vswee|A|/img/coins-01.svg
+1544920389|vswee|A|/img/cpins-01.svg
+1544920389|vswee|A|/img/cust-01-01.svg
+1544920389|vswee|A|/img/dots.svg
+1544920389|vswee|A|/img/horizontal_divider-04.svg
+1544920389|vswee|A|/img/horizontal_divider-05-darker.svg
+1544920389|vswee|A|/img/horizontal_divider-06.svg
+1544920389|vswee|A|/img/logo-white.png
+1544920389|vswee|A|/img/man.png
+1544920389|vswee|A|/img/man01.svg
+1544920389|vswee|A|/img/man02.svg
+1544920389|vswee|A|/img/man2.png
+1544920389|vswee|A|/img/merch-01-01.svg
+1544920389|vswee|A|/img/pay-2.png
+1544920389|vswee|A|/img/pay.png
+1544920389|vswee|A|/img/pay2.png
+1544920389|vswee|A|/img/spinner.svg
+1544920389|vswee|A|/index.html
+1544920389|vswee|A|/js/scripts.js
+1544920625|vswee|M|/index.html
+1544920713|vswee|M|/css/styles.css
+1544920879|vswee|M|/CNAME
+1544929835|vswee|M|/index.html
+1544932743|vswee|M|/README.md
+1544932786|vswee|D|/css/styles.css
+1544932885|vswee|A|/css/styles.css
+1544932976|vswee|D|/index.html
+1544933199|vswee|A|/index.html
+1544933265|Nicolas Dorier|M|/CNAME
+1544962160|vswee|A|/favicon.png
+1545059269|vswee|M|/index.html
+1545059363|vswee|M|/index.html
+1545059502|vswee|M|/js/scripts.js
+1545059767|vswee|M|/index.html
+1545059890|vswee|M|/index.html
+1545060647|vswee|M|/index.html
+1545061344|vswee|M|/css/styles.css
+1545061550|vswee|M|/css/styles.css
+1545061762|vswee|M|/css/styles.css
+1545062665|vswee|M|/css/styles.css
+1545063084|vswee|M|/index.html
+1545063130|vswee|M|/js/scripts.js
+1545063184|vswee|M|/index.html
+1545063303|vswee|M|/index.html
+1545065455|Christian Moss|M|/index.html
+1545071210|vswee|M|/js/scripts.js
+1545086101|vswee|M|/index.html
+1545093830|vswee|M|/js/scripts.js
+1545093940|vswee|M|/index.html
+1545094290|vswee|M|/js/scripts.js
+1545120843|Zachary Owens|M|/README.md
+1545124206|bitcoinshirt|M|/README.md
+1545241009|vswee|M|/css/styles.css
+1545912750|Mario Dian|D|/img/DtlwzdZUwAAqZIS.jpglarge.jpg
+1545912750|Mario Dian|A|/img/pos.jpg
+1545912750|Mario Dian|M|/index.html
+1545953834|vswee|M|/index.html
+1546106253|vswee|M|/index.html
+1546106453|vswee|M|/css/styles.css
+1546106627|vswee|M|/css/styles.css
+1546106911|vswee|M|/css/styles.css
+1546207145|vswee|M|/index.html
+1546207219|vswee|M|/css/styles.css
+1546572051|Agustín Rodríguez|M|/index.html
+1547589725|Pavle|M|/index.html
+1547594766|vswee|M|/index.html
+1547594853|vswee|M|/css/styles.css
+1547594989|vswee|M|/js/scripts.js
+1547595128|vswee|A|/img/blob1.svg
+1547595128|vswee|A|/img/blob2.svg
+1547595128|vswee|A|/img/btcpayserver_banner-02-04-no-sham.svg
+1547595128|vswee|A|/img/demo2.png
+1547595128|vswee|A|/img/docs2.png
+1547595128|vswee|A|/img/git.png
+1547595251|vswee|A|/img/community.png
+1548099387|Pavle|M|/index.html
+1548635051|vswee|M|/index.html
+1548635200|vswee|M|/css/styles.css
+1548635341|vswee|A|/img/community_2.png
+1548635471|vswee|A|/fonts/Roboto_Slab 3/LICENSE.txt
+1548635471|vswee|A|/fonts/Roboto_Slab 3/RobotoSlab-Bold.ttf
+1548635471|vswee|A|/fonts/Roboto_Slab 3/RobotoSlab-Light.ttf
+1548635471|vswee|A|/fonts/Roboto_Slab 3/RobotoSlab-Regular.ttf
+1548635471|vswee|A|/fonts/Roboto_Slab 3/RobotoSlab-Thin.ttf
+1548635640|vswee|D|/fonts/Roboto_Slab 3/LICENSE.txt
+1548635640|vswee|A|/fonts/Roboto_Slab/LICENSE.txt
+1548635718|vswee|D|/fonts/Roboto_Slab 3/RobotoSlab-Bold.ttf
+1548635726|vswee|D|/fonts/Roboto_Slab 3/RobotoSlab-Light.ttf
+1548635735|vswee|D|/fonts/Roboto_Slab 3/RobotoSlab-Regular.ttf
+1548635741|vswee|D|/fonts/Roboto_Slab 3/RobotoSlab-Thin.ttf
+1548635796|vswee|A|/fonts/Roboto_Slab/RobotoSlab-Bold.ttf
+1548635796|vswee|A|/fonts/Roboto_Slab/RobotoSlab-Light.ttf
+1548635796|vswee|A|/fonts/Roboto_Slab/RobotoSlab-Regular.ttf
+1548635796|vswee|A|/fonts/Roboto_Slab/RobotoSlab-Thin.ttf
+1548636314|vswee|M|/js/scripts.js
+1548636871|vswee|M|/js/scripts.js
+1548678661|vswee|M|/js/scripts.js
+1548678731|vswee|M|/css/styles.css
+1548678927|vswee|M|/css/styles.css
+1548702995|Pavle|M|/index.html
+1548759863|Pavle|M|/README.md
+1548785704|vswee|M|/img/horizontal_divider-06.svg
+1548787731|vswee|A|/img/mattermost_icon-01.svg
+1548787852|vswee|M|/index.html
+1548787885|vswee|M|/css/styles.css
+1549478497|vswee|M|/index.html
+1549926862|kemoantemo|M|/index.html
+1550609675|Pavle|M|/index.html
+1551707172|vswee|M|/index.html
+1551988727|Pavle|M|/index.html
+1552589955|vswee|A|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1552589955|vswee|A|/img/community4-01.png
+1552589955|vswee|A|/img/demo2-01.png
+1552589955|vswee|A|/img/docs2-01.png
+1552589955|vswee|A|/img/git-01.png
+1552603328|vswee|M|/js/scripts.js
+1552603455|vswee|M|/css/styles.css
+1552603645|vswee|M|/index.html
+1552604903|Pavle|M|/index.html
+1552606121|vswee|A|/css/fa_.css
+1552606193|vswee|M|/index.html
+1552606367|vswee|A|/fonts/fa_/LICENSE.txt
+1552606367|vswee|A|/fonts/fa_/fa-brands-400.eot
+1552606367|vswee|A|/fonts/fa_/fa-brands-400.svg
+1552606367|vswee|A|/fonts/fa_/fa-brands-400.ttf
+1552606367|vswee|A|/fonts/fa_/fa-brands-400.woff
+1552606367|vswee|A|/fonts/fa_/fa-brands-400.woff2
+1552606367|vswee|A|/fonts/fa_/fa-regular-400.eot
+1552606367|vswee|A|/fonts/fa_/fa-regular-400.svg
+1552606367|vswee|A|/fonts/fa_/fa-regular-400.ttf
+1552606367|vswee|A|/fonts/fa_/fa-regular-400.woff
+1552606367|vswee|A|/fonts/fa_/fa-regular-400.woff2
+1552606367|vswee|A|/fonts/fa_/fa-solid-900.eot
+1552606367|vswee|A|/fonts/fa_/fa-solid-900.svg
+1552606367|vswee|A|/fonts/fa_/fa-solid-900.ttf
+1552606367|vswee|A|/fonts/fa_/fa-solid-900.woff
+1552606367|vswee|A|/fonts/fa_/fa-solid-900.woff2
+1552606791|vswee|D|/css/fa_.css
+1552606914|vswee|A|/fonts/fa_/fa_.min.css
+1552606947|vswee|M|/index.html
+1552607532|vswee|M|/fonts/fa_/fa_.min.css
+1552661725|vswee|M|/css/styles.css
+1552663244|vswee|M|/js/scripts.js
+1552663354|vswee|M|/index.html
+1552663537|vswee|M|/index.html
+1552721111|Pavle|M|/index.html
+1552934739|vswee|M|/css/styles.css
+1553680222|Pavle|M|/index.html
+1555212054|Rockstar Developer|M|/index.html
+1555295993|vswee|M|/css/styles.css
+1555296128|vswee|M|/js/scripts.js
+1555296513|vswee|M|/index.html
+1555296613|vswee|M|/index.html
+1555296739|vswee|A|/img/pay-2-c.png
+1555656759|vswee|M|/index.html
+1555699998|vswee|M|/css/styles.css
+1556572221|vswee|M|/index.html
+1557409742|vswee|A|/img/vidph.svg
+1557417571|vswee|M|/css/styles.css
+1557417703|vswee|M|/js/scripts.js
+1557418264|vswee|M|/index.html
+1557419884|vswee|M|/index.html
+1557419964|vswee|M|/css/styles.css
+1557420020|vswee|M|/js/scripts.js
+1557421965|vswee|M|/css/styles.css
+1557422238|vswee|M|/index.html
+1558714971|Pavle|M|/index.html
+1559236270|Pavle|M|/index.html
+1559236753|Pavle|M|/index.html
+1559302887|Pavle|M|/index.html
+1559479105|vswee|M|/js/scripts.js
+1559479220|vswee|M|/css/styles.css
+1559479476|vswee|M|/index.html
+1559479629|vswee|A|/ar/index.html
+1559479629|vswee|A|/bg/index.html
+1559479629|vswee|A|/bs_BA/index.html
+1559479629|vswee|A|/ca_ES/index.html
+1559479629|vswee|A|/de_DE/index.html
+1559479629|vswee|A|/el_GR/index.html
+1559479629|vswee|A|/es_ES/index.html
+1559479629|vswee|A|/fi_FI/index.html
+1559479629|vswee|A|/fr_FR/index.html
+1559479629|vswee|A|/he/index.html
+1559479629|vswee|A|/hi/index.html
+1559479629|vswee|A|/hr/index.html
+1559479629|vswee|A|/it_IT/index.html
+1559479629|vswee|A|/ja_JP/index.html
+1559479629|vswee|A|/nl_NL/index.html
+1559479629|vswee|A|/pt_BR/index.html
+1559479629|vswee|A|/pt_PT/index.html
+1559479629|vswee|A|/sk_SK/index.html
+1559479629|vswee|A|/sl_SI/index.html
+1559479629|vswee|A|/sr/index.html
+1559479629|vswee|A|/tr/index.html
+1559506685|vswee|M|/ar/index.html
+1559506685|vswee|M|/bg/index.html
+1559506685|vswee|M|/bs_BA/index.html
+1559506685|vswee|M|/ca_ES/index.html
+1559506685|vswee|M|/de_DE/index.html
+1559506685|vswee|M|/el_GR/index.html
+1559506685|vswee|M|/es_ES/index.html
+1559506685|vswee|M|/fi_FI/index.html
+1559506685|vswee|M|/fr_FR/index.html
+1559506685|vswee|M|/he/index.html
+1559506685|vswee|M|/hi/index.html
+1559506685|vswee|M|/hr/index.html
+1559506685|vswee|M|/it_IT/index.html
+1559506685|vswee|M|/ja_JP/index.html
+1559506685|vswee|M|/nl_NL/index.html
+1559506685|vswee|M|/pt_BR/index.html
+1559506685|vswee|M|/pt_PT/index.html
+1559506685|vswee|M|/sk_SK/index.html
+1559506685|vswee|M|/sl_SI/index.html
+1559506685|vswee|M|/sr/index.html
+1559506685|vswee|M|/tr/index.html
+1559506776|vswee|M|/index.html
+1559771256|vswee|M|/css/styles.css
+1560011602|vswee|M|/css/styles.css
+1560011900|vswee|M|/js/scripts.js
+1560012132|vswee|A|/am_ET/index.html
+1560012132|vswee|M|/ar/index.html
+1560012132|vswee|M|/bg/index.html
+1560012132|vswee|M|/bs_BA/index.html
+1560012132|vswee|M|/ca_ES/index.html
+1560012132|vswee|M|/de_DE/index.html
+1560012132|vswee|M|/el_GR/index.html
+1560012132|vswee|A|/en_GB/index.html
+1560012132|vswee|M|/es_ES/index.html
+1560012132|vswee|M|/fi_FI/index.html
+1560012132|vswee|M|/fr_FR/index.html
+1560012132|vswee|M|/he/index.html
+1560012132|vswee|M|/hi/index.html
+1560012132|vswee|M|/hr/index.html
+1560012132|vswee|M|/index.html
+1560012132|vswee|M|/it_IT/index.html
+1560012132|vswee|M|/ja_JP/index.html
+1560012132|vswee|M|/nl_NL/index.html
+1560012132|vswee|M|/pt_BR/index.html
+1560012132|vswee|M|/pt_PT/index.html
+1560012132|vswee|A|/ru_RU/index.html
+1560012132|vswee|M|/sk_SK/index.html
+1560012132|vswee|M|/sl_SI/index.html
+1560012132|vswee|M|/sr/index.html
+1560012132|vswee|M|/tr/index.html
+1560012132|vswee|A|/zh-Hans/index.html
+1560355212|vswee|M|/img/community4-01.png
+1560355212|vswee|A|/img/demo2-01-2.png
+1560355212|vswee|A|/img/docs2-01-2.png
+1560355212|vswee|A|/img/git-01-2.png
+1560355212|vswee|M|/img/pay-2-c.png
+1560512496|vswee|A|/da_DK/index.html
+1560512496|vswee|A|/ko/index.html
+1560512947|vswee|M|/am_ET/index.html
+1560512947|vswee|M|/ar/index.html
+1560512947|vswee|M|/bg/index.html
+1560512947|vswee|M|/bs_BA/index.html
+1560512947|vswee|M|/ca_ES/index.html
+1560512947|vswee|M|/de_DE/index.html
+1560512947|vswee|M|/el_GR/index.html
+1560512947|vswee|M|/es_ES/index.html
+1560512947|vswee|M|/fi_FI/index.html
+1560512947|vswee|M|/fr_FR/index.html
+1560512947|vswee|M|/he/index.html
+1560512947|vswee|M|/hi/index.html
+1560512947|vswee|M|/hr/index.html
+1560512947|vswee|M|/index.html
+1560512947|vswee|M|/it_IT/index.html
+1560512947|vswee|M|/ja_JP/index.html
+1560512947|vswee|M|/nl_NL/index.html
+1560512947|vswee|M|/pt_BR/index.html
+1560512947|vswee|M|/pt_PT/index.html
+1560512947|vswee|M|/ru_RU/index.html
+1560512947|vswee|M|/sk_SK/index.html
+1560512947|vswee|M|/sl_SI/index.html
+1560512947|vswee|M|/sr/index.html
+1560512947|vswee|M|/tr/index.html
+1560512947|vswee|M|/zh-Hans/index.html
+1561268514|vswee|M|/js/scripts.js
+1561269593|vswee|M|/js/scripts.js
+1561983005|vswee|M|/am_ET/index.html
+1561983005|vswee|M|/ar/index.html
+1561983005|vswee|M|/bg/index.html
+1561983005|vswee|M|/bs_BA/index.html
+1561983005|vswee|M|/ca_ES/index.html
+1561983005|vswee|M|/da_DK/index.html
+1561983005|vswee|M|/de_DE/index.html
+1561983005|vswee|M|/el_GR/index.html
+1561983005|vswee|M|/es_ES/index.html
+1561983005|vswee|M|/fi_FI/index.html
+1561983005|vswee|M|/fr_FR/index.html
+1561983005|vswee|M|/he/index.html
+1561983005|vswee|M|/hi/index.html
+1561983005|vswee|M|/hr/index.html
+1561983005|vswee|M|/index.html
+1561983005|vswee|M|/it_IT/index.html
+1561983005|vswee|M|/ja_JP/index.html
+1561983005|vswee|M|/ko/index.html
+1561983005|vswee|M|/nl_NL/index.html
+1561983005|vswee|M|/pt_BR/index.html
+1561983005|vswee|M|/pt_PT/index.html
+1561983005|vswee|M|/ru_RU/index.html
+1561983005|vswee|M|/sk_SK/index.html
+1561983005|vswee|M|/sl_SI/index.html
+1561983005|vswee|M|/sr/index.html
+1561983005|vswee|M|/tr/index.html
+1561983005|vswee|M|/zh-Hans/index.html
+1561983141|vswee|A|/img/bg0003.svg
+1561983141|vswee|A|/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1561983141|vswee|M|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1561983141|vswee|M|/img/community4-01.png
+1561983141|vswee|A|/img/community5.png
+1561983587|vswee|D|/img/blob1.svg
+1561983599|vswee|D|/img/blob2.svg
+1561983611|vswee|D|/img/btcpay_icon-01.svg
+1561983621|vswee|D|/img/btcpay_icon_white-01.svg
+1561983630|vswee|D|/img/btcpayserver-icon-green.svg
+1561983638|vswee|D|/img/btcpayserver-icon-white.svg
+1561983648|vswee|D|/img/btcpayserver_banner-02-03.svg
+1561983667|vswee|D|/img/btcpayserver_banner-02-04-no-sham.svg
+1561983678|vswee|D|/img/btcpayserver_banner-02-04.svg
+1561983689|vswee|D|/img/btcpayserver_banner-02.svg
+1561983699|vswee|D|/img/coins-01.svg
+1561983708|vswee|D|/img/community.png
+1561983719|vswee|D|/img/community_2.png
+1561983728|vswee|D|/img/cpins-01.svg
+1561983738|vswee|D|/img/cust-01-01.svg
+1561983747|vswee|D|/img/demo2-01-2.png
+1561983758|vswee|D|/img/demo2-01.png
+1561983769|vswee|D|/img/demo2.png
+1561983778|vswee|D|/img/docs2-01-2.png
+1561983789|vswee|D|/img/docs2-01.png
+1561983803|vswee|D|/img/docs2.png
+1561983814|vswee|D|/img/dots.svg
+1561983825|vswee|D|/img/git-01-2.png
+1561983838|vswee|D|/img/git-01.png
+1561983849|vswee|D|/img/git.png
+1561983858|vswee|D|/img/horizontal_divider-04.svg
+1561983868|vswee|D|/img/horizontal_divider-05-darker.svg
+1561983878|vswee|D|/img/horizontal_divider-06.svg
+1561983886|vswee|D|/img/logo-white.png
+1561983895|vswee|D|/img/man.png
+1561983905|vswee|D|/img/man01.svg
+1561983917|vswee|D|/img/man02.svg
+1561983929|vswee|D|/img/man2.png
+1561984040|vswee|D|/img/merch-01-01.svg
+1561984051|vswee|D|/img/community4-01.png
+1561984062|vswee|D|/img/mattermost_icon-01.svg
+1561984071|vswee|D|/img/pay-2-c.png
+1561984083|vswee|D|/img/pay-2.png
+1561984091|vswee|D|/img/vidph.svg
+1561984099|vswee|D|/img/spinner.svg
+1561984108|vswee|D|/img/pos.jpg
+1561984116|vswee|D|/img/pay2.png
+1561984126|vswee|D|/img/pay.png
+1561984149|vswee|D|/img/community5.png
+1561984440|vswee|M|/am_ET/index.html
+1561984440|vswee|M|/ar/index.html
+1561984440|vswee|M|/bg/index.html
+1561984440|vswee|M|/bs_BA/index.html
+1561984440|vswee|M|/ca_ES/index.html
+1561984440|vswee|M|/da_DK/index.html
+1561984440|vswee|M|/de_DE/index.html
+1561984440|vswee|M|/el_GR/index.html
+1561984440|vswee|M|/es_ES/index.html
+1561984440|vswee|M|/fi_FI/index.html
+1561984440|vswee|M|/fr_FR/index.html
+1561984440|vswee|M|/he/index.html
+1561984440|vswee|M|/hi/index.html
+1561984440|vswee|M|/hr/index.html
+1561984440|vswee|M|/index.html
+1561984440|vswee|M|/it_IT/index.html
+1561984440|vswee|M|/ja_JP/index.html
+1561984440|vswee|M|/ko/index.html
+1561984440|vswee|M|/nl_NL/index.html
+1561984440|vswee|M|/pt_BR/index.html
+1561984440|vswee|M|/pt_PT/index.html
+1561984440|vswee|M|/ru_RU/index.html
+1561984440|vswee|M|/sk_SK/index.html
+1561984440|vswee|M|/sl_SI/index.html
+1561984440|vswee|M|/sr/index.html
+1561984440|vswee|M|/tr/index.html
+1561984440|vswee|M|/zh-Hans/index.html
+1561984504|vswee|A|/img/community5.png
+1561984504|vswee|A|/img/demo2-01.png
+1561984504|vswee|A|/img/docs2-01.png
+1561984504|vswee|A|/img/git-01.png
+1561984504|vswee|A|/img/pay-2.png
+1561984504|vswee|A|/img/vidph.svg
+1561984758|vswee|D|/css/styles.css
+1561984776|vswee|D|/js/scripts.js
+1562152976|vswee|A|/forGitHub/am_ET/index.html
+1562152976|vswee|A|/forGitHub/ar/index.html
+1562152976|vswee|A|/forGitHub/bg/index.html
+1562152976|vswee|A|/forGitHub/bs_BA/index.html
+1562152976|vswee|A|/forGitHub/ca_ES/index.html
+1562152976|vswee|A|/forGitHub/da_DK/index.html
+1562152976|vswee|A|/forGitHub/de_DE/index.html
+1562152976|vswee|A|/forGitHub/el_GR/index.html
+1562152976|vswee|A|/forGitHub/en_GB/index.html
+1562152976|vswee|A|/forGitHub/es_ES/index.html
+1562152976|vswee|A|/forGitHub/fi_FI/index.html
+1562152976|vswee|A|/forGitHub/fr_FR/index.html
+1562152976|vswee|A|/forGitHub/he/index.html
+1562152976|vswee|A|/forGitHub/hi/index.html
+1562152976|vswee|A|/forGitHub/hr/index.html
+1562152976|vswee|A|/forGitHub/index.html
+1562152976|vswee|A|/forGitHub/it_IT/index.html
+1562152976|vswee|A|/forGitHub/ja_JP/index.html
+1562152976|vswee|A|/forGitHub/ko/index.html
+1562152976|vswee|A|/forGitHub/nl_NL/index.html
+1562152976|vswee|A|/forGitHub/pt_BR/index.html
+1562152976|vswee|A|/forGitHub/pt_PT/index.html
+1562152976|vswee|A|/forGitHub/ru_RU/index.html
+1562152976|vswee|A|/forGitHub/sk_SK/index.html
+1562152976|vswee|A|/forGitHub/sl_SI/index.html
+1562152976|vswee|A|/forGitHub/sr/index.html
+1562152976|vswee|A|/forGitHub/tr/index.html
+1562152976|vswee|A|/forGitHub/zh-Hans/index.html
+1562153654|vswee|M|/am_ET/index.html
+1562153654|vswee|M|/ar/index.html
+1562153654|vswee|M|/bg/index.html
+1562153654|vswee|M|/bs_BA/index.html
+1562153654|vswee|M|/ca_ES/index.html
+1562153654|vswee|M|/da_DK/index.html
+1562153654|vswee|M|/de_DE/index.html
+1562153654|vswee|M|/el_GR/index.html
+1562153654|vswee|M|/es_ES/index.html
+1562153654|vswee|M|/fi_FI/index.html
+1562153654|vswee|M|/fr_FR/index.html
+1562153654|vswee|M|/he/index.html
+1562153654|vswee|M|/hi/index.html
+1562153654|vswee|M|/hr/index.html
+1562153654|vswee|M|/index.html
+1562153654|vswee|M|/it_IT/index.html
+1562153654|vswee|M|/ja_JP/index.html
+1562153654|vswee|M|/ko/index.html
+1562153654|vswee|M|/nl_NL/index.html
+1562153654|vswee|M|/pt_BR/index.html
+1562153654|vswee|M|/pt_PT/index.html
+1562153654|vswee|M|/ru_RU/index.html
+1562153654|vswee|M|/sk_SK/index.html
+1562153654|vswee|M|/sl_SI/index.html
+1562153654|vswee|M|/sr/index.html
+1562153654|vswee|M|/tr/index.html
+1562153654|vswee|M|/zh-Hans/index.html
+1562153692|vswee|D|/forGitHub/am_ET/index.html
+1562153706|vswee|D|/forGitHub/ar/index.html
+1562153717|vswee|D|/forGitHub/bg/index.html
+1562153729|vswee|D|/forGitHub/bs_BA/index.html
+1562153739|vswee|D|/forGitHub/ca_ES/index.html
+1562153749|vswee|D|/forGitHub/da_DK/index.html
+1562153760|vswee|D|/forGitHub/de_DE/index.html
+1562153770|vswee|D|/forGitHub/el_GR/index.html
+1562153780|vswee|D|/forGitHub/en_GB/index.html
+1562153791|vswee|D|/forGitHub/es_ES/index.html
+1562153802|vswee|D|/forGitHub/fi_FI/index.html
+1562153812|vswee|D|/forGitHub/fr_FR/index.html
+1562153821|vswee|D|/forGitHub/he/index.html
+1562153832|vswee|D|/forGitHub/hi/index.html
+1562153842|vswee|D|/forGitHub/hr/index.html
+1562153851|vswee|D|/forGitHub/it_IT/index.html
+1562153865|vswee|D|/forGitHub/ja_JP/index.html
+1562153875|vswee|D|/forGitHub/ko/index.html
+1562153888|vswee|D|/forGitHub/nl_NL/index.html
+1562153899|vswee|D|/forGitHub/pt_BR/index.html
+1562153909|vswee|D|/forGitHub/pt_PT/index.html
+1562153920|vswee|D|/forGitHub/ru_RU/index.html
+1562153930|vswee|D|/forGitHub/sk_SK/index.html
+1562153940|vswee|D|/forGitHub/sl_SI/index.html
+1562153951|vswee|D|/forGitHub/sr/index.html
+1562153961|vswee|D|/forGitHub/tr/index.html
+1562153970|vswee|D|/forGitHub/zh-Hans/index.html
+1562153978|vswee|D|/forGitHub/index.html
+1562281103|vswee|A|/video/602.mp4
+1562281634|vswee|A|/video/602.webm
+1562281777|vswee|A|/video/602.m4v
+1562301888|vswee|A|/img/clip602.gif
+1562301944|vswee|A|/video/en.vtt
+1562301944|vswee|A|/video/es.vtt
+1562301944|vswee|A|/video/fr.vtt
+1562302706|vswee|M|/am_ET/index.html
+1562302706|vswee|M|/ar/index.html
+1562302706|vswee|M|/bg/index.html
+1562302706|vswee|M|/bs_BA/index.html
+1562302706|vswee|M|/ca_ES/index.html
+1562302706|vswee|M|/da_DK/index.html
+1562302706|vswee|M|/de_DE/index.html
+1562302706|vswee|M|/el_GR/index.html
+1562302706|vswee|M|/es_ES/index.html
+1562302706|vswee|M|/fi_FI/index.html
+1562302706|vswee|M|/fr_FR/index.html
+1562302706|vswee|M|/he/index.html
+1562302706|vswee|M|/hi/index.html
+1562302706|vswee|M|/hr/index.html
+1562302706|vswee|M|/index.html
+1562302706|vswee|M|/it_IT/index.html
+1562302706|vswee|M|/ja_JP/index.html
+1562302706|vswee|M|/ko/index.html
+1562302706|vswee|M|/nl_NL/index.html
+1562302706|vswee|M|/pt_BR/index.html
+1562302706|vswee|M|/pt_PT/index.html
+1562302706|vswee|M|/ru_RU/index.html
+1562302706|vswee|M|/sk_SK/index.html
+1562302706|vswee|M|/sl_SI/index.html
+1562302706|vswee|M|/sr/index.html
+1562302706|vswee|M|/tr/index.html
+1562302706|vswee|M|/zh-Hans/index.html
+1562335510|vswee|M|/am_ET/index.html
+1562335510|vswee|M|/ar/index.html
+1562335510|vswee|M|/bg/index.html
+1562335510|vswee|M|/bs_BA/index.html
+1562335510|vswee|M|/ca_ES/index.html
+1562335510|vswee|M|/da_DK/index.html
+1562335510|vswee|M|/de_DE/index.html
+1562335510|vswee|M|/el_GR/index.html
+1562335510|vswee|M|/es_ES/index.html
+1562335510|vswee|M|/fi_FI/index.html
+1562335510|vswee|M|/fr_FR/index.html
+1562335510|vswee|M|/he/index.html
+1562335510|vswee|M|/hi/index.html
+1562335510|vswee|M|/hr/index.html
+1562335510|vswee|M|/index.html
+1562335510|vswee|M|/it_IT/index.html
+1562335510|vswee|M|/ja_JP/index.html
+1562335510|vswee|M|/ko/index.html
+1562335510|vswee|M|/nl_NL/index.html
+1562335510|vswee|M|/pt_BR/index.html
+1562335510|vswee|M|/pt_PT/index.html
+1562335510|vswee|M|/ru_RU/index.html
+1562335510|vswee|M|/sk_SK/index.html
+1562335510|vswee|M|/sl_SI/index.html
+1562335510|vswee|M|/sr/index.html
+1562335510|vswee|M|/tr/index.html
+1562335510|vswee|M|/zh-Hans/index.html
+1562336122|vswee|M|/img/vidph.svg
+1562616516|vswee|M|/am_ET/index.html
+1562616516|vswee|M|/ar/index.html
+1562616516|vswee|M|/bg/index.html
+1562616516|vswee|M|/bs_BA/index.html
+1562616516|vswee|M|/ca_ES/index.html
+1562616516|vswee|M|/da_DK/index.html
+1562616516|vswee|M|/de_DE/index.html
+1562616516|vswee|M|/el_GR/index.html
+1562616516|vswee|M|/es_ES/index.html
+1562616516|vswee|M|/fi_FI/index.html
+1562616516|vswee|M|/fr_FR/index.html
+1562616516|vswee|M|/he/index.html
+1562616516|vswee|M|/hi/index.html
+1562616516|vswee|M|/hr/index.html
+1562616516|vswee|M|/index.html
+1562616516|vswee|M|/it_IT/index.html
+1562616516|vswee|M|/ja_JP/index.html
+1562616516|vswee|M|/ko/index.html
+1562616516|vswee|M|/nl_NL/index.html
+1562616516|vswee|M|/pt_BR/index.html
+1562616516|vswee|M|/pt_PT/index.html
+1562616516|vswee|M|/ru_RU/index.html
+1562616516|vswee|M|/sk_SK/index.html
+1562616516|vswee|M|/sl_SI/index.html
+1562616516|vswee|M|/sr/index.html
+1562616516|vswee|M|/tr/index.html
+1562616516|vswee|A|/video/ar.vtt
+1562616516|vswee|A|/video/da.vtt
+1562616516|vswee|M|/video/en.vtt
+1562616516|vswee|A|/video/fa.vtt
+1562616516|vswee|M|/video/fr.vtt
+1562616516|vswee|A|/video/he.vtt
+1562616516|vswee|A|/video/it.vtt
+1562616516|vswee|A|/video/pt.vtt
+1562616516|vswee|M|/zh-Hans/index.html
+1563653447|vswee|M|/am_ET/index.html
+1563653447|vswee|M|/ar/index.html
+1563653447|vswee|M|/bg/index.html
+1563653447|vswee|M|/bs_BA/index.html
+1563653447|vswee|M|/de_DE/index.html
+1563653447|vswee|M|/es_ES/index.html
+1563653447|vswee|M|/fr_FR/index.html
+1563653447|vswee|M|/he/index.html
+1563653447|vswee|M|/hr/index.html
+1563653447|vswee|M|/index.html
+1563653447|vswee|M|/ja_JP/index.html
+1563653447|vswee|M|/nl_NL/index.html
+1563653447|vswee|M|/pt_BR/index.html
+1563653447|vswee|M|/ru_RU/index.html
+1563653447|vswee|M|/sk_SK/index.html
+1563653447|vswee|M|/sl_SI/index.html
+1563653447|vswee|M|/zh-Hans/index.html
+1563653502|vswee|A|/video/ja.vtt
+1563653797|vswee|D|/en_GB/index.html
+1563654191|vswee|M|/ca_ES/index.html
+1563654191|vswee|M|/da_DK/index.html
+1563654191|vswee|M|/el_GR/index.html
+1563654191|vswee|M|/fi_FI/index.html
+1563654191|vswee|M|/hi/index.html
+1563654191|vswee|M|/it_IT/index.html
+1563654191|vswee|M|/ko/index.html
+1563654191|vswee|M|/pt_PT/index.html
+1563654191|vswee|M|/sr/index.html
+1563654191|vswee|M|/tr/index.html
+1563824269|vswee|A|/fonts/Open_Sans/LICENSE.txt
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-Bold.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-BoldItalic.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-ExtraBold.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-Italic.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-LightItalic.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-Regular.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-SemiBold.ttf
+1563824269|vswee|A|/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf
+1563824269|vswee|A|/fonts/Open_Sans/Open_Sans_Regular.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1563824269|vswee|A|/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1563972980|vswee|A|/source/template.html
+1563980582|vswee|A|/source/css/styles.css
+1563980719|vswee|A|/source/js/scripts.js
+1564577471|vswee|A|/source/transifex-master/en.json
+1564577928|vswee|M|/source/template.html
+1564715865|badev|M|/source/css/styles.css
+1565360548|vswee|D|/source/transifex-master/en.json
+1565392010|vswee|D|/source/template.html
+1565392040|vswee|D|/source/js/scripts.js
+1565392307|vswee|A|/source/src/css/fa_.min.css
+1565392307|vswee|A|/source/src/css/styles.css
+1565392307|vswee|A|/source/src/fonts/Open_Sans/Open_Sans_Regular.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1565392307|vswee|A|/source/src/fonts/Roboto_Slab/LICENSE.txt
+1565392307|vswee|A|/source/src/fonts/Roboto_Slab/RobotoSlab-Bold.ttf
+1565392307|vswee|A|/source/src/fonts/Roboto_Slab/RobotoSlab-Light.ttf
+1565392307|vswee|A|/source/src/fonts/Roboto_Slab/RobotoSlab-Regular.ttf
+1565392307|vswee|A|/source/src/fonts/Roboto_Slab/RobotoSlab-Thin.ttf
+1565392307|vswee|A|/source/src/fonts/fa_/LICENSE.txt
+1565392307|vswee|A|/source/src/fonts/fa_/fa-brands-400.eot
+1565392307|vswee|A|/source/src/fonts/fa_/fa-brands-400.svg
+1565392307|vswee|A|/source/src/fonts/fa_/fa-brands-400.ttf
+1565392307|vswee|A|/source/src/fonts/fa_/fa-brands-400.woff
+1565392307|vswee|A|/source/src/fonts/fa_/fa-brands-400.woff2
+1565392307|vswee|A|/source/src/fonts/fa_/fa-regular-400.eot
+1565392307|vswee|A|/source/src/fonts/fa_/fa-regular-400.svg
+1565392307|vswee|A|/source/src/fonts/fa_/fa-regular-400.ttf
+1565392307|vswee|A|/source/src/fonts/fa_/fa-regular-400.woff
+1565392307|vswee|A|/source/src/fonts/fa_/fa-regular-400.woff2
+1565392307|vswee|A|/source/src/fonts/fa_/fa-solid-900.eot
+1565392307|vswee|A|/source/src/fonts/fa_/fa-solid-900.svg
+1565392307|vswee|A|/source/src/fonts/fa_/fa-solid-900.ttf
+1565392307|vswee|A|/source/src/fonts/fa_/fa-solid-900.woff
+1565392307|vswee|A|/source/src/fonts/fa_/fa-solid-900.woff2
+1565392307|vswee|A|/source/src/html/tmpl.html
+1565392307|vswee|A|/source/src/img/bg0003.svg
+1565392307|vswee|A|/source/src/img/btcpayserver_banner-02-04-exp-10-01.svg
+1565392307|vswee|A|/source/src/img/clip602.gif
+1565392307|vswee|A|/source/src/img/community5.png
+1565392307|vswee|A|/source/src/img/demo2-01.png
+1565392307|vswee|A|/source/src/img/docs2-01.png
+1565392307|vswee|A|/source/src/img/dots.svg
+1565392307|vswee|A|/source/src/img/favicon.png
+1565392307|vswee|A|/source/src/img/git-01.png
+1565392307|vswee|A|/source/src/img/pay-2.png
+1565392307|vswee|A|/source/src/img/vidph.svg
+1565392307|vswee|A|/source/src/js/scripts.js
+1565392307|vswee|A|/source/src/vtt/video_tmpl.vtt
+1565404594|vswee|A|/source/transifex-master/en.json
+1565404657|vswee|D|/source/css/styles.css
+1565407187|vswee|A|/source/src/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1565443773|vswee|A|/source/src/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1565581399|vswee|A|/source/README.md
+1565581698|vswee|M|/source/README.md
+1565709830|Pavle|M|/source/src/html/tmpl.html
+1565800091|vswee|M|/am_ET/index.html
+1565800091|vswee|M|/ar/index.html
+1565800091|vswee|M|/bg/index.html
+1565800091|vswee|M|/bs_BA/index.html
+1565800091|vswee|M|/ca_ES/index.html
+1565800091|vswee|M|/da_DK/index.html
+1565800091|vswee|M|/de_DE/index.html
+1565800091|vswee|M|/el_GR/index.html
+1565800091|vswee|M|/es_ES/index.html
+1565800091|vswee|A|/fa/index.html
+1565800091|vswee|M|/fi_FI/index.html
+1565800091|vswee|M|/he/index.html
+1565800091|vswee|M|/hi/index.html
+1565800091|vswee|M|/hr/index.html
+1565800091|vswee|M|/index.html
+1565800091|vswee|M|/it_IT/index.html
+1565800091|vswee|M|/ja_JP/index.html
+1565800091|vswee|M|/ko/index.html
+1565800091|vswee|M|/nl_NL/index.html
+1565800091|vswee|M|/pt_BR/index.html
+1565800091|vswee|M|/pt_PT/index.html
+1565800091|vswee|M|/ru_RU/index.html
+1565800091|vswee|M|/sk_SK/index.html
+1565800091|vswee|M|/sl_SI/index.html
+1565800091|vswee|M|/sr/index.html
+1565800091|vswee|M|/tr/index.html
+1565800091|vswee|A|/uk/index.html
+1565800091|vswee|M|/zh-Hans/index.html
+1565800379|vswee|A|/vtt/ar.vtt
+1565800379|vswee|A|/vtt/da_DK.vtt
+1565800379|vswee|A|/vtt/en.vtt
+1565800379|vswee|A|/vtt/fa.vtt
+1565800379|vswee|A|/vtt/fr_FR.vtt
+1565800379|vswee|A|/vtt/he.vtt
+1565800379|vswee|A|/vtt/it_IT.vtt
+1565800379|vswee|A|/vtt/ja_JP.vtt
+1565800379|vswee|A|/vtt/pt_BR.vtt
+1565800379|vswee|A|/vtt/ru_RU.vtt
+1565800701|vswee|A|/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1565965005|vswee|M|/vtt/fa.vtt
+1566490830|vswee|A|/video/sk.vtt
+1566490850|vswee|D|/video/sk.vtt
+1566490889|vswee|A|/vtt/sk_SK.vtt
+1566930646|vswee|M|/source/transifex-master/en.json
+1568816593|vswee|M|/am_ET/index.html
+1568816593|vswee|M|/ar/index.html
+1568816593|vswee|M|/bg/index.html
+1568816593|vswee|M|/bs_BA/index.html
+1568816593|vswee|M|/ca_ES/index.html
+1568816593|vswee|M|/da_DK/index.html
+1568816593|vswee|M|/de_DE/index.html
+1568816593|vswee|M|/el_GR/index.html
+1568816593|vswee|M|/es_ES/index.html
+1568816593|vswee|M|/fa/index.html
+1568816593|vswee|M|/fi_FI/index.html
+1568816593|vswee|D|/fonts/Open_Sans/LICENSE.txt
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-Bold.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-BoldItalic.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-ExtraBold.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-Italic.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-LightItalic.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-Regular.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-SemiBold.ttf
+1568816593|vswee|D|/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf
+1568816593|vswee|M|/fonts/Open_Sans/Open_Sans_Regular.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1568816593|vswee|M|/fonts/Roboto_Slab/LICENSE.txt
+1568816593|vswee|M|/fonts/Roboto_Slab/RobotoSlab-Bold.ttf
+1568816593|vswee|M|/fonts/Roboto_Slab/RobotoSlab-Light.ttf
+1568816593|vswee|M|/fonts/Roboto_Slab/RobotoSlab-Regular.ttf
+1568816593|vswee|M|/fonts/Roboto_Slab/RobotoSlab-Thin.ttf
+1568816593|vswee|M|/fonts/fa_/LICENSE.txt
+1568816593|vswee|M|/fonts/fa_/fa-brands-400.eot
+1568816593|vswee|M|/fonts/fa_/fa-brands-400.svg
+1568816593|vswee|M|/fonts/fa_/fa-brands-400.ttf
+1568816593|vswee|M|/fonts/fa_/fa-brands-400.woff
+1568816593|vswee|M|/fonts/fa_/fa-brands-400.woff2
+1568816593|vswee|M|/fonts/fa_/fa-regular-400.eot
+1568816593|vswee|M|/fonts/fa_/fa-regular-400.svg
+1568816593|vswee|M|/fonts/fa_/fa-regular-400.ttf
+1568816593|vswee|M|/fonts/fa_/fa-regular-400.woff
+1568816593|vswee|M|/fonts/fa_/fa-regular-400.woff2
+1568816593|vswee|M|/fonts/fa_/fa-solid-900.eot
+1568816593|vswee|M|/fonts/fa_/fa-solid-900.svg
+1568816593|vswee|M|/fonts/fa_/fa-solid-900.ttf
+1568816593|vswee|M|/fonts/fa_/fa-solid-900.woff
+1568816593|vswee|M|/fonts/fa_/fa-solid-900.woff2
+1568816593|vswee|D|/fonts/fa_/fa_.min.css
+1568816593|vswee|M|/fr_FR/index.html
+1568816593|vswee|M|/hi/index.html
+1568816593|vswee|M|/hr/index.html
+1568816593|vswee|A|/img/banner-dark.svg
+1568816593|vswee|A|/img/bg0003-dark.svg
+1568816593|vswee|M|/img/bg0003.svg
+1568816593|vswee|M|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1568816593|vswee|A|/img/btcpayserver_banner-rtl-dark.svg
+1568816593|vswee|M|/img/clip602.gif
+1568816593|vswee|A|/img/community-dark.png
+1568816593|vswee|A|/img/community.png
+1568816593|vswee|M|/img/community5.png
+1568816593|vswee|M|/img/demo2-01.png
+1568816593|vswee|M|/img/docs2-01.png
+1568816593|vswee|A|/img/dots.svg
+1568816593|vswee|A|/img/favicon.png
+1568816593|vswee|M|/img/git-01.png
+1568816593|vswee|M|/img/pay-2.png
+1568816593|vswee|A|/img/vidph-dark.svg
+1568816593|vswee|M|/img/vidph.svg
+1568816593|vswee|M|/index.html
+1568816593|vswee|M|/it_IT/index.html
+1568816593|vswee|M|/ja_JP/index.html
+1568816593|vswee|M|/ko/index.html
+1568816593|vswee|M|/nl_NL/index.html
+1568816593|vswee|M|/pt_BR/index.html
+1568816593|vswee|M|/pt_PT/index.html
+1568816593|vswee|M|/ru_RU/index.html
+1568816593|vswee|M|/sk_SK/index.html
+1568816593|vswee|M|/sl_SI/index.html
+1568816593|vswee|M|/sr/index.html
+1568816593|vswee|M|/tr/index.html
+1568816593|vswee|M|/uk/index.html
+1568816593|vswee|M|/zh-Hans/index.html
+1568954846|vswee|M|/source/transifex-master/en.json
+1568954846|vswee|A|/source/transifex-master/video_en.json
+1569930348|Riccardo Masutti|M|/index.html
+1570331703|vswee|A|/source/src/json/donations.json
+1570348074|BitcoinShirt|M|/source/src/json/donations.json
+1570398119|vswee|A|/source/src/css/page-styles.css
+1570398119|vswee|A|/source/src/html/donate/tmpl.html
+1570398119|vswee|D|/source/src/img/bg0003.svg
+1570398119|vswee|D|/source/src/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1570398119|vswee|D|/source/src/img/btcpayserver_banner-02-04-exp-10-01.svg
+1570398119|vswee|M|/source/src/img/favicon.png
+1570398119|vswee|M|/source/src/json/donations.json
+1570400662|vswee|A|/am_ET/donate/index.html
+1570400662|vswee|M|/am_ET/index.html
+1570400662|vswee|A|/ar/donate/index.html
+1570400662|vswee|M|/ar/index.html
+1570400662|vswee|A|/bs_BA/donate/index.html
+1570400662|vswee|M|/bs_BA/index.html
+1570400662|vswee|A|/ca_ES/donate/index.html
+1570400662|vswee|M|/ca_ES/index.html
+1570400662|vswee|A|/da_DK/donate/index.html
+1570400662|vswee|M|/da_DK/index.html
+1570400662|vswee|A|/donate/index.html
+1570400662|vswee|A|/fa/donate/index.html
+1570400662|vswee|M|/fa/index.html
+1570400662|vswee|A|/fr_FR/donate/index.html
+1570400662|vswee|M|/fr_FR/index.html
+1570400662|vswee|A|/he/donate/index.html
+1570400662|vswee|M|/he/index.html
+1570400662|vswee|A|/hi/donate/index.html
+1570400662|vswee|M|/hi/index.html
+1570400662|vswee|A|/hr/donate/index.html
+1570400662|vswee|M|/hr/index.html
+1570400662|vswee|A|/img/btcpay-min-01.svg
+1570400662|vswee|M|/index.html
+1570400662|vswee|A|/it_IT/donate/index.html
+1570400662|vswee|M|/it_IT/index.html
+1570400662|vswee|A|/ja_JP/donate/index.html
+1570400662|vswee|M|/ja_JP/index.html
+1570400662|vswee|A|/ko/donate/index.html
+1570400662|vswee|M|/ko/index.html
+1570400662|vswee|A|/pt_BR/donate/index.html
+1570400662|vswee|M|/pt_BR/index.html
+1570400662|vswee|A|/pt_PT/donate/index.html
+1570400662|vswee|M|/pt_PT/index.html
+1570400662|vswee|A|/ru_RU/donate/index.html
+1570400662|vswee|M|/ru_RU/index.html
+1570400662|vswee|A|/sk_SK/donate/index.html
+1570400662|vswee|M|/sk_SK/index.html
+1570400662|vswee|A|/sl_SI/donate/index.html
+1570400662|vswee|M|/sl_SI/index.html
+1570400662|vswee|M|/source/src/css/page-styles.css
+1570400662|vswee|M|/source/transifex-master/en.json
+1570400662|vswee|A|/sr/donate/index.html
+1570400662|vswee|M|/sr/index.html
+1570400662|vswee|A|/sv/donate/index.html
+1570400662|vswee|A|/sv/index.html
+1570400662|vswee|A|/tr/donate/index.html
+1570400662|vswee|M|/tr/index.html
+1570400662|vswee|A|/uk/donate/index.html
+1570400662|vswee|M|/uk/index.html
+1570400662|vswee|D|/vtt/ar.vtt
+1570400662|vswee|D|/vtt/da_DK.vtt
+1570400662|vswee|M|/vtt/en.vtt
+1570400662|vswee|M|/vtt/fa.vtt
+1570400662|vswee|M|/vtt/fr_FR.vtt
+1570400662|vswee|D|/vtt/he.vtt
+1570400662|vswee|M|/vtt/it_IT.vtt
+1570400662|vswee|D|/vtt/pt_BR.vtt
+1570400662|vswee|D|/vtt/ru_RU.vtt
+1570400662|vswee|D|/vtt/sk_SK.vtt
+1570400662|vswee|A|/vtt/sr.vtt
+1570400662|vswee|A|/vtt/sv.vtt
+1570400662|vswee|A|/zh-Hans/donate/index.html
+1570400662|vswee|M|/zh-Hans/index.html
+1570447839|BitcoinShirt|M|/source/src/html/donate/tmpl.html
+1570449421|BitcoinShirt|M|/README.md
+1570553882|vswee|M|/source/src/html/donate/tmpl.html
+1570553882|vswee|M|/source/transifex-master/en.json
+1570554322|vswee|M|/source/README.md
+1570554995|vswee|M|/README.md
+1570557227|Riccardo Masutti|M|/source/src/html/tmpl.html
+1570569178|vswee|M|/source/src/html/tmpl.html
+1570587057|vswee|M|/am_ET/donate/index.html
+1570587057|vswee|M|/am_ET/index.html
+1570587057|vswee|M|/ar/donate/index.html
+1570587057|vswee|M|/ar/index.html
+1570587057|vswee|A|/bg/donate/index.html
+1570587057|vswee|M|/bg/index.html
+1570587057|vswee|M|/bs_BA/donate/index.html
+1570587057|vswee|M|/bs_BA/index.html
+1570587057|vswee|M|/ca_ES/donate/index.html
+1570587057|vswee|M|/ca_ES/index.html
+1570587057|vswee|M|/da_DK/donate/index.html
+1570587057|vswee|M|/da_DK/index.html
+1570587057|vswee|A|/de_DE/donate/index.html
+1570587057|vswee|M|/de_DE/index.html
+1570587057|vswee|M|/donate/index.html
+1570587057|vswee|A|/el_GR/donate/index.html
+1570587057|vswee|M|/el_GR/index.html
+1570587057|vswee|A|/es_ES/donate/index.html
+1570587057|vswee|M|/es_ES/index.html
+1570587057|vswee|M|/fa/donate/index.html
+1570587057|vswee|M|/fa/index.html
+1570587057|vswee|A|/fi_FI/donate/index.html
+1570587057|vswee|M|/fi_FI/index.html
+1570587057|vswee|M|/fr_FR/donate/index.html
+1570587057|vswee|M|/fr_FR/index.html
+1570587057|vswee|M|/he/donate/index.html
+1570587057|vswee|M|/he/index.html
+1570587057|vswee|M|/hi/donate/index.html
+1570587057|vswee|M|/hi/index.html
+1570587057|vswee|M|/hr/donate/index.html
+1570587057|vswee|M|/hr/index.html
+1570587057|vswee|M|/index.html
+1570587057|vswee|M|/it_IT/donate/index.html
+1570587057|vswee|M|/it_IT/index.html
+1570587057|vswee|M|/ja_JP/donate/index.html
+1570587057|vswee|M|/ja_JP/index.html
+1570587057|vswee|M|/ko/donate/index.html
+1570587057|vswee|M|/ko/index.html
+1570587057|vswee|A|/nl_NL/donate/index.html
+1570587057|vswee|M|/nl_NL/index.html
+1570587057|vswee|M|/pt_BR/donate/index.html
+1570587057|vswee|M|/pt_BR/index.html
+1570587057|vswee|M|/pt_PT/donate/index.html
+1570587057|vswee|M|/pt_PT/index.html
+1570587057|vswee|M|/ru_RU/donate/index.html
+1570587057|vswee|M|/ru_RU/index.html
+1570587057|vswee|M|/sk_SK/donate/index.html
+1570587057|vswee|M|/sk_SK/index.html
+1570587057|vswee|M|/sl_SI/donate/index.html
+1570587057|vswee|M|/sl_SI/index.html
+1570587057|vswee|M|/sr/donate/index.html
+1570587057|vswee|M|/sr/index.html
+1570587057|vswee|M|/sv/donate/index.html
+1570587057|vswee|M|/sv/index.html
+1570587057|vswee|M|/tr/donate/index.html
+1570587057|vswee|M|/tr/index.html
+1570587057|vswee|M|/uk/donate/index.html
+1570587057|vswee|M|/uk/index.html
+1570587057|vswee|A|/vtt/ar.vtt
+1570587057|vswee|A|/vtt/da_DK.vtt
+1570587057|vswee|A|/vtt/he.vtt
+1570587057|vswee|A|/vtt/pt_BR.vtt
+1570587057|vswee|A|/vtt/ru_RU.vtt
+1570587057|vswee|A|/vtt/sk_SK.vtt
+1570587057|vswee|M|/zh-Hans/donate/index.html
+1570587057|vswee|M|/zh-Hans/index.html
+1570639627|vswee|M|/source/src/html/donate/tmpl.html
+1570639799|vswee|M|/am_ET/donate/index.html
+1570639799|vswee|M|/ar/donate/index.html
+1570639799|vswee|M|/bg/donate/index.html
+1570639799|vswee|M|/bs_BA/donate/index.html
+1570639799|vswee|M|/ca_ES/donate/index.html
+1570639799|vswee|M|/da_DK/donate/index.html
+1570639799|vswee|M|/de_DE/donate/index.html
+1570639799|vswee|M|/donate/index.html
+1570639799|vswee|M|/el_GR/donate/index.html
+1570639799|vswee|M|/es_ES/donate/index.html
+1570639799|vswee|M|/fa/donate/index.html
+1570639799|vswee|M|/fi_FI/donate/index.html
+1570639799|vswee|M|/fr_FR/donate/index.html
+1570639799|vswee|M|/he/donate/index.html
+1570639799|vswee|M|/hi/donate/index.html
+1570639799|vswee|M|/hr/donate/index.html
+1570639799|vswee|M|/it_IT/donate/index.html
+1570639799|vswee|M|/ja_JP/donate/index.html
+1570639799|vswee|M|/ko/donate/index.html
+1570639799|vswee|M|/nl_NL/donate/index.html
+1570639799|vswee|M|/pt_BR/donate/index.html
+1570639799|vswee|M|/pt_PT/donate/index.html
+1570639799|vswee|M|/ru_RU/donate/index.html
+1570639799|vswee|M|/sk_SK/donate/index.html
+1570639799|vswee|M|/sl_SI/donate/index.html
+1570639799|vswee|M|/sr/donate/index.html
+1570639799|vswee|M|/sv/donate/index.html
+1570639799|vswee|M|/tr/donate/index.html
+1570639799|vswee|M|/uk/donate/index.html
+1570639799|vswee|M|/zh-Hans/donate/index.html
+1570820567|Z|M|/index.html
+1570821128|melanisticmanticore|M|/source/src/html/tmpl.html
+1570822031|Dennis Reimann|M|/source/src/html/tmpl.html
+1570823721|Dennis Reimann|M|/source/src/css/page-styles.css
+1570823721|Dennis Reimann|M|/source/src/css/styles.css
+1570847205|vswee|M|/source/src/css/styles.css
+1570847205|vswee|D|/source/src/img/favicon.png
+1570847335|vswee|D|/img/banner-dark.svg
+1570847335|vswee|D|/img/bg0003-dark.svg
+1570847335|vswee|D|/img/bg0003.svg
+1570847335|vswee|D|/img/btcpay-min-01.svg
+1570847335|vswee|D|/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1570847335|vswee|D|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1570847335|vswee|D|/img/btcpayserver_banner-rtl-dark.svg
+1570847335|vswee|D|/img/clip602.gif
+1570847335|vswee|D|/img/community-dark.png
+1570847335|vswee|D|/img/community.png
+1570847335|vswee|D|/img/community5.png
+1570847335|vswee|D|/img/demo2-01.png
+1570847335|vswee|D|/img/docs2-01.png
+1570847335|vswee|D|/img/dots.svg
+1570847335|vswee|D|/img/favicon.png
+1570847335|vswee|D|/img/git-01.png
+1570847335|vswee|D|/img/pay-2.png
+1570847335|vswee|D|/img/vidph-dark.svg
+1570847335|vswee|D|/img/vidph.svg
+1570847335|vswee|A|/source/src/img/favicon.png
+1570847390|vswee|M|/am_ET/donate/index.html
+1570847390|vswee|M|/am_ET/index.html
+1570847390|vswee|M|/ar/donate/index.html
+1570847390|vswee|M|/ar/index.html
+1570847390|vswee|M|/bg/donate/index.html
+1570847390|vswee|M|/bg/index.html
+1570847390|vswee|M|/bs_BA/donate/index.html
+1570847390|vswee|M|/bs_BA/index.html
+1570847390|vswee|M|/ca_ES/donate/index.html
+1570847390|vswee|M|/ca_ES/index.html
+1570847390|vswee|M|/da_DK/donate/index.html
+1570847390|vswee|M|/da_DK/index.html
+1570847390|vswee|M|/de_DE/donate/index.html
+1570847390|vswee|M|/de_DE/index.html
+1570847390|vswee|M|/donate/index.html
+1570847390|vswee|M|/el_GR/donate/index.html
+1570847390|vswee|M|/el_GR/index.html
+1570847390|vswee|M|/es_ES/donate/index.html
+1570847390|vswee|M|/es_ES/index.html
+1570847390|vswee|M|/fa/donate/index.html
+1570847390|vswee|M|/fa/index.html
+1570847390|vswee|M|/fi_FI/donate/index.html
+1570847390|vswee|M|/fi_FI/index.html
+1570847390|vswee|M|/fr_FR/donate/index.html
+1570847390|vswee|M|/fr_FR/index.html
+1570847390|vswee|M|/he/donate/index.html
+1570847390|vswee|M|/he/index.html
+1570847390|vswee|M|/hi/donate/index.html
+1570847390|vswee|M|/hi/index.html
+1570847390|vswee|M|/hr/donate/index.html
+1570847390|vswee|M|/hr/index.html
+1570847390|vswee|A|/img/banner-dark.svg
+1570847390|vswee|A|/img/bg0003-dark.svg
+1570847390|vswee|A|/img/bg0003.svg
+1570847390|vswee|A|/img/btcpay-min-01.svg
+1570847390|vswee|A|/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1570847390|vswee|A|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1570847390|vswee|A|/img/btcpayserver_banner-rtl-dark.svg
+1570847390|vswee|A|/img/clip602.gif
+1570847390|vswee|A|/img/community-dark.png
+1570847390|vswee|A|/img/community.png
+1570847390|vswee|A|/img/community5.png
+1570847390|vswee|A|/img/demo2-01.png
+1570847390|vswee|A|/img/docs2-01.png
+1570847390|vswee|A|/img/dots.svg
+1570847390|vswee|A|/img/favicon.png
+1570847390|vswee|A|/img/git-01.png
+1570847390|vswee|A|/img/pay-2.png
+1570847390|vswee|A|/img/vidph-dark.svg
+1570847390|vswee|A|/img/vidph.svg
+1570847390|vswee|M|/index.html
+1570847390|vswee|M|/it_IT/donate/index.html
+1570847390|vswee|M|/it_IT/index.html
+1570847390|vswee|M|/ja_JP/donate/index.html
+1570847390|vswee|M|/ja_JP/index.html
+1570847390|vswee|M|/ko/donate/index.html
+1570847390|vswee|M|/ko/index.html
+1570847390|vswee|M|/nl_NL/donate/index.html
+1570847390|vswee|M|/nl_NL/index.html
+1570847390|vswee|M|/pt_BR/donate/index.html
+1570847390|vswee|M|/pt_BR/index.html
+1570847390|vswee|M|/pt_PT/donate/index.html
+1570847390|vswee|M|/pt_PT/index.html
+1570847390|vswee|M|/ru_RU/donate/index.html
+1570847390|vswee|M|/ru_RU/index.html
+1570847390|vswee|M|/sk_SK/donate/index.html
+1570847390|vswee|M|/sk_SK/index.html
+1570847390|vswee|M|/sl_SI/donate/index.html
+1570847390|vswee|M|/sl_SI/index.html
+1570847390|vswee|M|/sr/donate/index.html
+1570847390|vswee|M|/sr/index.html
+1570847390|vswee|M|/sv/donate/index.html
+1570847390|vswee|M|/sv/index.html
+1570847390|vswee|M|/tr/donate/index.html
+1570847390|vswee|M|/tr/index.html
+1570847390|vswee|M|/uk/donate/index.html
+1570847390|vswee|M|/uk/index.html
+1570847390|vswee|M|/zh-Hans/donate/index.html
+1570847390|vswee|M|/zh-Hans/index.html
+1570847803|vswee|M|/source/src/css/page-styles.css
+1570848147|vswee|M|/am_ET/donate/index.html
+1570848147|vswee|M|/ar/donate/index.html
+1570848147|vswee|M|/bg/donate/index.html
+1570848147|vswee|M|/bs_BA/donate/index.html
+1570848147|vswee|M|/ca_ES/donate/index.html
+1570848147|vswee|M|/da_DK/donate/index.html
+1570848147|vswee|M|/de_DE/donate/index.html
+1570848147|vswee|M|/donate/index.html
+1570848147|vswee|M|/el_GR/donate/index.html
+1570848147|vswee|M|/es_ES/donate/index.html
+1570848147|vswee|M|/fa/donate/index.html
+1570848147|vswee|M|/favicon.png
+1570848147|vswee|M|/fi_FI/donate/index.html
+1570848147|vswee|M|/fr_FR/donate/index.html
+1570848147|vswee|M|/he/donate/index.html
+1570848147|vswee|M|/hi/donate/index.html
+1570848147|vswee|M|/hr/donate/index.html
+1570848147|vswee|D|/img/banner-dark.svg
+1570848147|vswee|D|/img/bg0003-dark.svg
+1570848147|vswee|D|/img/bg0003.svg
+1570848147|vswee|D|/img/btcpay-min-01.svg
+1570848147|vswee|D|/img/btcpayserver_banner-02-04-exp-10-01-rtl.svg
+1570848147|vswee|D|/img/btcpayserver_banner-02-04-exp-10-01.svg
+1570848147|vswee|D|/img/btcpayserver_banner-rtl-dark.svg
+1570848147|vswee|M|/img/clip602.gif
+1570848147|vswee|D|/img/community-dark.png
+1570848147|vswee|D|/img/community.png
+1570848147|vswee|M|/img/community5.png
+1570848147|vswee|M|/img/demo2-01.png
+1570848147|vswee|M|/img/docs2-01.png
+1570848147|vswee|M|/img/dots.svg
+1570848147|vswee|M|/img/favicon.png
+1570848147|vswee|M|/img/git-01.png
+1570848147|vswee|M|/img/pay-2.png
+1570848147|vswee|D|/img/vidph-dark.svg
+1570848147|vswee|M|/img/vidph.svg
+1570848147|vswee|M|/it_IT/donate/index.html
+1570848147|vswee|M|/ja_JP/donate/index.html
+1570848147|vswee|M|/ko/donate/index.html
+1570848147|vswee|M|/nl_NL/donate/index.html
+1570848147|vswee|M|/pt_BR/donate/index.html
+1570848147|vswee|M|/pt_PT/donate/index.html
+1570848147|vswee|M|/ru_RU/donate/index.html
+1570848147|vswee|M|/sk_SK/donate/index.html
+1570848147|vswee|M|/sl_SI/donate/index.html
+1570848147|vswee|M|/sr/donate/index.html
+1570848147|vswee|M|/sv/donate/index.html
+1570848147|vswee|M|/tr/donate/index.html
+1570848147|vswee|M|/uk/donate/index.html
+1570848147|vswee|M|/zh-Hans/donate/index.html
+1570849194|vswee|M|/source/src/html/donate/tmpl.html
+1570849310|vswee|M|/am_ET/donate/index.html
+1570849310|vswee|M|/ar/donate/index.html
+1570849310|vswee|M|/bg/donate/index.html
+1570849310|vswee|M|/bs_BA/donate/index.html
+1570849310|vswee|M|/ca_ES/donate/index.html
+1570849310|vswee|M|/da_DK/donate/index.html
+1570849310|vswee|M|/de_DE/donate/index.html
+1570849310|vswee|M|/donate/index.html
+1570849310|vswee|M|/el_GR/donate/index.html
+1570849310|vswee|M|/es_ES/donate/index.html
+1570849310|vswee|M|/fa/donate/index.html
+1570849310|vswee|M|/fi_FI/donate/index.html
+1570849310|vswee|M|/fr_FR/donate/index.html
+1570849310|vswee|M|/he/donate/index.html
+1570849310|vswee|M|/hi/donate/index.html
+1570849310|vswee|M|/hr/donate/index.html
+1570849310|vswee|M|/it_IT/donate/index.html
+1570849310|vswee|M|/ja_JP/donate/index.html
+1570849310|vswee|M|/ko/donate/index.html
+1570849310|vswee|M|/nl_NL/donate/index.html
+1570849310|vswee|M|/pt_BR/donate/index.html
+1570849310|vswee|M|/pt_PT/donate/index.html
+1570849310|vswee|M|/ru_RU/donate/index.html
+1570849310|vswee|M|/sk_SK/donate/index.html
+1570849310|vswee|M|/sl_SI/donate/index.html
+1570849310|vswee|M|/sr/donate/index.html
+1570849310|vswee|M|/sv/donate/index.html
+1570849310|vswee|M|/tr/donate/index.html
+1570849310|vswee|M|/uk/donate/index.html
+1570849310|vswee|M|/zh-Hans/donate/index.html
+1571248109|Z|M|/index.html
+1571925412|Riccardo Masutti|M|/source/src/html/tmpl.html
+1571937432|vswee|M|/source/src/html/donate/tmpl.html
+1571937432|vswee|M|/source/src/html/tmpl.html
+1571941163|vswee|M|/source/transifex-master/en.json
+1571943003|vswee|A|/source/src/html/footer-tmpl.html
+1571943003|vswee|M|/source/transifex-master/en.json
+1571943045|vswee|M|/source/src/html/footer-tmpl.html
+1571994452|BitcoinShirt|M|/source/src/html/footer-tmpl.html
+1572010260|vswee|M|/source/src/html/donate/tmpl.html
+1572010260|vswee|M|/source/src/html/footer-tmpl.html
+1572010260|vswee|M|/source/src/html/tmpl.html
+1572010907|vswee|M|/source/src/html/donate/tmpl.html
+1572010907|vswee|M|/source/src/html/tmpl.html
+1572011527|vswee|M|/am_ET/donate/index.html
+1572011527|vswee|M|/am_ET/index.html
+1572011527|vswee|M|/ar/donate/index.html
+1572011527|vswee|M|/ar/index.html
+1572011527|vswee|M|/bg/donate/index.html
+1572011527|vswee|M|/bg/index.html
+1572011527|vswee|M|/bs_BA/donate/index.html
+1572011527|vswee|M|/bs_BA/index.html
+1572011527|vswee|M|/ca_ES/donate/index.html
+1572011527|vswee|M|/ca_ES/index.html
+1572011527|vswee|A|/cs_CZ/donate/index.html
+1572011527|vswee|A|/cs_CZ/index.html
+1572011527|vswee|M|/da_DK/donate/index.html
+1572011527|vswee|M|/da_DK/index.html
+1572011527|vswee|M|/de_DE/donate/index.html
+1572011527|vswee|M|/de_DE/index.html
+1572011527|vswee|M|/donate/index.html
+1572011527|vswee|M|/el_GR/donate/index.html
+1572011527|vswee|M|/el_GR/index.html
+1572011527|vswee|M|/es_ES/donate/index.html
+1572011527|vswee|M|/es_ES/index.html
+1572011527|vswee|M|/fa/donate/index.html
+1572011527|vswee|M|/fa/index.html
+1572011527|vswee|M|/fi_FI/donate/index.html
+1572011527|vswee|M|/fi_FI/index.html
+1572011527|vswee|M|/fr_FR/donate/index.html
+1572011527|vswee|M|/fr_FR/index.html
+1572011527|vswee|M|/he/donate/index.html
+1572011527|vswee|M|/he/index.html
+1572011527|vswee|M|/hi/donate/index.html
+1572011527|vswee|M|/hi/index.html
+1572011527|vswee|M|/hr/donate/index.html
+1572011527|vswee|M|/hr/index.html
+1572011527|vswee|M|/index.html
+1572011527|vswee|M|/it_IT/donate/index.html
+1572011527|vswee|M|/it_IT/index.html
+1572011527|vswee|M|/ja_JP/donate/index.html
+1572011527|vswee|M|/ja_JP/index.html
+1572011527|vswee|M|/ko/donate/index.html
+1572011527|vswee|M|/ko/index.html
+1572011527|vswee|M|/nl_NL/donate/index.html
+1572011527|vswee|M|/nl_NL/index.html
+1572011527|vswee|M|/pt_BR/donate/index.html
+1572011527|vswee|M|/pt_BR/index.html
+1572011527|vswee|M|/pt_PT/donate/index.html
+1572011527|vswee|M|/pt_PT/index.html
+1572011527|vswee|M|/ru_RU/donate/index.html
+1572011527|vswee|M|/ru_RU/index.html
+1572011527|vswee|M|/sk_SK/donate/index.html
+1572011527|vswee|M|/sk_SK/index.html
+1572011527|vswee|M|/sl_SI/donate/index.html
+1572011527|vswee|M|/sl_SI/index.html
+1572011527|vswee|M|/sr/donate/index.html
+1572011527|vswee|M|/sr/index.html
+1572011527|vswee|M|/sv/donate/index.html
+1572011527|vswee|M|/sv/index.html
+1572011527|vswee|M|/tr/donate/index.html
+1572011527|vswee|M|/tr/index.html
+1572011527|vswee|M|/uk/donate/index.html
+1572011527|vswee|M|/uk/index.html
+1572011527|vswee|A|/vtt/cs_CZ.vtt
+1572011527|vswee|M|/zh-Hans/donate/index.html
+1572011527|vswee|M|/zh-Hans/index.html
+1572018193|Z|M|/source/src/html/tmpl.html
+1572018193|Z|M|/source/transifex-master/en.json
+1572264907|vswee|M|/source/src/json/donations.json
+1572264941|vswee|M|/source/src/html/tmpl.html
+1572264962|vswee|D|/source/src/fonts/Roboto_Slab/LICENSE.txt
+1572264962|vswee|D|/source/src/fonts/Roboto_Slab/RobotoSlab-Bold.ttf
+1572264962|vswee|D|/source/src/fonts/Roboto_Slab/RobotoSlab-Light.ttf
+1572264962|vswee|D|/source/src/fonts/Roboto_Slab/RobotoSlab-Regular.ttf
+1572264962|vswee|D|/source/src/fonts/Roboto_Slab/RobotoSlab-Thin.ttf
+1572265039|vswee|M|/source/src/css/styles.css
+1572265130|vswee|M|/am_ET/donate/index.html
+1572265130|vswee|M|/am_ET/index.html
+1572265130|vswee|M|/ar/donate/index.html
+1572265130|vswee|M|/ar/index.html
+1572265130|vswee|M|/bg/donate/index.html
+1572265130|vswee|M|/bg/index.html
+1572265130|vswee|M|/bs_BA/donate/index.html
+1572265130|vswee|M|/bs_BA/index.html
+1572265130|vswee|M|/ca_ES/donate/index.html
+1572265130|vswee|M|/ca_ES/index.html
+1572265130|vswee|M|/cs_CZ/donate/index.html
+1572265130|vswee|M|/cs_CZ/index.html
+1572265130|vswee|M|/da_DK/donate/index.html
+1572265130|vswee|M|/da_DK/index.html
+1572265130|vswee|M|/de_DE/donate/index.html
+1572265130|vswee|M|/de_DE/index.html
+1572265130|vswee|M|/donate/index.html
+1572265130|vswee|M|/el_GR/donate/index.html
+1572265130|vswee|M|/el_GR/index.html
+1572265130|vswee|M|/es_ES/donate/index.html
+1572265130|vswee|M|/es_ES/index.html
+1572265130|vswee|M|/fa/donate/index.html
+1572265130|vswee|M|/fa/index.html
+1572265130|vswee|M|/fi_FI/donate/index.html
+1572265130|vswee|M|/fi_FI/index.html
+1572265130|vswee|D|/fonts/Roboto_Slab/LICENSE.txt
+1572265130|vswee|D|/fonts/Roboto_Slab/RobotoSlab-Bold.ttf
+1572265130|vswee|D|/fonts/Roboto_Slab/RobotoSlab-Light.ttf
+1572265130|vswee|D|/fonts/Roboto_Slab/RobotoSlab-Regular.ttf
+1572265130|vswee|D|/fonts/Roboto_Slab/RobotoSlab-Thin.ttf
+1572265130|vswee|M|/fr_FR/donate/index.html
+1572265130|vswee|M|/fr_FR/index.html
+1572265130|vswee|M|/he/donate/index.html
+1572265130|vswee|M|/he/index.html
+1572265130|vswee|M|/hi/donate/index.html
+1572265130|vswee|M|/hi/index.html
+1572265130|vswee|M|/hr/donate/index.html
+1572265130|vswee|M|/hr/index.html
+1572265130|vswee|M|/index.html
+1572265130|vswee|M|/it_IT/donate/index.html
+1572265130|vswee|M|/it_IT/index.html
+1572265130|vswee|M|/ja_JP/donate/index.html
+1572265130|vswee|M|/ja_JP/index.html
+1572265130|vswee|M|/ko/donate/index.html
+1572265130|vswee|M|/ko/index.html
+1572265130|vswee|M|/nl_NL/donate/index.html
+1572265130|vswee|M|/nl_NL/index.html
+1572265130|vswee|M|/pt_BR/donate/index.html
+1572265130|vswee|M|/pt_BR/index.html
+1572265130|vswee|M|/pt_PT/donate/index.html
+1572265130|vswee|M|/pt_PT/index.html
+1572265130|vswee|M|/ru_RU/donate/index.html
+1572265130|vswee|M|/ru_RU/index.html
+1572265130|vswee|M|/sk_SK/donate/index.html
+1572265130|vswee|M|/sk_SK/index.html
+1572265130|vswee|M|/sl_SI/donate/index.html
+1572265130|vswee|M|/sl_SI/index.html
+1572265130|vswee|M|/sr/donate/index.html
+1572265130|vswee|M|/sr/index.html
+1572265130|vswee|M|/sv/donate/index.html
+1572265130|vswee|M|/sv/index.html
+1572265130|vswee|M|/tr/donate/index.html
+1572265130|vswee|M|/tr/index.html
+1572265130|vswee|M|/uk/donate/index.html
+1572265130|vswee|M|/uk/index.html
+1572265130|vswee|M|/zh-Hans/donate/index.html
+1572265130|vswee|M|/zh-Hans/index.html
+1572265408|vswee|M|/source/src/css/styles.css
+1572272526|vswee|M|/source/src/css/page-styles.css
+1572272665|vswee|M|/am_ET/donate/index.html
+1572272665|vswee|M|/ar/donate/index.html
+1572272665|vswee|M|/bg/donate/index.html
+1572272665|vswee|M|/bs_BA/donate/index.html
+1572272665|vswee|M|/ca_ES/donate/index.html
+1572272665|vswee|M|/cs_CZ/donate/index.html
+1572272665|vswee|M|/cs_CZ/index.html
+1572272665|vswee|M|/da_DK/donate/index.html
+1572272665|vswee|M|/de_DE/donate/index.html
+1572272665|vswee|M|/donate/index.html
+1572272665|vswee|M|/el_GR/donate/index.html
+1572272665|vswee|M|/es_ES/donate/index.html
+1572272665|vswee|M|/fa/donate/index.html
+1572272665|vswee|M|/fi_FI/donate/index.html
+1572272665|vswee|M|/fr_FR/donate/index.html
+1572272665|vswee|M|/he/donate/index.html
+1572272665|vswee|M|/hi/donate/index.html
+1572272665|vswee|M|/hr/donate/index.html
+1572272665|vswee|M|/it_IT/donate/index.html
+1572272665|vswee|M|/ja_JP/donate/index.html
+1572272665|vswee|M|/ko/donate/index.html
+1572272665|vswee|M|/nl_NL/donate/index.html
+1572272665|vswee|M|/pt_BR/donate/index.html
+1572272665|vswee|M|/pt_PT/donate/index.html
+1572272665|vswee|M|/ru_RU/donate/index.html
+1572272665|vswee|M|/sk_SK/donate/index.html
+1572272665|vswee|M|/sl_SI/donate/index.html
+1572272665|vswee|M|/sr/donate/index.html
+1572272665|vswee|M|/sv/donate/index.html
+1572272665|vswee|M|/tr/donate/index.html
+1572272665|vswee|M|/uk/donate/index.html
+1572272665|vswee|M|/zh-Hans/donate/index.html
+1573696054|Umar Bolatov|M|/source/src/json/donations.json
+1573740565|vswee|M|/am_ET/donate/index.html
+1573740565|vswee|M|/ar/donate/index.html
+1573740565|vswee|M|/bg/donate/index.html
+1573740565|vswee|M|/bs_BA/donate/index.html
+1573740565|vswee|M|/ca_ES/donate/index.html
+1573740565|vswee|M|/cs_CZ/donate/index.html
+1573740565|vswee|M|/da_DK/donate/index.html
+1573740565|vswee|M|/de_DE/donate/index.html
+1573740565|vswee|M|/donate/index.html
+1573740565|vswee|M|/el_GR/donate/index.html
+1573740565|vswee|M|/es_ES/donate/index.html
+1573740565|vswee|M|/fa/donate/index.html
+1573740565|vswee|M|/fi_FI/donate/index.html
+1573740565|vswee|M|/fr_FR/donate/index.html
+1573740565|vswee|M|/he/donate/index.html
+1573740565|vswee|M|/hi/donate/index.html
+1573740565|vswee|M|/hr/donate/index.html
+1573740565|vswee|M|/it_IT/donate/index.html
+1573740565|vswee|M|/it_IT/index.html
+1573740565|vswee|M|/ja_JP/donate/index.html
+1573740565|vswee|M|/ko/donate/index.html
+1573740565|vswee|M|/nl_NL/donate/index.html
+1573740565|vswee|M|/pt_BR/donate/index.html
+1573740565|vswee|M|/pt_PT/donate/index.html
+1573740565|vswee|M|/ru_RU/donate/index.html
+1573740565|vswee|M|/sk_SK/donate/index.html
+1573740565|vswee|M|/sl_SI/donate/index.html
+1573740565|vswee|M|/sl_SI/index.html
+1573740565|vswee|M|/source/src/css/page-styles.css
+1573740565|vswee|M|/sr/donate/index.html
+1573740565|vswee|M|/sv/donate/index.html
+1573740565|vswee|M|/tr/donate/index.html
+1573740565|vswee|M|/uk/donate/index.html
+1573740565|vswee|A|/vtt/sl_SI.vtt
+1573740565|vswee|M|/zh-Hans/donate/index.html
+1573762253|vswee|M|/source/src/html/footer-tmpl.html
+1573762253|vswee|M|/source/src/html/tmpl.html
+1573762457|vswee|M|/am_ET/donate/index.html
+1573762457|vswee|M|/am_ET/index.html
+1573762457|vswee|M|/ar/donate/index.html
+1573762457|vswee|M|/ar/index.html
+1573762457|vswee|M|/bg/donate/index.html
+1573762457|vswee|M|/bg/index.html
+1573762457|vswee|M|/bs_BA/donate/index.html
+1573762457|vswee|M|/bs_BA/index.html
+1573762457|vswee|M|/ca_ES/donate/index.html
+1573762457|vswee|M|/ca_ES/index.html
+1573762457|vswee|M|/cs_CZ/donate/index.html
+1573762457|vswee|M|/cs_CZ/index.html
+1573762457|vswee|M|/da_DK/donate/index.html
+1573762457|vswee|M|/da_DK/index.html
+1573762457|vswee|M|/de_DE/donate/index.html
+1573762457|vswee|M|/de_DE/index.html
+1573762457|vswee|M|/donate/index.html
+1573762457|vswee|M|/el_GR/donate/index.html
+1573762457|vswee|M|/el_GR/index.html
+1573762457|vswee|M|/es_ES/donate/index.html
+1573762457|vswee|M|/es_ES/index.html
+1573762457|vswee|M|/fa/donate/index.html
+1573762457|vswee|M|/fa/index.html
+1573762457|vswee|M|/fi_FI/donate/index.html
+1573762457|vswee|M|/fi_FI/index.html
+1573762457|vswee|M|/fr_FR/donate/index.html
+1573762457|vswee|M|/fr_FR/index.html
+1573762457|vswee|M|/he/donate/index.html
+1573762457|vswee|M|/he/index.html
+1573762457|vswee|M|/hi/donate/index.html
+1573762457|vswee|M|/hi/index.html
+1573762457|vswee|M|/hr/donate/index.html
+1573762457|vswee|M|/hr/index.html
+1573762457|vswee|M|/index.html
+1573762457|vswee|M|/it_IT/donate/index.html
+1573762457|vswee|M|/it_IT/index.html
+1573762457|vswee|M|/ja_JP/donate/index.html
+1573762457|vswee|M|/ja_JP/index.html
+1573762457|vswee|M|/ko/donate/index.html
+1573762457|vswee|M|/ko/index.html
+1573762457|vswee|M|/nl_NL/donate/index.html
+1573762457|vswee|M|/nl_NL/index.html
+1573762457|vswee|M|/pt_BR/donate/index.html
+1573762457|vswee|M|/pt_BR/index.html
+1573762457|vswee|M|/pt_PT/donate/index.html
+1573762457|vswee|M|/pt_PT/index.html
+1573762457|vswee|M|/ru_RU/donate/index.html
+1573762457|vswee|M|/ru_RU/index.html
+1573762457|vswee|M|/sk_SK/donate/index.html
+1573762457|vswee|M|/sk_SK/index.html
+1573762457|vswee|M|/sl_SI/donate/index.html
+1573762457|vswee|M|/sl_SI/index.html
+1573762457|vswee|M|/sr/donate/index.html
+1573762457|vswee|M|/sr/index.html
+1573762457|vswee|M|/sv/donate/index.html
+1573762457|vswee|M|/sv/index.html
+1573762457|vswee|M|/tr/donate/index.html
+1573762457|vswee|M|/tr/index.html
+1573762457|vswee|M|/uk/donate/index.html
+1573762457|vswee|M|/uk/index.html
+1573762457|vswee|M|/zh-Hans/donate/index.html
+1573762457|vswee|M|/zh-Hans/index.html
+1573762664|vswee|M|/am_ET/donate/index.html
+1573762664|vswee|M|/am_ET/index.html
+1573762664|vswee|M|/ar/donate/index.html
+1573762664|vswee|M|/ar/index.html
+1573762664|vswee|M|/bg/donate/index.html
+1573762664|vswee|M|/bg/index.html
+1573762664|vswee|M|/bs_BA/donate/index.html
+1573762664|vswee|M|/bs_BA/index.html
+1573762664|vswee|M|/ca_ES/donate/index.html
+1573762664|vswee|M|/ca_ES/index.html
+1573762664|vswee|M|/cs_CZ/donate/index.html
+1573762664|vswee|M|/cs_CZ/index.html
+1573762664|vswee|M|/da_DK/donate/index.html
+1573762664|vswee|M|/da_DK/index.html
+1573762664|vswee|M|/de_DE/donate/index.html
+1573762664|vswee|M|/de_DE/index.html
+1573762664|vswee|M|/donate/index.html
+1573762664|vswee|M|/el_GR/donate/index.html
+1573762664|vswee|M|/el_GR/index.html
+1573762664|vswee|M|/es_ES/donate/index.html
+1573762664|vswee|M|/es_ES/index.html
+1573762664|vswee|M|/fa/donate/index.html
+1573762664|vswee|M|/fa/index.html
+1573762664|vswee|M|/fi_FI/donate/index.html
+1573762664|vswee|M|/fi_FI/index.html
+1573762664|vswee|M|/fr_FR/donate/index.html
+1573762664|vswee|M|/fr_FR/index.html
+1573762664|vswee|M|/he/donate/index.html
+1573762664|vswee|M|/he/index.html
+1573762664|vswee|M|/hi/donate/index.html
+1573762664|vswee|M|/hi/index.html
+1573762664|vswee|M|/hr/donate/index.html
+1573762664|vswee|M|/hr/index.html
+1573762664|vswee|M|/index.html
+1573762664|vswee|M|/it_IT/donate/index.html
+1573762664|vswee|M|/it_IT/index.html
+1573762664|vswee|M|/ja_JP/donate/index.html
+1573762664|vswee|M|/ja_JP/index.html
+1573762664|vswee|M|/ko/donate/index.html
+1573762664|vswee|M|/ko/index.html
+1573762664|vswee|M|/nl_NL/donate/index.html
+1573762664|vswee|M|/nl_NL/index.html
+1573762664|vswee|M|/pt_BR/donate/index.html
+1573762664|vswee|M|/pt_BR/index.html
+1573762664|vswee|M|/pt_PT/donate/index.html
+1573762664|vswee|M|/pt_PT/index.html
+1573762664|vswee|M|/ru_RU/donate/index.html
+1573762664|vswee|M|/ru_RU/index.html
+1573762664|vswee|M|/sk_SK/donate/index.html
+1573762664|vswee|M|/sk_SK/index.html
+1573762664|vswee|M|/sl_SI/donate/index.html
+1573762664|vswee|M|/sl_SI/index.html
+1573762664|vswee|M|/sr/donate/index.html
+1573762664|vswee|M|/sr/index.html
+1573762664|vswee|M|/sv/donate/index.html
+1573762664|vswee|M|/sv/index.html
+1573762664|vswee|M|/tr/donate/index.html
+1573762664|vswee|M|/tr/index.html
+1573762664|vswee|M|/uk/donate/index.html
+1573762664|vswee|M|/uk/index.html
+1573762664|vswee|M|/zh-Hans/donate/index.html
+1573762664|vswee|M|/zh-Hans/index.html
+1573902387|Dennis Reimann|M|/source/src/json/donations.json
+1573955576|vswee|M|/am_ET/donate/index.html
+1573955576|vswee|M|/am_ET/index.html
+1573955576|vswee|M|/ar/donate/index.html
+1573955576|vswee|M|/ar/index.html
+1573955576|vswee|M|/bg/donate/index.html
+1573955576|vswee|M|/bg/index.html
+1573955576|vswee|M|/bs_BA/donate/index.html
+1573955576|vswee|M|/bs_BA/index.html
+1573955576|vswee|M|/ca_ES/donate/index.html
+1573955576|vswee|M|/ca_ES/index.html
+1573955576|vswee|M|/cs_CZ/donate/index.html
+1573955576|vswee|M|/cs_CZ/index.html
+1573955576|vswee|M|/da_DK/donate/index.html
+1573955576|vswee|M|/da_DK/index.html
+1573955576|vswee|M|/de_DE/donate/index.html
+1573955576|vswee|M|/de_DE/index.html
+1573955576|vswee|M|/donate/index.html
+1573955576|vswee|M|/el_GR/donate/index.html
+1573955576|vswee|M|/el_GR/index.html
+1573955576|vswee|M|/es_ES/donate/index.html
+1573955576|vswee|M|/es_ES/index.html
+1573955576|vswee|M|/fa/donate/index.html
+1573955576|vswee|M|/fa/index.html
+1573955576|vswee|M|/fi_FI/donate/index.html
+1573955576|vswee|M|/fi_FI/index.html
+1573955576|vswee|M|/fr_FR/donate/index.html
+1573955576|vswee|M|/fr_FR/index.html
+1573955576|vswee|M|/he/donate/index.html
+1573955576|vswee|M|/he/index.html
+1573955576|vswee|M|/hi/donate/index.html
+1573955576|vswee|M|/hi/index.html
+1573955576|vswee|M|/hr/donate/index.html
+1573955576|vswee|M|/hr/index.html
+1573955576|vswee|M|/index.html
+1573955576|vswee|M|/it_IT/donate/index.html
+1573955576|vswee|M|/it_IT/index.html
+1573955576|vswee|M|/ja_JP/donate/index.html
+1573955576|vswee|M|/ja_JP/index.html
+1573955576|vswee|M|/ko/donate/index.html
+1573955576|vswee|M|/ko/index.html
+1573955576|vswee|M|/nl_NL/donate/index.html
+1573955576|vswee|M|/nl_NL/index.html
+1573955576|vswee|M|/pt_BR/donate/index.html
+1573955576|vswee|M|/pt_BR/index.html
+1573955576|vswee|M|/pt_PT/donate/index.html
+1573955576|vswee|M|/pt_PT/index.html
+1573955576|vswee|M|/ru_RU/donate/index.html
+1573955576|vswee|M|/ru_RU/index.html
+1573955576|vswee|M|/sk_SK/donate/index.html
+1573955576|vswee|M|/sk_SK/index.html
+1573955576|vswee|M|/sl_SI/donate/index.html
+1573955576|vswee|M|/sl_SI/index.html
+1573955576|vswee|M|/sr/donate/index.html
+1573955576|vswee|M|/sr/index.html
+1573955576|vswee|M|/sv/donate/index.html
+1573955576|vswee|M|/sv/index.html
+1573955576|vswee|M|/tr/donate/index.html
+1573955576|vswee|M|/tr/index.html
+1573955576|vswee|M|/uk/donate/index.html
+1573955576|vswee|M|/uk/index.html
+1573955576|vswee|M|/zh-Hans/donate/index.html
+1573955576|vswee|M|/zh-Hans/index.html
+1575042099|vswee|A|/source/translator.php
+1575119728|Dennis Reimann|D|/am_ET/donate/index.html
+1575119728|Dennis Reimann|D|/am_ET/index.html
+1575119728|Dennis Reimann|D|/ar/donate/index.html
+1575119728|Dennis Reimann|D|/ar/index.html
+1575119728|Dennis Reimann|D|/bg/donate/index.html
+1575119728|Dennis Reimann|D|/bg/index.html
+1575119728|Dennis Reimann|D|/bs_BA/donate/index.html
+1575119728|Dennis Reimann|D|/bs_BA/index.html
+1575119728|Dennis Reimann|D|/ca_ES/donate/index.html
+1575119728|Dennis Reimann|D|/ca_ES/index.html
+1575119728|Dennis Reimann|D|/cs_CZ/donate/index.html
+1575119728|Dennis Reimann|D|/cs_CZ/index.html
+1575119728|Dennis Reimann|D|/da_DK/donate/index.html
+1575119728|Dennis Reimann|D|/da_DK/index.html
+1575119728|Dennis Reimann|D|/de_DE/donate/index.html
+1575119728|Dennis Reimann|D|/de_DE/index.html
+1575119728|Dennis Reimann|D|/donate/index.html
+1575119728|Dennis Reimann|D|/el_GR/donate/index.html
+1575119728|Dennis Reimann|D|/el_GR/index.html
+1575119728|Dennis Reimann|D|/es_ES/donate/index.html
+1575119728|Dennis Reimann|D|/es_ES/index.html
+1575119728|Dennis Reimann|D|/fa/donate/index.html
+1575119728|Dennis Reimann|D|/fa/index.html
+1575119728|Dennis Reimann|D|/favicon.png
+1575119728|Dennis Reimann|D|/fi_FI/donate/index.html
+1575119728|Dennis Reimann|D|/fi_FI/index.html
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/Open_Sans_Regular.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|D|/fonts/fa_/LICENSE.txt
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-brands-400.eot
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-brands-400.svg
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-brands-400.ttf
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-brands-400.woff
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-brands-400.woff2
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-regular-400.eot
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-regular-400.svg
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-regular-400.ttf
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-regular-400.woff
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-regular-400.woff2
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-solid-900.eot
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-solid-900.svg
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-solid-900.ttf
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-solid-900.woff
+1575119728|Dennis Reimann|D|/fonts/fa_/fa-solid-900.woff2
+1575119728|Dennis Reimann|D|/fr_FR/donate/index.html
+1575119728|Dennis Reimann|D|/fr_FR/index.html
+1575119728|Dennis Reimann|D|/he/donate/index.html
+1575119728|Dennis Reimann|D|/he/index.html
+1575119728|Dennis Reimann|D|/hi/donate/index.html
+1575119728|Dennis Reimann|D|/hi/index.html
+1575119728|Dennis Reimann|D|/hr/donate/index.html
+1575119728|Dennis Reimann|D|/hr/index.html
+1575119728|Dennis Reimann|D|/img/clip602.gif
+1575119728|Dennis Reimann|D|/img/community5.png
+1575119728|Dennis Reimann|D|/img/demo2-01.png
+1575119728|Dennis Reimann|D|/img/docs2-01.png
+1575119728|Dennis Reimann|D|/img/dots.svg
+1575119728|Dennis Reimann|D|/img/favicon.png
+1575119728|Dennis Reimann|D|/img/git-01.png
+1575119728|Dennis Reimann|D|/img/pay-2.png
+1575119728|Dennis Reimann|D|/img/vidph.svg
+1575119728|Dennis Reimann|D|/index.html
+1575119728|Dennis Reimann|D|/it_IT/donate/index.html
+1575119728|Dennis Reimann|D|/it_IT/index.html
+1575119728|Dennis Reimann|D|/ja_JP/donate/index.html
+1575119728|Dennis Reimann|D|/ja_JP/index.html
+1575119728|Dennis Reimann|D|/ko/donate/index.html
+1575119728|Dennis Reimann|D|/ko/index.html
+1575119728|Dennis Reimann|D|/nl_NL/donate/index.html
+1575119728|Dennis Reimann|D|/nl_NL/index.html
+1575119728|Dennis Reimann|D|/pt_BR/donate/index.html
+1575119728|Dennis Reimann|D|/pt_BR/index.html
+1575119728|Dennis Reimann|D|/pt_PT/donate/index.html
+1575119728|Dennis Reimann|D|/pt_PT/index.html
+1575119728|Dennis Reimann|D|/ru_RU/donate/index.html
+1575119728|Dennis Reimann|D|/ru_RU/index.html
+1575119728|Dennis Reimann|A|/site/am_ET/donate/index.html
+1575119728|Dennis Reimann|A|/site/am_ET/index.html
+1575119728|Dennis Reimann|A|/site/ar/donate/index.html
+1575119728|Dennis Reimann|A|/site/ar/index.html
+1575119728|Dennis Reimann|A|/site/bg/donate/index.html
+1575119728|Dennis Reimann|A|/site/bg/index.html
+1575119728|Dennis Reimann|A|/site/bs_BA/donate/index.html
+1575119728|Dennis Reimann|A|/site/bs_BA/index.html
+1575119728|Dennis Reimann|A|/site/ca_ES/donate/index.html
+1575119728|Dennis Reimann|A|/site/ca_ES/index.html
+1575119728|Dennis Reimann|A|/site/cs_CZ/donate/index.html
+1575119728|Dennis Reimann|A|/site/cs_CZ/index.html
+1575119728|Dennis Reimann|A|/site/da_DK/donate/index.html
+1575119728|Dennis Reimann|A|/site/da_DK/index.html
+1575119728|Dennis Reimann|A|/site/de_DE/donate/index.html
+1575119728|Dennis Reimann|A|/site/de_DE/index.html
+1575119728|Dennis Reimann|A|/site/donate/index.html
+1575119728|Dennis Reimann|A|/site/el_GR/donate/index.html
+1575119728|Dennis Reimann|A|/site/el_GR/index.html
+1575119728|Dennis Reimann|A|/site/es_ES/donate/index.html
+1575119728|Dennis Reimann|A|/site/es_ES/index.html
+1575119728|Dennis Reimann|A|/site/fa/donate/index.html
+1575119728|Dennis Reimann|A|/site/fa/index.html
+1575119728|Dennis Reimann|A|/site/favicon.png
+1575119728|Dennis Reimann|A|/site/fi_FI/donate/index.html
+1575119728|Dennis Reimann|A|/site/fi_FI/index.html
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/Open_Sans_Regular.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1575119728|Dennis Reimann|A|/site/fonts/fa_/LICENSE.txt
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-brands-400.eot
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-brands-400.svg
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-brands-400.ttf
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-brands-400.woff
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-brands-400.woff2
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-regular-400.eot
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-regular-400.svg
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-regular-400.ttf
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-regular-400.woff
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-regular-400.woff2
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-solid-900.eot
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-solid-900.svg
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-solid-900.ttf
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-solid-900.woff
+1575119728|Dennis Reimann|A|/site/fonts/fa_/fa-solid-900.woff2
+1575119728|Dennis Reimann|A|/site/fr_FR/donate/index.html
+1575119728|Dennis Reimann|A|/site/fr_FR/index.html
+1575119728|Dennis Reimann|A|/site/he/donate/index.html
+1575119728|Dennis Reimann|A|/site/he/index.html
+1575119728|Dennis Reimann|A|/site/hi/donate/index.html
+1575119728|Dennis Reimann|A|/site/hi/index.html
+1575119728|Dennis Reimann|A|/site/hr/donate/index.html
+1575119728|Dennis Reimann|A|/site/hr/index.html
+1575119728|Dennis Reimann|A|/site/img/clip602.gif
+1575119728|Dennis Reimann|A|/site/img/community5.png
+1575119728|Dennis Reimann|A|/site/img/demo2-01.png
+1575119728|Dennis Reimann|A|/site/img/docs2-01.png
+1575119728|Dennis Reimann|A|/site/img/dots.svg
+1575119728|Dennis Reimann|A|/site/img/favicon.png
+1575119728|Dennis Reimann|A|/site/img/git-01.png
+1575119728|Dennis Reimann|A|/site/img/pay-2.png
+1575119728|Dennis Reimann|A|/site/img/vidph.svg
+1575119728|Dennis Reimann|A|/site/index.html
+1575119728|Dennis Reimann|A|/site/it_IT/donate/index.html
+1575119728|Dennis Reimann|A|/site/it_IT/index.html
+1575119728|Dennis Reimann|A|/site/ja_JP/donate/index.html
+1575119728|Dennis Reimann|A|/site/ja_JP/index.html
+1575119728|Dennis Reimann|A|/site/ko/donate/index.html
+1575119728|Dennis Reimann|A|/site/ko/index.html
+1575119728|Dennis Reimann|A|/site/nl_NL/donate/index.html
+1575119728|Dennis Reimann|A|/site/nl_NL/index.html
+1575119728|Dennis Reimann|A|/site/pt_BR/donate/index.html
+1575119728|Dennis Reimann|A|/site/pt_BR/index.html
+1575119728|Dennis Reimann|A|/site/pt_PT/donate/index.html
+1575119728|Dennis Reimann|A|/site/pt_PT/index.html
+1575119728|Dennis Reimann|A|/site/ru_RU/donate/index.html
+1575119728|Dennis Reimann|A|/site/ru_RU/index.html
+1575119728|Dennis Reimann|A|/site/sk_SK/donate/index.html
+1575119728|Dennis Reimann|A|/site/sk_SK/index.html
+1575119728|Dennis Reimann|A|/site/sl_SI/donate/index.html
+1575119728|Dennis Reimann|A|/site/sl_SI/index.html
+1575119728|Dennis Reimann|A|/site/sr/donate/index.html
+1575119728|Dennis Reimann|A|/site/sr/index.html
+1575119728|Dennis Reimann|A|/site/sv/donate/index.html
+1575119728|Dennis Reimann|A|/site/sv/index.html
+1575119728|Dennis Reimann|A|/site/tr/donate/index.html
+1575119728|Dennis Reimann|A|/site/tr/index.html
+1575119728|Dennis Reimann|A|/site/uk/donate/index.html
+1575119728|Dennis Reimann|A|/site/uk/index.html
+1575119728|Dennis Reimann|A|/site/vtt/ar.vtt
+1575119728|Dennis Reimann|A|/site/vtt/cs_CZ.vtt
+1575119728|Dennis Reimann|A|/site/vtt/da_DK.vtt
+1575119728|Dennis Reimann|A|/site/vtt/en.vtt
+1575119728|Dennis Reimann|A|/site/vtt/fa.vtt
+1575119728|Dennis Reimann|A|/site/vtt/fr_FR.vtt
+1575119728|Dennis Reimann|A|/site/vtt/he.vtt
+1575119728|Dennis Reimann|A|/site/vtt/it_IT.vtt
+1575119728|Dennis Reimann|A|/site/vtt/ja_JP.vtt
+1575119728|Dennis Reimann|A|/site/vtt/pt_BR.vtt
+1575119728|Dennis Reimann|A|/site/vtt/ru_RU.vtt
+1575119728|Dennis Reimann|A|/site/vtt/sk_SK.vtt
+1575119728|Dennis Reimann|A|/site/vtt/sl_SI.vtt
+1575119728|Dennis Reimann|A|/site/vtt/sr.vtt
+1575119728|Dennis Reimann|A|/site/vtt/sv.vtt
+1575119728|Dennis Reimann|A|/site/zh-Hans/donate/index.html
+1575119728|Dennis Reimann|A|/site/zh-Hans/index.html
+1575119728|Dennis Reimann|D|/sk_SK/donate/index.html
+1575119728|Dennis Reimann|D|/sk_SK/index.html
+1575119728|Dennis Reimann|D|/sl_SI/donate/index.html
+1575119728|Dennis Reimann|D|/sl_SI/index.html
+1575119728|Dennis Reimann|D|/sr/donate/index.html
+1575119728|Dennis Reimann|D|/sr/index.html
+1575119728|Dennis Reimann|D|/sv/donate/index.html
+1575119728|Dennis Reimann|D|/sv/index.html
+1575119728|Dennis Reimann|D|/tr/donate/index.html
+1575119728|Dennis Reimann|D|/tr/index.html
+1575119728|Dennis Reimann|D|/uk/donate/index.html
+1575119728|Dennis Reimann|D|/uk/index.html
+1575119728|Dennis Reimann|D|/vtt/ar.vtt
+1575119728|Dennis Reimann|D|/vtt/cs_CZ.vtt
+1575119728|Dennis Reimann|D|/vtt/da_DK.vtt
+1575119728|Dennis Reimann|D|/vtt/en.vtt
+1575119728|Dennis Reimann|D|/vtt/fa.vtt
+1575119728|Dennis Reimann|D|/vtt/fr_FR.vtt
+1575119728|Dennis Reimann|D|/vtt/he.vtt
+1575119728|Dennis Reimann|D|/vtt/it_IT.vtt
+1575119728|Dennis Reimann|D|/vtt/ja_JP.vtt
+1575119728|Dennis Reimann|D|/vtt/pt_BR.vtt
+1575119728|Dennis Reimann|D|/vtt/ru_RU.vtt
+1575119728|Dennis Reimann|D|/vtt/sk_SK.vtt
+1575119728|Dennis Reimann|D|/vtt/sl_SI.vtt
+1575119728|Dennis Reimann|D|/vtt/sr.vtt
+1575119728|Dennis Reimann|D|/vtt/sv.vtt
+1575119728|Dennis Reimann|D|/zh-Hans/donate/index.html
+1575119728|Dennis Reimann|D|/zh-Hans/index.html
+1575119921|Dennis Reimann|A|/.env
+1575119921|Dennis Reimann|A|/.gitignore
+1575119921|Dennis Reimann|M|/README.md
+1575119921|Dennis Reimann|A|/package-lock.json
+1575119921|Dennis Reimann|A|/package.json
+1575119921|Dennis Reimann|A|/tasks/download_translations.js
+1575131368|Dennis Reimann|M|/package.json
+1575131368|Dennis Reimann|A|/source/src/video/602.m4v
+1575131368|Dennis Reimann|A|/source/src/video/602.mp4
+1575131368|Dennis Reimann|A|/source/src/video/602.webm
+1575131368|Dennis Reimann|D|/video/602.m4v
+1575131368|Dennis Reimann|D|/video/602.mp4
+1575131368|Dennis Reimann|D|/video/602.webm
+1575131368|Dennis Reimann|D|/video/ar.vtt
+1575131368|Dennis Reimann|D|/video/da.vtt
+1575131368|Dennis Reimann|D|/video/en.vtt
+1575131368|Dennis Reimann|D|/video/es.vtt
+1575131368|Dennis Reimann|D|/video/fa.vtt
+1575131368|Dennis Reimann|D|/video/fr.vtt
+1575131368|Dennis Reimann|D|/video/he.vtt
+1575131368|Dennis Reimann|D|/video/it.vtt
+1575131368|Dennis Reimann|D|/video/ja.vtt
+1575131368|Dennis Reimann|D|/video/pt.vtt
+1575133683|Dennis Reimann|M|/README.md
+1575133683|Dennis Reimann|M|/package.json
+1575133683|Dennis Reimann|M|/tasks/download_translations.js
+1575133683|Dennis Reimann|A|/tasks/render_templates.js
+1575188278|Dennis Reimann|M|/package.json
+1575188278|Dennis Reimann|D|/tasks/render_templates.js
+1575188278|Dennis Reimann|A|/tasks/render_vtt.js
+1575188278|Dennis Reimann|A|/tasks/util.js
+1575188346|Dennis Reimann|M|/package.json
+1575188346|Dennis Reimann|A|/tasks/render_html.js
+1575190380|Dennis Reimann|M|/README.md
+1575190380|Dennis Reimann|M|/package-lock.json
+1575190380|Dennis Reimann|M|/package.json
+1575190872|Dennis Reimann|M|/package.json
+1575195452|Dennis Reimann|D|/.env
+1575195452|Dennis Reimann|M|/.gitignore
+1575195452|Dennis Reimann|M|/README.md
+1575201737|Dennis Reimann|M|/package.json
+1575201737|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1575201737|Dennis Reimann|M|/source/src/html/footer-tmpl.html
+1575201737|Dennis Reimann|M|/tasks/render_html.js
+1575201737|Dennis Reimann|M|/tasks/render_vtt.js
+1575201737|Dennis Reimann|M|/tasks/util.js
+1575204926|Dennis Reimann|M|/tasks/render_html.js
+1575212215|Dennis Reimann|M|/package.json
+1575212215|Dennis Reimann|M|/tasks/render_html.js
+1575221960|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1575221960|Dennis Reimann|M|/source/src/html/tmpl.html
+1575221960|Dennis Reimann|M|/tasks/render_html.js
+1575221960|Dennis Reimann|M|/tasks/util.js
+1575222803|Dennis Reimann|A|/.github/workflows/nodejs.yml
+1575282944|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1575282944|Dennis Reimann|M|/README.md
+1575282944|Dennis Reimann|M|/package.json
+1575651786|vswee|A|/am_ET/donate/index.html
+1575651786|vswee|A|/am_ET/index.html
+1575651786|vswee|A|/ar/donate/index.html
+1575651786|vswee|A|/ar/index.html
+1575651786|vswee|A|/bg/donate/index.html
+1575651786|vswee|A|/bg/index.html
+1575651786|vswee|A|/bs_BA/donate/index.html
+1575651786|vswee|A|/bs_BA/index.html
+1575651786|vswee|A|/ca_ES/donate/index.html
+1575651786|vswee|A|/ca_ES/index.html
+1575651786|vswee|A|/cs_CZ/donate/index.html
+1575651786|vswee|A|/cs_CZ/index.html
+1575651786|vswee|A|/da_DK/donate/index.html
+1575651786|vswee|A|/da_DK/index.html
+1575651786|vswee|A|/de_DE/donate/index.html
+1575651786|vswee|A|/de_DE/index.html
+1575651786|vswee|A|/donate/index.html
+1575651786|vswee|A|/el_GR/donate/index.html
+1575651786|vswee|A|/el_GR/index.html
+1575651786|vswee|A|/es_ES/donate/index.html
+1575651786|vswee|A|/es_ES/index.html
+1575651786|vswee|A|/fa/donate/index.html
+1575651786|vswee|A|/fa/index.html
+1575651786|vswee|A|/favicon.png
+1575651786|vswee|A|/fi_FI/donate/index.html
+1575651786|vswee|A|/fi_FI/index.html
+1575651786|vswee|A|/fr_FR/donate/index.html
+1575651786|vswee|A|/fr_FR/index.html
+1575651786|vswee|A|/he/donate/index.html
+1575651786|vswee|A|/he/index.html
+1575651786|vswee|A|/hi/donate/index.html
+1575651786|vswee|A|/hi/index.html
+1575651786|vswee|A|/hr/donate/index.html
+1575651786|vswee|A|/hr/index.html
+1575651786|vswee|A|/img/clip602.gif
+1575651786|vswee|A|/img/community5.png
+1575651786|vswee|A|/img/demo2-01.png
+1575651786|vswee|A|/img/docs2-01.png
+1575651786|vswee|A|/img/dots.svg
+1575651786|vswee|A|/img/favicon.png
+1575651786|vswee|A|/img/git-01.png
+1575651786|vswee|A|/img/pay-2.png
+1575651786|vswee|A|/img/vidph.svg
+1575651786|vswee|A|/index.html
+1575651786|vswee|A|/it_IT/donate/index.html
+1575651786|vswee|A|/it_IT/index.html
+1575651786|vswee|A|/ja_JP/donate/index.html
+1575651786|vswee|A|/ja_JP/index.html
+1575651786|vswee|A|/ko/donate/index.html
+1575651786|vswee|A|/ko/index.html
+1575651786|vswee|A|/nl_NL/donate/index.html
+1575651786|vswee|A|/nl_NL/index.html
+1575651786|vswee|A|/pt_BR/donate/index.html
+1575651786|vswee|A|/pt_BR/index.html
+1575651786|vswee|A|/pt_PT/donate/index.html
+1575651786|vswee|A|/pt_PT/index.html
+1575651786|vswee|A|/ru_RU/donate/index.html
+1575651786|vswee|A|/ru_RU/index.html
+1575651786|vswee|A|/sk_SK/donate/index.html
+1575651786|vswee|A|/sk_SK/index.html
+1575651786|vswee|A|/sl_SI/donate/index.html
+1575651786|vswee|A|/sl_SI/index.html
+1575651786|vswee|A|/sr/donate/index.html
+1575651786|vswee|A|/sr/index.html
+1575651786|vswee|A|/sv/donate/index.html
+1575651786|vswee|A|/sv/index.html
+1575651786|vswee|A|/tr/donate/index.html
+1575651786|vswee|A|/tr/index.html
+1575651786|vswee|A|/uk/donate/index.html
+1575651786|vswee|A|/uk/index.html
+1575651786|vswee|A|/vtt/ar.vtt
+1575651786|vswee|A|/vtt/cs_CZ.vtt
+1575651786|vswee|A|/vtt/da_DK.vtt
+1575651786|vswee|A|/vtt/en.vtt
+1575651786|vswee|A|/vtt/fa.vtt
+1575651786|vswee|A|/vtt/fr_FR.vtt
+1575651786|vswee|A|/vtt/he.vtt
+1575651786|vswee|A|/vtt/it_IT.vtt
+1575651786|vswee|A|/vtt/ja_JP.vtt
+1575651786|vswee|A|/vtt/pt_BR.vtt
+1575651786|vswee|A|/vtt/ru_RU.vtt
+1575651786|vswee|A|/vtt/sk_SK.vtt
+1575651786|vswee|A|/vtt/sl_SI.vtt
+1575651786|vswee|A|/vtt/sr.vtt
+1575651786|vswee|A|/vtt/sv.vtt
+1575651786|vswee|A|/zh-Hans/donate/index.html
+1575651786|vswee|A|/zh-Hans/index.html
+1575651865|vswee|D|/am_ET/donate/index.html
+1575651865|vswee|D|/am_ET/index.html
+1575651865|vswee|D|/ar/donate/index.html
+1575651865|vswee|D|/ar/index.html
+1575651865|vswee|D|/bg/donate/index.html
+1575651865|vswee|D|/bg/index.html
+1575651865|vswee|D|/bs_BA/donate/index.html
+1575651865|vswee|D|/bs_BA/index.html
+1575651865|vswee|D|/ca_ES/donate/index.html
+1575651865|vswee|D|/ca_ES/index.html
+1575651865|vswee|D|/cs_CZ/donate/index.html
+1575651865|vswee|D|/cs_CZ/index.html
+1575651865|vswee|D|/da_DK/donate/index.html
+1575651865|vswee|D|/da_DK/index.html
+1575651865|vswee|D|/de_DE/donate/index.html
+1575651865|vswee|D|/de_DE/index.html
+1575651865|vswee|D|/donate/index.html
+1575651865|vswee|D|/el_GR/donate/index.html
+1575651865|vswee|D|/el_GR/index.html
+1575651865|vswee|D|/es_ES/donate/index.html
+1575651865|vswee|D|/es_ES/index.html
+1575651865|vswee|D|/fa/donate/index.html
+1575651865|vswee|D|/fa/index.html
+1575651865|vswee|D|/favicon.png
+1575651865|vswee|D|/fi_FI/donate/index.html
+1575651865|vswee|D|/fi_FI/index.html
+1575651865|vswee|D|/fr_FR/donate/index.html
+1575651865|vswee|D|/fr_FR/index.html
+1575651865|vswee|D|/he/donate/index.html
+1575651865|vswee|D|/he/index.html
+1575651865|vswee|D|/hi/donate/index.html
+1575651865|vswee|D|/hi/index.html
+1575651865|vswee|D|/hr/donate/index.html
+1575651865|vswee|D|/hr/index.html
+1575651865|vswee|D|/img/clip602.gif
+1575651865|vswee|D|/img/community5.png
+1575651865|vswee|D|/img/demo2-01.png
+1575651865|vswee|D|/img/docs2-01.png
+1575651865|vswee|D|/img/dots.svg
+1575651865|vswee|D|/img/favicon.png
+1575651865|vswee|D|/img/git-01.png
+1575651865|vswee|D|/img/pay-2.png
+1575651865|vswee|D|/img/vidph.svg
+1575651865|vswee|D|/index.html
+1575651865|vswee|D|/it_IT/donate/index.html
+1575651865|vswee|D|/it_IT/index.html
+1575651865|vswee|D|/ja_JP/donate/index.html
+1575651865|vswee|D|/ja_JP/index.html
+1575651865|vswee|D|/ko/donate/index.html
+1575651865|vswee|D|/ko/index.html
+1575651865|vswee|D|/nl_NL/donate/index.html
+1575651865|vswee|D|/nl_NL/index.html
+1575651865|vswee|D|/pt_BR/donate/index.html
+1575651865|vswee|D|/pt_BR/index.html
+1575651865|vswee|D|/pt_PT/donate/index.html
+1575651865|vswee|D|/pt_PT/index.html
+1575651865|vswee|D|/ru_RU/donate/index.html
+1575651865|vswee|D|/ru_RU/index.html
+1575651865|vswee|D|/sk_SK/donate/index.html
+1575651865|vswee|D|/sk_SK/index.html
+1575651865|vswee|D|/sl_SI/donate/index.html
+1575651865|vswee|D|/sl_SI/index.html
+1575651865|vswee|D|/sr/donate/index.html
+1575651865|vswee|D|/sr/index.html
+1575651865|vswee|D|/sv/donate/index.html
+1575651865|vswee|D|/sv/index.html
+1575651865|vswee|D|/tr/donate/index.html
+1575651865|vswee|D|/tr/index.html
+1575651865|vswee|D|/uk/donate/index.html
+1575651865|vswee|D|/uk/index.html
+1575651865|vswee|D|/vtt/ar.vtt
+1575651865|vswee|D|/vtt/cs_CZ.vtt
+1575651865|vswee|D|/vtt/da_DK.vtt
+1575651865|vswee|D|/vtt/en.vtt
+1575651865|vswee|D|/vtt/fa.vtt
+1575651865|vswee|D|/vtt/fr_FR.vtt
+1575651865|vswee|D|/vtt/he.vtt
+1575651865|vswee|D|/vtt/it_IT.vtt
+1575651865|vswee|D|/vtt/ja_JP.vtt
+1575651865|vswee|D|/vtt/pt_BR.vtt
+1575651865|vswee|D|/vtt/ru_RU.vtt
+1575651865|vswee|D|/vtt/sk_SK.vtt
+1575651865|vswee|D|/vtt/sl_SI.vtt
+1575651865|vswee|D|/vtt/sr.vtt
+1575651865|vswee|D|/vtt/sv.vtt
+1575651865|vswee|D|/zh-Hans/donate/index.html
+1575651865|vswee|D|/zh-Hans/index.html
+1575653459|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1575655520|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1575655520|Dennis Reimann|M|/.gitignore
+1575655520|Dennis Reimann|M|/package.json
+1575655520|Dennis Reimann|M|/tasks/util.js
+1575655691|dennisreimann|A|/.nojekyll
+1575655691|dennisreimann|A|/am_ET/donate/index.html
+1575655691|dennisreimann|A|/am_ET/index.html
+1575655691|dennisreimann|A|/ar/donate/index.html
+1575655691|dennisreimann|A|/ar/index.html
+1575655691|dennisreimann|A|/bg/donate/index.html
+1575655691|dennisreimann|A|/bg/index.html
+1575655691|dennisreimann|A|/bs_BA/donate/index.html
+1575655691|dennisreimann|A|/bs_BA/index.html
+1575655691|dennisreimann|A|/ca_ES/donate/index.html
+1575655691|dennisreimann|A|/ca_ES/index.html
+1575655691|dennisreimann|A|/cs_CZ/donate/index.html
+1575655691|dennisreimann|A|/cs_CZ/index.html
+1575655691|dennisreimann|A|/css/fa_.min.css
+1575655691|dennisreimann|A|/css/page-styles.css
+1575655691|dennisreimann|A|/css/styles.css
+1575655691|dennisreimann|A|/da_DK/donate/index.html
+1575655691|dennisreimann|A|/da_DK/index.html
+1575655691|dennisreimann|A|/de_DE/donate/index.html
+1575655691|dennisreimann|A|/de_DE/index.html
+1575655691|dennisreimann|A|/donate/index.html
+1575655691|dennisreimann|A|/el_GR/donate/index.html
+1575655691|dennisreimann|A|/el_GR/index.html
+1575655691|dennisreimann|A|/es_ES/donate/index.html
+1575655691|dennisreimann|A|/es_ES/index.html
+1575655691|dennisreimann|A|/fa/donate/index.html
+1575655691|dennisreimann|A|/fa/index.html
+1575655691|dennisreimann|A|/fi_FI/donate/index.html
+1575655691|dennisreimann|A|/fi_FI/index.html
+1575655691|dennisreimann|A|/fonts/Open_Sans/Open_Sans_Regular.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1575655691|dennisreimann|A|/fonts/fa_/LICENSE.txt
+1575655691|dennisreimann|A|/fonts/fa_/fa-brands-400.eot
+1575655691|dennisreimann|A|/fonts/fa_/fa-brands-400.svg
+1575655691|dennisreimann|A|/fonts/fa_/fa-brands-400.ttf
+1575655691|dennisreimann|A|/fonts/fa_/fa-brands-400.woff
+1575655691|dennisreimann|A|/fonts/fa_/fa-brands-400.woff2
+1575655691|dennisreimann|A|/fonts/fa_/fa-regular-400.eot
+1575655691|dennisreimann|A|/fonts/fa_/fa-regular-400.svg
+1575655691|dennisreimann|A|/fonts/fa_/fa-regular-400.ttf
+1575655691|dennisreimann|A|/fonts/fa_/fa-regular-400.woff
+1575655691|dennisreimann|A|/fonts/fa_/fa-regular-400.woff2
+1575655691|dennisreimann|A|/fonts/fa_/fa-solid-900.eot
+1575655691|dennisreimann|A|/fonts/fa_/fa-solid-900.svg
+1575655691|dennisreimann|A|/fonts/fa_/fa-solid-900.ttf
+1575655691|dennisreimann|A|/fonts/fa_/fa-solid-900.woff
+1575655691|dennisreimann|A|/fonts/fa_/fa-solid-900.woff2
+1575655691|dennisreimann|A|/fr_FR/donate/index.html
+1575655691|dennisreimann|A|/fr_FR/index.html
+1575655691|dennisreimann|A|/he/donate/index.html
+1575655691|dennisreimann|A|/he/index.html
+1575655691|dennisreimann|A|/hi/donate/index.html
+1575655691|dennisreimann|A|/hi/index.html
+1575655691|dennisreimann|A|/hr/donate/index.html
+1575655691|dennisreimann|A|/hr/index.html
+1575655691|dennisreimann|A|/img/clip602.gif
+1575655691|dennisreimann|A|/img/community5.png
+1575655691|dennisreimann|A|/img/demo2-01.png
+1575655691|dennisreimann|A|/img/docs2-01.png
+1575655691|dennisreimann|A|/img/dots.svg
+1575655691|dennisreimann|A|/img/favicon.png
+1575655691|dennisreimann|A|/img/git-01.png
+1575655691|dennisreimann|A|/img/pay-2.png
+1575655691|dennisreimann|A|/img/vidph.svg
+1575655691|dennisreimann|A|/index.html
+1575655691|dennisreimann|A|/it_IT/donate/index.html
+1575655691|dennisreimann|A|/it_IT/index.html
+1575655691|dennisreimann|A|/ja_JP/donate/index.html
+1575655691|dennisreimann|A|/ja_JP/index.html
+1575655691|dennisreimann|A|/js/scripts.js
+1575655691|dennisreimann|A|/ko/donate/index.html
+1575655691|dennisreimann|A|/ko/index.html
+1575655691|dennisreimann|A|/nl_NL/donate/index.html
+1575655691|dennisreimann|A|/nl_NL/index.html
+1575655691|dennisreimann|A|/pt_BR/donate/index.html
+1575655691|dennisreimann|A|/pt_BR/index.html
+1575655691|dennisreimann|A|/pt_PT/donate/index.html
+1575655691|dennisreimann|A|/pt_PT/index.html
+1575655691|dennisreimann|A|/ru_RU/donate/index.html
+1575655691|dennisreimann|A|/ru_RU/index.html
+1575655691|dennisreimann|A|/sk_SK/donate/index.html
+1575655691|dennisreimann|A|/sk_SK/index.html
+1575655691|dennisreimann|A|/sl_SI/donate/index.html
+1575655691|dennisreimann|A|/sl_SI/index.html
+1575655691|dennisreimann|A|/sr/donate/index.html
+1575655691|dennisreimann|A|/sr/index.html
+1575655691|dennisreimann|A|/sv/donate/index.html
+1575655691|dennisreimann|A|/sv/index.html
+1575655691|dennisreimann|A|/tr/donate/index.html
+1575655691|dennisreimann|A|/tr/index.html
+1575655691|dennisreimann|A|/uk/donate/index.html
+1575655691|dennisreimann|A|/uk/index.html
+1575655691|dennisreimann|A|/video/602.m4v
+1575655691|dennisreimann|A|/video/602.mp4
+1575655691|dennisreimann|A|/video/602.webm
+1575655691|dennisreimann|A|/vtt/ar.vtt
+1575655691|dennisreimann|A|/vtt/cs_CZ.vtt
+1575655691|dennisreimann|A|/vtt/da_DK.vtt
+1575655691|dennisreimann|A|/vtt/en_GB.vtt
+1575655691|dennisreimann|A|/vtt/fa.vtt
+1575655691|dennisreimann|A|/vtt/fr_FR.vtt
+1575655691|dennisreimann|A|/vtt/he.vtt
+1575655691|dennisreimann|A|/vtt/it_IT.vtt
+1575655691|dennisreimann|A|/vtt/ja_JP.vtt
+1575655691|dennisreimann|A|/vtt/pt_BR.vtt
+1575655691|dennisreimann|A|/vtt/ru_RU.vtt
+1575655691|dennisreimann|A|/vtt/sk_SK.vtt
+1575655691|dennisreimann|A|/vtt/sl_SI.vtt
+1575655691|dennisreimann|A|/vtt/sr.vtt
+1575655691|dennisreimann|A|/vtt/sv.vtt
+1575655691|dennisreimann|A|/zh-Hans/donate/index.html
+1575655691|dennisreimann|A|/zh-Hans/index.html
+1575656203|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1575656985|Dennis Reimann|M|/source/src/img/community5.png
+1575656985|Dennis Reimann|M|/source/src/img/demo2-01.png
+1575656985|Dennis Reimann|M|/source/src/img/docs2-01.png
+1575656985|Dennis Reimann|M|/source/src/img/dots.svg
+1575656985|Dennis Reimann|M|/source/src/img/favicon.png
+1575656985|Dennis Reimann|M|/source/src/img/git-01.png
+1575656985|Dennis Reimann|M|/source/src/img/pay-2.png
+1575656985|Dennis Reimann|M|/source/src/img/vidph.svg
+1575658239|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1575658239|Dennis Reimann|M|/.gitignore
+1575661007|Dennis Reimann|D|/.nojekyll
+1575661007|Dennis Reimann|D|/CNAME
+1575661007|Dennis Reimann|D|/am_ET/donate/index.html
+1575661007|Dennis Reimann|D|/am_ET/index.html
+1575661007|Dennis Reimann|D|/ar/donate/index.html
+1575661007|Dennis Reimann|D|/ar/index.html
+1575661007|Dennis Reimann|D|/bg/donate/index.html
+1575661007|Dennis Reimann|D|/bg/index.html
+1575661007|Dennis Reimann|D|/bs_BA/donate/index.html
+1575661007|Dennis Reimann|D|/bs_BA/index.html
+1575661007|Dennis Reimann|D|/ca_ES/donate/index.html
+1575661007|Dennis Reimann|D|/ca_ES/index.html
+1575661007|Dennis Reimann|D|/cs_CZ/donate/index.html
+1575661007|Dennis Reimann|D|/cs_CZ/index.html
+1575661007|Dennis Reimann|D|/css/fa_.min.css
+1575661007|Dennis Reimann|D|/css/page-styles.css
+1575661007|Dennis Reimann|D|/css/styles.css
+1575661007|Dennis Reimann|D|/da_DK/donate/index.html
+1575661007|Dennis Reimann|D|/da_DK/index.html
+1575661007|Dennis Reimann|D|/de_DE/donate/index.html
+1575661007|Dennis Reimann|D|/de_DE/index.html
+1575661007|Dennis Reimann|D|/donate/index.html
+1575661007|Dennis Reimann|D|/el_GR/donate/index.html
+1575661007|Dennis Reimann|D|/el_GR/index.html
+1575661007|Dennis Reimann|D|/es_ES/donate/index.html
+1575661007|Dennis Reimann|D|/es_ES/index.html
+1575661007|Dennis Reimann|D|/fa/donate/index.html
+1575661007|Dennis Reimann|D|/fa/index.html
+1575661007|Dennis Reimann|D|/fi_FI/donate/index.html
+1575661007|Dennis Reimann|D|/fi_FI/index.html
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/Open_Sans_Regular.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/fonts/fa_/LICENSE.txt
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-brands-400.eot
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-brands-400.svg
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-brands-400.ttf
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-brands-400.woff
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-brands-400.woff2
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-regular-400.eot
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-regular-400.svg
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-regular-400.ttf
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-regular-400.woff
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-regular-400.woff2
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-solid-900.eot
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-solid-900.svg
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-solid-900.ttf
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-solid-900.woff
+1575661007|Dennis Reimann|D|/fonts/fa_/fa-solid-900.woff2
+1575661007|Dennis Reimann|D|/fr_FR/donate/index.html
+1575661007|Dennis Reimann|D|/fr_FR/index.html
+1575661007|Dennis Reimann|D|/he/donate/index.html
+1575661007|Dennis Reimann|D|/he/index.html
+1575661007|Dennis Reimann|D|/hi/donate/index.html
+1575661007|Dennis Reimann|D|/hi/index.html
+1575661007|Dennis Reimann|D|/hr/donate/index.html
+1575661007|Dennis Reimann|D|/hr/index.html
+1575661007|Dennis Reimann|D|/img/clip602.gif
+1575661007|Dennis Reimann|D|/img/community5.png
+1575661007|Dennis Reimann|D|/img/demo2-01.png
+1575661007|Dennis Reimann|D|/img/docs2-01.png
+1575661007|Dennis Reimann|D|/img/dots.svg
+1575661007|Dennis Reimann|D|/img/favicon.png
+1575661007|Dennis Reimann|D|/img/git-01.png
+1575661007|Dennis Reimann|D|/img/pay-2.png
+1575661007|Dennis Reimann|D|/img/vidph.svg
+1575661007|Dennis Reimann|D|/index.html
+1575661007|Dennis Reimann|D|/it_IT/donate/index.html
+1575661007|Dennis Reimann|D|/it_IT/index.html
+1575661007|Dennis Reimann|D|/ja_JP/donate/index.html
+1575661007|Dennis Reimann|D|/ja_JP/index.html
+1575661007|Dennis Reimann|D|/js/scripts.js
+1575661007|Dennis Reimann|D|/ko/donate/index.html
+1575661007|Dennis Reimann|D|/ko/index.html
+1575661007|Dennis Reimann|D|/nl_NL/donate/index.html
+1575661007|Dennis Reimann|D|/nl_NL/index.html
+1575661007|Dennis Reimann|M|/package.json
+1575661007|Dennis Reimann|D|/pt_BR/donate/index.html
+1575661007|Dennis Reimann|D|/pt_BR/index.html
+1575661007|Dennis Reimann|D|/pt_PT/donate/index.html
+1575661007|Dennis Reimann|D|/pt_PT/index.html
+1575661007|Dennis Reimann|D|/ru_RU/donate/index.html
+1575661007|Dennis Reimann|D|/ru_RU/index.html
+1575661007|Dennis Reimann|D|/site/am_ET/donate/index.html
+1575661007|Dennis Reimann|D|/site/am_ET/index.html
+1575661007|Dennis Reimann|D|/site/ar/donate/index.html
+1575661007|Dennis Reimann|D|/site/ar/index.html
+1575661007|Dennis Reimann|D|/site/bg/donate/index.html
+1575661007|Dennis Reimann|D|/site/bg/index.html
+1575661007|Dennis Reimann|D|/site/bs_BA/donate/index.html
+1575661007|Dennis Reimann|D|/site/bs_BA/index.html
+1575661007|Dennis Reimann|D|/site/ca_ES/donate/index.html
+1575661007|Dennis Reimann|D|/site/ca_ES/index.html
+1575661007|Dennis Reimann|D|/site/cs_CZ/donate/index.html
+1575661007|Dennis Reimann|D|/site/cs_CZ/index.html
+1575661007|Dennis Reimann|D|/site/da_DK/donate/index.html
+1575661007|Dennis Reimann|D|/site/da_DK/index.html
+1575661007|Dennis Reimann|D|/site/de_DE/donate/index.html
+1575661007|Dennis Reimann|D|/site/de_DE/index.html
+1575661007|Dennis Reimann|D|/site/donate/index.html
+1575661007|Dennis Reimann|D|/site/el_GR/donate/index.html
+1575661007|Dennis Reimann|D|/site/el_GR/index.html
+1575661007|Dennis Reimann|D|/site/es_ES/donate/index.html
+1575661007|Dennis Reimann|D|/site/es_ES/index.html
+1575661007|Dennis Reimann|D|/site/fa/donate/index.html
+1575661007|Dennis Reimann|D|/site/fa/index.html
+1575661007|Dennis Reimann|D|/site/favicon.png
+1575661007|Dennis Reimann|D|/site/fi_FI/donate/index.html
+1575661007|Dennis Reimann|D|/site/fi_FI/index.html
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/Open_Sans_Regular.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0Udc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0Vdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0Wdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0Xdc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0Zdc1GAK6b.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0adc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUK0ddc1GAK6bt6o.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFUZ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFVZ0bf8pkAg.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFVp0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFW50bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFWJ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFWZ0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UFWp0bf8pkAp6a.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOUehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOUuhpKKSTjw.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOVuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOX-hpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOXOhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOXehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN7rgOXuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOUehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOUuhpKKSTjw.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOVuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOX-hpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOXOhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOXehpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/Open_Sans/UN8rsOXuhpKKSTj5PW.woff2
+1575661007|Dennis Reimann|D|/site/fonts/fa_/LICENSE.txt
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-brands-400.eot
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-brands-400.svg
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-brands-400.ttf
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-brands-400.woff
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-brands-400.woff2
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-regular-400.eot
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-regular-400.svg
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-regular-400.ttf
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-regular-400.woff
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-regular-400.woff2
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-solid-900.eot
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-solid-900.svg
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-solid-900.ttf
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-solid-900.woff
+1575661007|Dennis Reimann|D|/site/fonts/fa_/fa-solid-900.woff2
+1575661007|Dennis Reimann|D|/site/fr_FR/donate/index.html
+1575661007|Dennis Reimann|D|/site/fr_FR/index.html
+1575661007|Dennis Reimann|D|/site/he/donate/index.html
+1575661007|Dennis Reimann|D|/site/he/index.html
+1575661007|Dennis Reimann|D|/site/hi/donate/index.html
+1575661007|Dennis Reimann|D|/site/hi/index.html
+1575661007|Dennis Reimann|D|/site/hr/donate/index.html
+1575661007|Dennis Reimann|D|/site/hr/index.html
+1575661007|Dennis Reimann|D|/site/img/clip602.gif
+1575661007|Dennis Reimann|D|/site/img/community5.png
+1575661007|Dennis Reimann|D|/site/img/demo2-01.png
+1575661007|Dennis Reimann|D|/site/img/docs2-01.png
+1575661007|Dennis Reimann|D|/site/img/dots.svg
+1575661007|Dennis Reimann|D|/site/img/favicon.png
+1575661007|Dennis Reimann|D|/site/img/git-01.png
+1575661007|Dennis Reimann|D|/site/img/pay-2.png
+1575661007|Dennis Reimann|D|/site/img/vidph.svg
+1575661007|Dennis Reimann|D|/site/index.html
+1575661007|Dennis Reimann|D|/site/it_IT/donate/index.html
+1575661007|Dennis Reimann|D|/site/it_IT/index.html
+1575661007|Dennis Reimann|D|/site/ja_JP/donate/index.html
+1575661007|Dennis Reimann|D|/site/ja_JP/index.html
+1575661007|Dennis Reimann|D|/site/ko/donate/index.html
+1575661007|Dennis Reimann|D|/site/ko/index.html
+1575661007|Dennis Reimann|D|/site/nl_NL/donate/index.html
+1575661007|Dennis Reimann|D|/site/nl_NL/index.html
+1575661007|Dennis Reimann|D|/site/pt_BR/donate/index.html
+1575661007|Dennis Reimann|D|/site/pt_BR/index.html
+1575661007|Dennis Reimann|D|/site/pt_PT/donate/index.html
+1575661007|Dennis Reimann|D|/site/pt_PT/index.html
+1575661007|Dennis Reimann|D|/site/ru_RU/donate/index.html
+1575661007|Dennis Reimann|D|/site/ru_RU/index.html
+1575661007|Dennis Reimann|D|/site/sk_SK/donate/index.html
+1575661007|Dennis Reimann|D|/site/sk_SK/index.html
+1575661007|Dennis Reimann|D|/site/sl_SI/donate/index.html
+1575661007|Dennis Reimann|D|/site/sl_SI/index.html
+1575661007|Dennis Reimann|D|/site/sr/donate/index.html
+1575661007|Dennis Reimann|D|/site/sr/index.html
+1575661007|Dennis Reimann|D|/site/sv/donate/index.html
+1575661007|Dennis Reimann|D|/site/sv/index.html
+1575661007|Dennis Reimann|D|/site/tr/donate/index.html
+1575661007|Dennis Reimann|D|/site/tr/index.html
+1575661007|Dennis Reimann|D|/site/uk/donate/index.html
+1575661007|Dennis Reimann|D|/site/uk/index.html
+1575661007|Dennis Reimann|D|/site/vtt/ar.vtt
+1575661007|Dennis Reimann|D|/site/vtt/cs_CZ.vtt
+1575661007|Dennis Reimann|D|/site/vtt/da_DK.vtt
+1575661007|Dennis Reimann|D|/site/vtt/en.vtt
+1575661007|Dennis Reimann|D|/site/vtt/fa.vtt
+1575661007|Dennis Reimann|D|/site/vtt/fr_FR.vtt
+1575661007|Dennis Reimann|D|/site/vtt/he.vtt
+1575661007|Dennis Reimann|D|/site/vtt/it_IT.vtt
+1575661007|Dennis Reimann|D|/site/vtt/ja_JP.vtt
+1575661007|Dennis Reimann|D|/site/vtt/pt_BR.vtt
+1575661007|Dennis Reimann|D|/site/vtt/ru_RU.vtt
+1575661007|Dennis Reimann|D|/site/vtt/sk_SK.vtt
+1575661007|Dennis Reimann|D|/site/vtt/sl_SI.vtt
+1575661007|Dennis Reimann|D|/site/vtt/sr.vtt
+1575661007|Dennis Reimann|D|/site/vtt/sv.vtt
+1575661007|Dennis Reimann|D|/site/zh-Hans/donate/index.html
+1575661007|Dennis Reimann|D|/site/zh-Hans/index.html
+1575661007|Dennis Reimann|D|/sk_SK/donate/index.html
+1575661007|Dennis Reimann|D|/sk_SK/index.html
+1575661007|Dennis Reimann|D|/sl_SI/donate/index.html
+1575661007|Dennis Reimann|D|/sl_SI/index.html
+1575661007|Dennis Reimann|D|/sr/donate/index.html
+1575661007|Dennis Reimann|D|/sr/index.html
+1575661007|Dennis Reimann|D|/sv/donate/index.html
+1575661007|Dennis Reimann|D|/sv/index.html
+1575661007|Dennis Reimann|D|/tr/donate/index.html
+1575661007|Dennis Reimann|D|/tr/index.html
+1575661007|Dennis Reimann|D|/uk/donate/index.html
+1575661007|Dennis Reimann|D|/uk/index.html
+1575661007|Dennis Reimann|D|/video/602.m4v
+1575661007|Dennis Reimann|D|/video/602.mp4
+1575661007|Dennis Reimann|D|/video/602.webm
+1575661007|Dennis Reimann|D|/vtt/ar.vtt
+1575661007|Dennis Reimann|D|/vtt/cs_CZ.vtt
+1575661007|Dennis Reimann|D|/vtt/da_DK.vtt
+1575661007|Dennis Reimann|D|/vtt/en_GB.vtt
+1575661007|Dennis Reimann|D|/vtt/fa.vtt
+1575661007|Dennis Reimann|D|/vtt/fr_FR.vtt
+1575661007|Dennis Reimann|D|/vtt/he.vtt
+1575661007|Dennis Reimann|D|/vtt/it_IT.vtt
+1575661007|Dennis Reimann|D|/vtt/ja_JP.vtt
+1575661007|Dennis Reimann|D|/vtt/pt_BR.vtt
+1575661007|Dennis Reimann|D|/vtt/ru_RU.vtt
+1575661007|Dennis Reimann|D|/vtt/sk_SK.vtt
+1575661007|Dennis Reimann|D|/vtt/sl_SI.vtt
+1575661007|Dennis Reimann|D|/vtt/sr.vtt
+1575661007|Dennis Reimann|D|/vtt/sv.vtt
+1575661007|Dennis Reimann|D|/zh-Hans/donate/index.html
+1575661007|Dennis Reimann|D|/zh-Hans/index.html
+1576233483|Dennis Reimann|M|/.github/workflows/nodejs.yml
+1576233483|Dennis Reimann|M|/.gitignore
+1576233483|Dennis Reimann|M|/tasks/util.js
+1577166028|Julian Smith, Blockfreight, Inc|M|/source/src/html/donate/tmpl.html
+1577971319|Will Binns|M|/source/src/css/styles.css
+1579077828|pavlenex|M|/source/src/html/tmpl.html
+1586629225|vswee|M|/package-lock.json
+1587039743|vswee|M|/source/transifex-master/en.json
+1587058459|vswee|M|/source/transifex-master/en.json
+1587061647|vswee|M|/source/src/css/styles.css
+1587062133|vswee|M|/source/src/css/styles.css
+1587062446|vswee|M|/source/src/html/menu-tmpl.html
+1587073904|vswee|M|/source/src/css/page-styles.css
+1587073904|vswee|M|/source/src/css/styles.css
+1587073904|vswee|M|/source/src/html/tmpl.html
+1587075753|vswee|M|/source/src/html/tmpl.html
+1587075753|vswee|M|/source/src/js/scripts.js
+1587128041|vswee|M|/source/src/html/tmpl.html
+1587128041|vswee|M|/source/src/js/scripts.js
+1587128058|vswee|M|/source/src/css/styles.css
+1587128257|vswee|M|/source/src/img/docs.png
+1587128257|vswee|M|/source/src/img/server-$_thrFor.png
+1587128257|vswee|D|/source/src/img/server-dark.jpg
+1587128257|vswee|M|/source/src/img/server-dark.png
+1587128257|vswee|D|/source/src/img/server-light.jpg
+1587128257|vswee|M|/source/src/img/server-light.png
+1587128257|vswee|D|/source/src/img/server-windowed-dark.png
+1587128257|vswee|D|/source/src/img/server-windowed-light.png
+1587129066|Riccardo Masutti|M|/source/src/html/footer-tmpl.html
+1587230380|vswee|M|/source/src/html/donate/tmpl.html
+1587230380|vswee|M|/source/src/html/footer-tmpl.html
+1587230380|vswee|M|/source/src/html/menu-tmpl.html
+1587230380|vswee|M|/source/src/html/tmpl.html
+1587230380|vswee|M|/source/transifex-master/en.json
+1587230493|vswee|M|/tasks/render_html.js
+1587236842|Dennis Reimann|M|/package-lock.json
+1587236842|Dennis Reimann|M|/package.json
+1587289301|Riccardo Masutti|M|/source/src/html/tmpl.html
+1587291937|Riccardo Masutti|M|/source/src/html/footer-tmpl.html
+1587293134|Dennis Reimann|M|/tasks/download_translations.js
+1587293134|Dennis Reimann|M|/tasks/render_html.js
+1587293134|Dennis Reimann|M|/tasks/render_vtt.js
+1587293134|Dennis Reimann|M|/tasks/util.js
+1587293147|Dennis Reimann|M|/tasks/util.js
+1587318971|vswee|M|/source/src/css/styles.css
+1587318973|vswee|M|/source/transifex-master/en.json
+1587318974|Dennis Reimann|M|/source/src/html/tmpl.html
+1587318998|Dennis Reimann|M|/source/src/html/footer-tmpl.html
+1587318998|Dennis Reimann|M|/source/src/html/tmpl.html
+1587318999|Dennis Reimann|M|/tasks/render_html.js
+1587321032|Dennis Reimann|M|/source/transifex-master/en.json
+1587321032|Dennis Reimann|M|/tasks/render_html.js
+1587321032|Dennis Reimann|M|/tasks/util.js
+1587369108|Dennis Reimann|M|/tasks/util.js
+1587370889|Dennis Reimann|D|/source/translator.php
+1587374921|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1587374921|Dennis Reimann|M|/source/src/html/footer-tmpl.html
+1587374921|Dennis Reimann|M|/source/src/html/menu-tmpl.html
+1587374921|Dennis Reimann|M|/source/src/html/tmpl.html
+1587374921|Dennis Reimann|M|/source/src/img/pro-horiz.svg
+1587374921|Dennis Reimann|M|/source/src/vtt/video_tmpl.vtt
+1587374921|Dennis Reimann|M|/tasks/render_html.js
+1587374921|Dennis Reimann|M|/tasks/render_vtt.js
+1587374921|Dennis Reimann|M|/tasks/util.js
+1587393362|Dennis Reimann|M|/README.md
+1587393362|Dennis Reimann|M|/tasks/util.js
+1587487739|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1587487739|Dennis Reimann|M|/source/src/html/tmpl.html
+1587487739|Dennis Reimann|M|/tasks/render_html.js
+1587488732|Dennis Reimann|M|/tasks/util.js
+1587489968|Dennis Reimann|M|/source/src/css/styles.css
+1587489968|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1587489968|Dennis Reimann|M|/source/src/html/menu-tmpl.html
+1587489968|Dennis Reimann|M|/source/src/html/tmpl.html
+1587489968|Dennis Reimann|M|/source/src/js/scripts.js
+1587489968|Dennis Reimann|M|/tasks/render_html.js
+1587538641|Dennis Reimann|M|/tasks/render_html.js
+1587999255|vswee|M|/source/src/css/styles.css
+1587999255|vswee|M|/source/src/html/tmpl.html
+1587999255|vswee|A|/source/src/img/custom.svg
+1587999255|vswee|A|/source/src/img/drupal.svg
+1587999255|vswee|A|/source/src/img/git.svg
+1587999255|vswee|A|/source/src/img/mag.svg
+1587999255|vswee|A|/source/src/img/presta.svg
+1587999255|vswee|A|/source/src/img/tor.svg
+1587999255|vswee|A|/source/src/img/woo.svg
+1587999255|vswee|A|/source/src/img/wp.svg
+1588066296|Dennis Reimann|M|/package-lock.json
+1588066296|Dennis Reimann|M|/package.json
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300italic.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300italic.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300italic.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300italic.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-300italic.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600italic.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600italic.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600italic.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600italic.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-600italic.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700italic.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700italic.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700italic.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700italic.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-700italic.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800italic.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800italic.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800italic.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800italic.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-800italic.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-italic.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-italic.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-italic.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-italic.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-italic.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-regular.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-regular.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-regular.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-regular.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/Open_Sans/open-sans-regular.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/LICENSE.txt
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-brands-400.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-brands-400.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-brands-400.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-brands-400.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-brands-400.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-regular-400.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-regular-400.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-regular-400.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-regular-400.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-regular-400.woff2
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-solid-900.eot
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-solid-900.svg
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-solid-900.ttf
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-solid-900.woff
+1588066296|Dennis Reimann|D|/source/src/fonts/fa_/fa-solid-900.woff2
+1588066296|Dennis Reimann|D|/source/src/img/custom.svg
+1588066296|Dennis Reimann|D|/source/src/img/docs.png
+1588066296|Dennis Reimann|D|/source/src/img/drupal.svg
+1588066296|Dennis Reimann|D|/source/src/img/favicon.png
+1588066296|Dennis Reimann|D|/source/src/img/git.svg
+1588066296|Dennis Reimann|D|/source/src/img/gradient.svg
+1588066296|Dennis Reimann|D|/source/src/img/invoice-$_thrFor.svg
+1588066296|Dennis Reimann|D|/source/src/img/invoice-dark.svg
+1588066296|Dennis Reimann|D|/source/src/img/invoice-light.svg
+1588066296|Dennis Reimann|D|/source/src/img/mag.svg
+1588066296|Dennis Reimann|D|/source/src/img/presta.svg
+1588066296|Dennis Reimann|D|/source/src/img/pro-horiz.svg
+1588066296|Dennis Reimann|D|/source/src/img/server-$_thrFor.png
+1588066296|Dennis Reimann|D|/source/src/img/server-dark.png
+1588066296|Dennis Reimann|D|/source/src/img/server-light.png
+1588066296|Dennis Reimann|D|/source/src/img/tor.svg
+1588066296|Dennis Reimann|D|/source/src/img/woo.svg
+1588066296|Dennis Reimann|D|/source/src/img/wp.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300italic.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300italic.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300italic.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300italic.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-300italic.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600italic.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600italic.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600italic.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600italic.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-600italic.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700italic.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700italic.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700italic.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700italic.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-700italic.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800italic.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800italic.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800italic.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800italic.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-800italic.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-italic.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-italic.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-italic.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-italic.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-italic.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-regular.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-regular.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-regular.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-regular.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-regular.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/LICENSE.txt
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-brands-400.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-brands-400.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-brands-400.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-brands-400.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-brands-400.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-regular-400.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-regular-400.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-regular-400.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-regular-400.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-regular-400.woff2
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-solid-900.eot
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-solid-900.svg
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-solid-900.ttf
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-solid-900.woff
+1588066296|Dennis Reimann|A|/source/src/static/fonts/fa_/fa-solid-900.woff2
+1588066296|Dennis Reimann|A|/source/src/static/img/custom.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/docs.png
+1588066296|Dennis Reimann|A|/source/src/static/img/drupal.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/git.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/gradient.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/invoice-dark.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/invoice-light.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/mag.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/presta.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/pro-horiz.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/server-dark.png
+1588066296|Dennis Reimann|A|/source/src/static/img/server-light.png
+1588066296|Dennis Reimann|A|/source/src/static/img/tor.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/woo.svg
+1588066296|Dennis Reimann|A|/source/src/static/img/wp.svg
+1588066296|Dennis Reimann|A|/source/src/static/video/602.m4v
+1588066296|Dennis Reimann|A|/source/src/static/video/602.mp4
+1588066296|Dennis Reimann|A|/source/src/static/video/602.webm
+1588066296|Dennis Reimann|D|/source/src/video/602.m4v
+1588066296|Dennis Reimann|D|/source/src/video/602.mp4
+1588066296|Dennis Reimann|D|/source/src/video/602.webm
+1588066434|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1588066434|Dennis Reimann|M|/source/src/html/tmpl.html
+1588066434|Dennis Reimann|A|/source/src/static/android-chrome-192x192.png
+1588066434|Dennis Reimann|A|/source/src/static/android-chrome-512x512.png
+1588066434|Dennis Reimann|A|/source/src/static/apple-touch-icon.png
+1588066434|Dennis Reimann|A|/source/src/static/browserconfig.xml
+1588066434|Dennis Reimann|A|/source/src/static/favicon-16x16.png
+1588066434|Dennis Reimann|A|/source/src/static/favicon-32x32.png
+1588066434|Dennis Reimann|A|/source/src/static/favicon.ico
+1588066434|Dennis Reimann|A|/source/src/static/mstile-150x150.png
+1588066434|Dennis Reimann|A|/source/src/static/safari-pinned-tab.svg
+1588066434|Dennis Reimann|A|/source/src/static/site.webmanifest
+1588366840|Esky33|M|/source/src/json/donations.json
+1590490506|vswee|M|/source/transifex-master/en.json
+1590506540|vswee|M|/source/src/html/tmpl.html
+1591620055|Riccardo Masutti|M|/source/src/json/donations.json
+1591774499|Pavlenex|M|/source/src/json/donations.json
+1593334762|Riccardo Masutti|M|/source/src/html/tmpl.html
+1596725011|Dennis Reimann|M|/package-lock.json
+1596725011|Dennis Reimann|M|/package.json
+1596725135|Dennis Reimann|M|/source/src/html/tmpl.html
+1596728056|Dennis Reimann|M|/source/src/css/page-styles.css
+1596728056|Dennis Reimann|M|/source/src/css/styles.css
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300.ttf
+1596728056|Dennis Reimann|M|/source/src/static/fonts/Open_Sans/open-sans-300.woff
+1596728056|Dennis Reimann|M|/source/src/static/fonts/Open_Sans/open-sans-300.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300italic.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300italic.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300italic.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300italic.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-300italic.woff2
+1596728056|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-400.woff
+1596728056|Dennis Reimann|A|/source/src/static/fonts/Open_Sans/open-sans-400.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600.ttf
+1596728056|Dennis Reimann|M|/source/src/static/fonts/Open_Sans/open-sans-600.woff
+1596728056|Dennis Reimann|M|/source/src/static/fonts/Open_Sans/open-sans-600.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600italic.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600italic.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600italic.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600italic.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-600italic.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700italic.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700italic.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700italic.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700italic.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-700italic.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800italic.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800italic.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800italic.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800italic.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-800italic.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-italic.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-italic.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-italic.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-italic.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-italic.woff2
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-regular.eot
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-regular.svg
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-regular.ttf
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-regular.woff
+1596728056|Dennis Reimann|D|/source/src/static/fonts/Open_Sans/open-sans-regular.woff2
+1597023434|Daniel Leedan|M|/source/src/css/styles.css
+1597023434|Daniel Leedan|M|/source/src/html/tmpl.html
+1598042678|Dennis Reimann|M|/source/src/css/styles.css
+1598042678|Dennis Reimann|M|/source/src/html/menu-tmpl.html
+1599181819|Daniel Leedan|M|/source/src/html/menu-tmpl.html
+1599181819|Daniel Leedan|M|/source/src/html/tmpl.html
+1599183968|Daniel Leedan|M|/source/src/html/menu-tmpl.html
+1599236342|Daniel Leedan|M|/source/src/html/menu-tmpl.html
+1599874484|Daniel Leedan|M|/source/src/html/tmpl.html
+1600177084|Daniel Leedan|M|/source/src/html/footer-tmpl.html
+1600177084|Daniel Leedan|M|/source/src/html/menu-tmpl.html
+1600177084|Daniel Leedan|M|/source/src/html/tmpl.html
+1600180406|Daniel Leedan|M|/README.md
+1600359772|Daniel Leedan|M|/source/src/html/footer-tmpl.html
+1600359772|Daniel Leedan|M|/source/src/html/tmpl.html
+1601917051|Pavlenex|M|/source/src/json/donations.json
+1602372350|Daniel Leedan|M|/source/src/html/footer-tmpl.html
+1602372350|Daniel Leedan|M|/source/src/html/tmpl.html
+1604398583|Dennis Reimann|M|/package-lock.json
+1604398583|Dennis Reimann|M|/package.json
+1604398629|Dennis Reimann|M|/source/src/json/donations.json
+1604398732|Dennis Reimann|A|/.github/workflows/build.yml
+1604398732|Dennis Reimann|D|/.github/workflows/nodejs.yml
+1610463914|Dennis Reimann|M|/package-lock.json
+1611264884|Zaxounette|A|/source/src/static/bitcoin.pdf
+1612283780|Dennis Reimann|M|/package-lock.json
+1612283780|Dennis Reimann|M|/package.json
+1617717894|Dennis Reimann|M|/package-lock.json
+1617727535|Dennis Reimann|M|/package.json
+1618558982|Dennis Reimann|M|/source/src/html/menu-tmpl.html
+1618559225|Dennis Reimann|M|/source/src/static/android-chrome-192x192.png
+1618559225|Dennis Reimann|M|/source/src/static/android-chrome-512x512.png
+1618559225|Dennis Reimann|M|/source/src/static/apple-touch-icon.png
+1618559225|Dennis Reimann|M|/source/src/static/favicon-16x16.png
+1618559225|Dennis Reimann|M|/source/src/static/favicon-32x32.png
+1618559225|Dennis Reimann|M|/source/src/static/img/docs.png
+1618559225|Dennis Reimann|M|/source/src/static/img/gradient.svg
+1618559225|Dennis Reimann|M|/source/src/static/img/invoice-dark.svg
+1618559225|Dennis Reimann|M|/source/src/static/img/invoice-light.svg
+1618559225|Dennis Reimann|M|/source/src/static/img/presta.svg
+1618559225|Dennis Reimann|M|/source/src/static/img/pro-horiz.svg
+1618559225|Dennis Reimann|M|/source/src/static/mstile-150x150.png
+1618559225|Dennis Reimann|M|/source/src/static/safari-pinned-tab.svg
+1618562551|Dennis Reimann|M|/source/src/html/tmpl.html
+1618562551|Dennis Reimann|M|/source/transifex-master/en.json
+1618562552|Dennis Reimann|M|/source/src/css/styles.css
+1618562552|Dennis Reimann|M|/source/src/html/menu-tmpl.html
+1618562552|Dennis Reimann|M|/source/src/html/tmpl.html
+1618562552|Dennis Reimann|A|/source/src/static/img/btcpay.svg
+1618562552|Dennis Reimann|D|/source/src/static/img/git.svg
+1618562552|Dennis Reimann|M|/source/transifex-master/en.json
+1618566652|Dennis Reimann|M|/source/src/html/tmpl.html
+1618566652|Dennis Reimann|M|/source/transifex-master/en.json
+1618566720|Dennis Reimann|M|/source/transifex-master/en.json
+1618568734|Dennis Reimann|M|/.github/workflows/build.yml
+1618569386|Dennis Reimann|M|/.github/workflows/build.yml
+1618912925|d11n|M|/.github/workflows/build.yml
+1620813940|Dennis Reimann|M|/package-lock.json
+1620813940|Dennis Reimann|M|/package.json
+1621500324|Dennis Reimann|M|/source/src/css/styles.css
+1621500324|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1621501558|Dennis Reimann|M|/source/src/html/donate/tmpl.html
+1621501558|Dennis Reimann|M|/source/src/html/tmpl.html
+1621501558|Dennis Reimann|A|/source/src/static/card.png
+1621501558|Dennis Reimann|M|/source/src/static/favicon.ico
+1621501558|Dennis Reimann|D|/source/src/static/safari-pinned-tab.svg
