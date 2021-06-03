@@ -1,1 +1,0 @@
-gource combined.txt -w -1920x1080 --title "Bitcoin ecosystem" --seconds-per-day 0.0055  --multi-sampling --user-friction 0.1 --user-scale 0.7 --auto-skip-seconds 0.05 --file-idle-time 0 --font-size 25  --hide filenames,mouse  --date-format "%B %Y" -r 30

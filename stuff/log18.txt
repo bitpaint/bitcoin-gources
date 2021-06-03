@@ -1,0 +1,968 @@
+1583121733|nolim1t|A|/README.md
+1583121733|nolim1t|A|/bitcoin/bitcoin.conf
+1583121733|nolim1t|A|/docker-compose.yml
+1583121733|nolim1t|A|/lnd/lnd.conf
+1583121733|nolim1t|A|/nginx/conf.d/default.conf
+1583121733|nolim1t|A|/nginx/mime.types
+1583121733|nolim1t|A|/nginx/nginx.conf
+1583121733|nolim1t|A|/nginx/www/index.html
+1583144523|nolim1t|A|/invoicer/invoicer.conf
+1583144662|nolim1t|M|/docker-compose.yml
+1583144992|nolim1t|A|/build/lnd-unlock/Dockerfile
+1583144992|nolim1t|A|/build/lnd-unlock/unlock.sh
+1583145396|nolim1t|M|/docker-compose.yml
+1583145492|nolim1t|M|/build/lnd-unlock/unlock.sh
+1583145617|nolim1t|M|/docker-compose.yml
+1583146265|nolim1t|M|/build/lnd-unlock/unlock.sh
+1583234183|nolim1t|A|/install-box.sh
+1583234360|nolim1t|M|/README.md
+1583234388|nolim1t|M|/invoicer/invoicer.conf
+1583234482|nolim1t|A|/.gitignore
+1583234587|BT|A|/LICENSE
+1583234666|nolim1t|M|/install-box.sh
+1583234870|nolim1t|M|/install-box.sh
+1583316748|nolim1t|A|/secrets/.gitkeep
+1583316777|nolim1t|M|/docker-compose.yml
+1583317380|nolim1t|M|/build/lnd-unlock/unlock.sh
+1583317380|nolim1t|M|/docker-compose.yml
+1583318341|nolim1t|M|/README.md
+1583409883|nolim1t|A|/nginx/log/.gitkeep
+1583410035|nolim1t|M|/README.md
+1583464225|nolim1t|M|/nginx/www/index.html
+1583464254|nolim1t|M|/README.md
+1583466853|nolim1t|M|/docker-compose.yml
+1583467316|nolim1t|M|/docker-compose.yml
+1583467473|nolim1t|M|/README.md
+1583468621|nolim1t|M|/README.md
+1583471981|nolim1t|M|/lnd/lnd.conf
+1583472967|nolim1t|M|/invoicer/invoicer.conf
+1583473060|nolim1t|M|/invoicer/invoicer.conf
+1583473941|nolim1t|A|/invoicer/www/.gitkeep
+1583474321|nolim1t|M|/docker-compose.yml
+1583474348|nolim1t|M|/invoicer/invoicer.conf
+1583475319|nolim1t|A|/bin/.gitkeep
+1583486763|nolim1t|M|/docker-compose.yml
+1583487286|nolim1t|A|/build/tor/Dockerfile
+1583487286|nolim1t|A|/tor/data/.gitkeep
+1583487286|nolim1t|A|/tor/torrc
+1583487380|nolim1t|M|/docker-compose.yml
+1583487554|nolim1t|M|/docker-compose.yml
+1583487606|nolim1t|M|/build/tor/Dockerfile
+1583487832|nolim1t|A|/tor/run/.gitkeep
+1583488062|nolim1t|M|/docker-compose.yml
+1583488092|nolim1t|A|/build/volume-permissions/Dockerfile
+1583488765|nolim1t|M|/tor/torrc
+1583489257|nolim1t|M|/tor/torrc
+1583489650|nolim1t|M|/docker-compose.yml
+1583491851|nolim1t|M|/docker-compose.yml
+1583491851|nolim1t|M|/tor/torrc
+1583648132|nolim1t|M|/docker-compose.yml
+1583750932|nolim1t|M|/docker-compose.yml
+1583751120|nolim1t|M|/docker-compose.yml
+1583752665|nolim1t|M|/docker-compose.yml
+1583752809|nolim1t|M|/docker-compose.yml
+1583752901|nolim1t|M|/docker-compose.yml
+1583814618|nolim1t|M|/install-box.sh
+1583814754|nolim1t|M|/install-box.sh
+1583814808|nolim1t|A|/configure-box.sh
+1583815153|nolim1t|M|/nginx/conf.d/default.conf
+1583816272|nolim1t|M|/README.md
+1583816929|nolim1t|M|/configure-box.sh
+1583816996|nolim1t|M|/configure-box.sh
+1583826110|nolim1t|M|/configure-box.sh
+1583826439|nolim1t|M|/README.md
+1583826678|nolim1t|M|/docker-compose.yml
+1583827065|nolim1t|M|/bitcoin/bitcoin.conf
+1583923976|nolim1t|M|/README.md
+1584092427|nolim1t|M|/bitcoin/bitcoin.conf
+1584092924|nolim1t|M|/configure-box.sh
+1584093003|nolim1t|M|/README.md
+1584096674|nolim1t|M|/lnd/lnd.conf
+1584167677|nolim1t|A|/CONTRIBUTING.md
+1584167831|nolim1t|M|/README.md
+1584171223|nolim1t|M|/configure-box.sh
+1584171671|nolim1t|M|/README.md
+1585305196|nolim1t|M|/bitcoin/bitcoin.conf
+1585306106|nolim1t|M|/bitcoin/bitcoin.conf
+1585392707|Mayank|M|/nginx/conf.d/default.conf
+1585418338|nolim1t|A|/contrib/README.md
+1585418462|nolim1t|A|/contrib/keysend/keysend.sh
+1585418545|BT|M|/LICENSE
+1585418661|nolim1t|M|/docker-compose.yml
+1585487542|nolim1t|M|/lnd/lnd.conf
+1586256796|nolim1t|M|/bitcoin/bitcoin.conf
+1586256948|nolim1t|M|/docker-compose.yml
+1586595617|nolim1t|M|/docker-compose.yml
+1586595686|nolim1t|M|/docker-compose.yml
+1587392080|Mayank|M|/configure-box.sh
+1587392080|Mayank|M|/docker-compose.yml
+1587392080|Mayank|D|/invoicer/invoicer.conf
+1587392080|Mayank|D|/invoicer/www/.gitkeep
+1587392146|Mayank|M|/nginx/conf.d/default.conf
+1587924515|BT|M|/README.md
+1587928455|Mayank Chhabra|M|/README.md
+1587928544|Mayank Chhabra|M|/docker-compose.yml
+1588065439|nolim1t|M|/contrib/README.md
+1588065439|nolim1t|A|/contrib/partitioner/partitioner.py
+1588068647|BT|M|/install-box.sh
+1588084263|nolim1t|M|/contrib/partitioner/partitioner.py
+1588085284|nolim1t|M|/contrib/partitioner/partitioner.py
+1588086014|nolim1t|M|/contrib/partitioner/partitioner.py
+1588086245|BT|M|/lnd/lnd.conf
+1588086335|BT|M|/lnd/lnd.conf
+1588157805|nolim1t|M|/contrib/partitioner/partitioner.py
+1588158285|nolim1t|M|/contrib/partitioner/partitioner.py
+1588168582|nolim1t|M|/contrib/partitioner/partitioner.py
+1588762408|Mayank|M|/docker-compose.yml
+1590052383|Mayank|D|/build/lnd-unlock/Dockerfile
+1590052383|Mayank|D|/build/lnd-unlock/unlock.sh
+1590052383|Mayank|A|/db/jwt-private-key/.gitkeep
+1590052383|Mayank|A|/db/jwt-public-key/.gitkeep
+1590052383|Mayank|M|/docker-compose.yml
+1590052408|Mayank|M|/docker-compose.yml
+1590053096|Mayank|M|/nginx/conf.d/default.conf
+1590084023|Mayank|M|/README.md
+1590087792|Mayank|M|/docker-compose.yml
+1590336275|BT|M|/docker-compose.yml
+1590337020|nolim1t|M|/contrib/partitioner/partitioner.py
+1590654699|Mayank|M|/docker-compose.yml
+1590728426|Mayank|M|/README.md
+1590729495|Mayank|M|/LICENSE
+1590743932|Mayank Chhabra|M|/README.md
+1590825060|Mayank|M|/README.md
+1590903570|Mayank|M|/docker-compose.yml
+1590938879|BT|M|/docker-compose.yml
+1591180191|nolim1t|M|/contrib/partitioner/partitioner.py
+1591285824|Mayank|M|/docker-compose.yml
+1591322639|Mayank|M|/docker-compose.yml
+1591342978|nolim1t|M|/docker-compose.yml
+1591366571|Mayank|M|/docker-compose.yml
+1591700014|Mayank|M|/docker-compose.yml
+1591709808|nolim1t|M|/docker-compose.yml
+1591709995|nolim1t|M|/configure-box.sh
+1591711805|nolim1t|M|/contrib/partitioner/partitioner.py
+1591713201|nolim1t|M|/lnd/lnd.conf
+1591852276|nolim1t|M|/docker-compose.yml
+1592033483|BT|M|/docker-compose.yml
+1592034191|Mayank Chhabra|M|/docker-compose.yml
+1592286087|BT|M|/bitcoin/bitcoin.conf
+1592461215|BT|M|/bitcoin/bitcoin.conf
+1592549513|BT|M|/bitcoin/bitcoin.conf
+1592549590|BT|M|/configure-box.sh
+1592550550|BT|M|/configure-box.sh
+1592550913|BT|M|/lnd/lnd.conf
+1592799401|nolim1t|M|/docker-compose.yml
+1592801607|nolim1t|M|/tor/torrc
+1592801960|nolim1t|M|/configure-box.sh
+1592896826|nolim1t|M|/configure-box.sh
+1592897892|nolim1t|M|/docker-compose.yml
+1592898232|nolim1t|M|/bitcoin/bitcoin.conf
+1592898300|nolim1t|M|/tor/torrc
+1592898316|nolim1t|M|/configure-box.sh
+1592898563|nolim1t|M|/docker-compose.yml
+1592898576|nolim1t|M|/lnd/lnd.conf
+1592898585|nolim1t|M|/configure-box.sh
+1592898698|nolim1t|M|/nginx/conf.d/default.conf
+1592898858|nolim1t|M|/docker-compose.yml
+1592899309|nolim1t|M|/docker-compose.yml
+1592899712|nolim1t|M|/bitcoin/bitcoin.conf
+1592899712|nolim1t|M|/lnd/lnd.conf
+1592899712|nolim1t|M|/tor/torrc
+1592900054|nolim1t|M|/docker-compose.yml
+1592900476|nolim1t|M|/docker-compose.yml
+1592901127|nolim1t|M|/bitcoin/bitcoin.conf
+1592901127|nolim1t|M|/docker-compose.yml
+1592901127|nolim1t|M|/lnd/lnd.conf
+1592901127|nolim1t|M|/tor/torrc
+1592901305|nolim1t|M|/docker-compose.yml
+1592902065|nolim1t|M|/docker-compose.yml
+1592902287|nolim1t|M|/configure-box.sh
+1592902957|nolim1t|M|/docker-compose.yml
+1592904646|nolim1t|M|/bitcoin/bitcoin.conf
+1592974745|nolim1t|M|/docker-compose.yml
+1592980075|nolim1t|M|/nginx/conf.d/default.conf
+1592980971|nolim1t|M|/configure-box.sh
+1592981732|nolim1t|M|/bitcoin/bitcoin.conf
+1592985110|nolim1t|M|/configure-box.sh
+1592985173|nolim1t|M|/configure-box.sh
+1592985628|nolim1t|M|/configure-box.sh
+1592986564|nolim1t|M|/bitcoin/bitcoin.conf
+1592986831|nolim1t|M|/lnd/lnd.conf
+1592987240|nolim1t|M|/configure-box.sh
+1592987855|nolim1t|M|/bitcoin/bitcoin.conf
+1592989007|nolim1t|M|/docker-compose.yml
+1592990368|nolim1t|M|/configure-box.sh
+1592990368|nolim1t|M|/docker-compose.yml
+1592990790|nolim1t|M|/configure-box.sh
+1592994296|nolim1t|M|/configure-box.sh
+1592994376|nolim1t|M|/configure-box.sh
+1592994935|BT|A|/NETWORKING.md
+1592995097|BT|M|/NETWORKING.md
+1593065975|nolim1t|M|/lnd/lnd.conf
+1593066368|nolim1t|M|/lnd/lnd.conf
+1593066501|nolim1t|M|/docker-compose.yml
+1593080272|nolim1t|M|/nginx/conf.d/default.conf
+1593151354|Mayank|D|/build/tor/Dockerfile
+1593151354|Mayank|M|/docker-compose.yml
+1593151552|Mayank|M|/configure-box.sh
+1593151933|Mayank|M|/configure-box.sh
+1593151933|Mayank|M|/tor/torrc
+1593152052|Mayank|M|/configure-box.sh
+1593152309|Mayank|M|/install-box.sh
+1593152427|Mayank|D|/build/volume-permissions/Dockerfile
+1593152800|Mayank|M|/lnd/lnd.conf
+1593399850|nolim1t|M|/docker-compose.yml
+1593402776|Mayank|M|/lnd/lnd.conf
+1593758808|Mayank|M|/lnd/lnd.conf
+1593758808|Mayank|M|/tor/torrc
+1593950240|Mayank|M|/configure-box.sh
+1593951382|Mayank|M|/lnd/lnd.conf
+1593952251|Mayank|M|/docker-compose.yml
+1593952445|Mayank|M|/docker-compose.yml
+1593976569|Mayank|A|/db/.gitkeep
+1593976569|Mayank|D|/db/jwt-private-key/.gitkeep
+1593976569|Mayank|D|/db/jwt-public-key/.gitkeep
+1593976569|Mayank|M|/docker-compose.yml
+1594019983|BT|M|/lnd/lnd.conf
+1594021720|BT|M|/contrib/partitioner/partitioner.py
+1594063396|Mayank|M|/NETWORKING.md
+1594063396|Mayank|M|/README.md
+1594063396|Mayank|M|/install-box.sh
+1594063590|Mayank|M|/README.md
+1594094757|Mayank|M|/configure-box.sh
+1594124470|Mayank Chhabra|M|/docker-compose.yml
+1594124791|Mayank Chhabra|M|/docker-compose.yml
+1594131446|Mayank Chhabra|M|/configure-box.sh
+1594134245|Mayank Chhabra|M|/tor/torrc
+1594147322|Mayank Chhabra|M|/docker-compose.yml
+1594147689|Mayank Chhabra|M|/README.md
+1594147689|Mayank Chhabra|M|/install-box.sh
+1594205616|Mayank Chhabra|M|/README.md
+1594205616|Mayank Chhabra|M|/install-box.sh
+1594289231|BT|M|/configure-box.sh
+1594385456|BT|M|/configure-box.sh
+1594385456|BT|M|/install-box.sh
+1594479461|BT|M|/README.md
+1594479461|BT|M|/docker-compose.yml
+1594479461|BT|M|/lnd/lnd.conf
+1594623428|Mayank Chhabra|A|/signals/.gitkeep
+1594623428|Mayank Chhabra|A|/statuses/.gitkeep
+1594707111|BT|M|/contrib/partitioner/partitioner.py
+1594721062|Mayank Chhabra|D|/signals/.gitkeep
+1594780113|Luke Childs|M|/docker-compose.yml
+1594780113|Luke Childs|A|/events/signals/.blah
+1594780113|Luke Childs|A|/events/triggers/reboot
+1594780113|Luke Childs|A|/events/triggers/shutdown
+1594780113|Luke Childs|A|/karen
+1594781264|Luke Childs|D|/events/signals/.blah
+1594781264|Luke Childs|A|/events/signals/.gitkeep
+1594800803|Mayank Chhabra|M|/README.md
+1594800803|Mayank Chhabra|M|/docker-compose.yml
+1594800803|Mayank Chhabra|M|/install-box.sh
+1594892421|Luke Childs|M|/lnd/lnd.conf
+1595070084|Mayank Chhabra|M|/docker-compose.yml
+1595399051|Mayank Chhabra|A|/bin/README.md
+1595399051|Mayank Chhabra|A|/bin/update/.updateignore
+1595399051|Mayank Chhabra|A|/bin/update/00-run.sh
+1595399051|Mayank Chhabra|A|/bin/update/01-run.sh
+1595399051|Mayank Chhabra|A|/bin/update/02-run.sh
+1595399051|Mayank Chhabra|A|/bin/update/03-run.sh
+1595399051|Mayank Chhabra|M|/docker-compose.yml
+1595399051|Mayank Chhabra|A|/events/triggers/update
+1595399051|Mayank Chhabra|A|/info.json
+1595399051|Mayank Chhabra|A|/statuses/update-status.json
+1595400059|Mayank Chhabra|M|/README.md
+1595400059|Mayank Chhabra|M|/info.json
+1595400059|Mayank Chhabra|M|/install-box.sh
+1595409909|Mayank Chhabra|D|/bin/.gitkeep
+1595409909|Mayank Chhabra|D|/bin/README.md
+1595409909|Mayank Chhabra|A|/bin/update/README.md
+1595439801|Mayank Chhabra|M|/README.md
+1595440668|Mayank Chhabra|M|/README.md
+1595440775|Mayank Chhabra|M|/README.md
+1595497339|Luke Childs|M|/contrib/partitioner/partitioner.py
+1595618714|Mayank Chhabra|M|/bin/update/00-run.sh
+1595618714|Mayank Chhabra|M|/bin/update/01-run.sh
+1595776342|BT|M|/contrib/partitioner/partitioner.py
+1595824106|BT|M|/contrib/partitioner/partitioner.py
+1595928947|Luke Childs|M|/lnd/lnd.conf
+1595933392|Mayank Chhabra|M|/tor/torrc
+1595996657|Mayank Chhabra|M|/bin/update/.updateignore
+1596004139|Mayank Chhabra|M|/README.md
+1596004139|Mayank Chhabra|M|/bin/update/01-run.sh
+1596004139|Mayank Chhabra|M|/events/triggers/reboot
+1596004139|Mayank Chhabra|M|/events/triggers/shutdown
+1596004139|Mayank Chhabra|A|/scripts/start
+1596004139|Mayank Chhabra|A|/scripts/status
+1596004139|Mayank Chhabra|A|/scripts/stop
+1596009487|Mayank Chhabra|M|/docker-compose.yml
+1596009487|Mayank Chhabra|M|/scripts/start
+1596009513|Mayank Chhabra|M|/configure-box.sh
+1596018038|Mayank Chhabra|A|/scripts/umbrel-os/boot
+1596088953|Mayank Chhabra|M|/docker-compose.yml
+1596088953|Mayank Chhabra|M|/nginx/conf.d/default.conf
+1596090650|Mayank Chhabra|A|/bin/.gitkeep
+1596090650|Mayank Chhabra|D|/bin/update/.updateignore
+1596090650|Mayank Chhabra|D|/bin/update/00-run.sh
+1596090650|Mayank Chhabra|D|/bin/update/01-run.sh
+1596090650|Mayank Chhabra|D|/bin/update/02-run.sh
+1596090650|Mayank Chhabra|D|/bin/update/03-run.sh
+1596090650|Mayank Chhabra|D|/bin/update/README.md
+1596090650|Mayank Chhabra|M|/events/triggers/update
+1596090650|Mayank Chhabra|A|/scripts/update/.updateignore
+1596090650|Mayank Chhabra|A|/scripts/update/00-run.sh
+1596090650|Mayank Chhabra|A|/scripts/update/01-run.sh
+1596090650|Mayank Chhabra|A|/scripts/update/02-run.sh
+1596090650|Mayank Chhabra|A|/scripts/update/03-run.sh
+1596090650|Mayank Chhabra|A|/scripts/update/README.md
+1596205945|Mayank Chhabra|M|/README.md
+1596205945|Mayank Chhabra|M|/configure-box.sh
+1596205945|Mayank Chhabra|M|/events/triggers/update
+1596205945|Mayank Chhabra|D|/install-box.sh
+1596205945|Mayank Chhabra|M|/scripts/update/README.md
+1596206915|Mayank Chhabra|M|/README.md
+1596206915|Mayank Chhabra|D|/configure-box.sh
+1596206915|Mayank Chhabra|A|/scripts/configure
+1596206915|Mayank Chhabra|M|/scripts/umbrel-os/boot
+1596216160|Mayank Chhabra|D|/CONTRIBUTING.md
+1596216160|Mayank Chhabra|M|/NETWORKING.md
+1596216160|Mayank Chhabra|M|/README.md
+1596216160|Mayank Chhabra|M|/scripts/configure
+1596222168|Mayank Chhabra|M|/docker-compose.yml
+1596223560|Mayank Chhabra|M|/README.md
+1596223560|Mayank Chhabra|M|/info.json
+1596253623|Mayank Chhabra|M|/karen
+1596254532|Mayank Chhabra|M|/README.md
+1596254532|Mayank Chhabra|M|/info.json
+1596437461|Mayank Chhabra|M|/scripts/start
+1596437461|Mayank Chhabra|M|/scripts/stop
+1596437603|Mayank Chhabra|M|/README.md
+1596437603|Mayank Chhabra|M|/info.json
+1596463037|Aaron Dewes|M|/bitcoin/bitcoin.conf
+1596463037|Aaron Dewes|M|/scripts/configure
+1596464254|Mayank Chhabra|M|/README.md
+1596464574|Mayank Chhabra|M|/README.md
+1596465369|Mayank Chhabra|M|/README.md
+1596686127|Mayank Chhabra|M|/.gitignore
+1596686127|Mayank Chhabra|M|/README.md
+1596686127|Mayank Chhabra|A|/bitcoin/.gitkeep
+1596686127|Mayank Chhabra|D|/bitcoin/bitcoin.conf
+1596686127|Mayank Chhabra|M|/contrib/partitioner/partitioner.py
+1596686127|Mayank Chhabra|M|/docker-compose.yml
+1596686127|Mayank Chhabra|A|/lnd/.gitkeep
+1596686127|Mayank Chhabra|D|/lnd/lnd.conf
+1596686127|Mayank Chhabra|M|/scripts/configure
+1596686127|Mayank Chhabra|A|/scripts/rpcauth.py
+1596686127|Mayank Chhabra|M|/scripts/update/.updateignore
+1596686127|Mayank Chhabra|A|/scripts/update/.updateinclude
+1596686127|Mayank Chhabra|M|/scripts/update/00-run.sh
+1596686127|Mayank Chhabra|M|/scripts/update/01-run.sh
+1596686127|Mayank Chhabra|D|/secrets/.gitkeep
+1596686127|Mayank Chhabra|A|/templates/.env-sample
+1596686127|Mayank Chhabra|A|/templates/bitcoin-sample.conf
+1596686127|Mayank Chhabra|A|/templates/lnd-sample.conf
+1596686127|Mayank Chhabra|A|/templates/torrc-sample
+1596686127|Mayank Chhabra|D|/tor/torrc
+1596704086|Luke Childs|A|/.umbrel
+1596704086|Luke Childs|M|/scripts/umbrel-os/boot
+1596704086|Luke Childs|A|/scripts/umbrel-os/external-storage-mounter
+1596704086|Luke Childs|A|/scripts/umbrel-os/is-on-external-storage
+1596706750|Mayank Chhabra|D|/contrib/README.md
+1596706750|Mayank Chhabra|D|/contrib/keysend/keysend.sh
+1596706750|Mayank Chhabra|D|/contrib/partitioner/partitioner.py
+1596706750|Mayank Chhabra|M|/scripts/update/.updateignore
+1596706882|Mayank Chhabra|M|/templates/bitcoin-sample.conf
+1596734964|Mayank Chhabra|M|/.gitignore
+1596734964|Mayank Chhabra|M|/templates/bitcoin-sample.conf
+1596796668|Mayank Chhabra|M|/scripts/configure
+1596796668|Mayank Chhabra|M|/scripts/umbrel-os/boot
+1596942322|Mayank Chhabra|M|/scripts/configure
+1596942322|Mayank Chhabra|M|/scripts/umbrel-os/boot
+1596942322|Mayank Chhabra|D|/scripts/umbrel-os/external-storage-mounter
+1596942322|Mayank Chhabra|A|/scripts/umbrel-os/external-storage/is-mounted
+1596942322|Mayank Chhabra|A|/scripts/umbrel-os/external-storage/mount
+1596942322|Mayank Chhabra|D|/scripts/umbrel-os/is-on-external-storage
+1596942322|Mayank Chhabra|A|/scripts/umbrel-os/services/umbrel-connection-details.service
+1596942322|Mayank Chhabra|A|/scripts/umbrel-os/services/umbrel-external-storage.service
+1596942322|Mayank Chhabra|A|/scripts/umbrel-os/services/umbrel-startup.service
+1596943627|Mayank Chhabra|M|/scripts/umbrel-os/services/umbrel-connection-details.service
+1596943627|Mayank Chhabra|A|/scripts/umbrel-os/umbrel-details
+1596953887|Mayank Chhabra|M|/templates/bitcoin-sample.conf
+1596960872|Mayank Chhabra|M|/README.md
+1596960872|Mayank Chhabra|M|/scripts/configure
+1596960872|Mayank Chhabra|M|/scripts/start
+1596960872|Mayank Chhabra|M|/scripts/umbrel-os/boot
+1596980279|Mayank Chhabra|A|/scripts/umbrel-os/external-storage/unmount
+1596980279|Mayank Chhabra|M|/scripts/umbrel-os/services/umbrel-external-storage.service
+1596980279|Mayank Chhabra|M|/scripts/umbrel-os/services/umbrel-startup.service
+1596981936|Mayank Chhabra|D|/bin/.gitkeep
+1596982807|Mayank Chhabra|M|/README.md
+1596982807|Mayank Chhabra|M|/info.json
+1597039983|Mayank Chhabra|M|/README.md
+1597107638|Mayank Chhabra|M|/templates/lnd-sample.conf
+1597108215|Mayank Chhabra|M|/scripts/configure
+1597108215|Mayank Chhabra|M|/templates/lnd-sample.conf
+1597138739|Mayank Chhabra|M|/docker-compose.yml
+1597138854|Mayank Chhabra|M|/docker-compose.yml
+1597138942|Mayank Chhabra|M|/docker-compose.yml
+1597139220|Mayank Chhabra|M|/.gitignore
+1597139220|Mayank Chhabra|D|/statuses/.gitkeep
+1597142885|Mayank Chhabra|M|/docker-compose.yml
+1597145267|Mayank Chhabra|D|/scripts/umbrel-os/external-storage/unmount
+1597145267|Mayank Chhabra|M|/scripts/umbrel-os/services/umbrel-external-storage.service
+1597224330|Luke Childs|D|/scripts/umbrel-os/external-storage/is-mounted
+1597224330|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1597252955|Mayank Chhabra|D|/scripts/umbrel-os/boot
+1597253972|Mayank Chhabra|M|/scripts/umbrel-os/external-storage/mount
+1597293796|Mayank Chhabra|M|/scripts/umbrel-os/external-storage/mount
+1597296276|Mayank Chhabra|M|/scripts/umbrel-os/external-storage/mount
+1597296691|Mayank Chhabra|M|/docker-compose.yml
+1597318342|Mayank Chhabra|M|/scripts/update/01-run.sh
+1597384031|Aaron Dewes|A|/.github/workflows/main.yml
+1597387000|Luke Childs|M|/.github/workflows/main.yml
+1597461223|Luke Childs|M|/events/triggers/update
+1597461223|Luke Childs|A|/scripts/umbrel-os/external-storage/update-from-sdcard
+1597461223|Luke Childs|A|/scripts/umbrel-os/semver
+1597461223|Luke Childs|M|/scripts/umbrel-os/services/umbrel-external-storage.service
+1597461223|Luke Childs|M|/scripts/update/00-run.sh
+1597461223|Luke Childs|M|/scripts/update/01-run.sh
+1597461223|Luke Childs|M|/scripts/update/02-run.sh
+1597461223|Luke Childs|M|/scripts/update/03-run.sh
+1597461223|Luke Childs|A|/scripts/update/update
+1597462516|Mayank Chhabra|M|/scripts/start
+1597462516|Mayank Chhabra|M|/scripts/update/update
+1597462889|Mayank Chhabra|M|/scripts/update/01-run.sh
+1597462889|Mayank Chhabra|M|/scripts/update/03-run.sh
+1597472279|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1597488013|Mayank Chhabra|M|/README.md
+1597488013|Mayank Chhabra|M|/info.json
+1597508598|Mayank Chhabra|M|/scripts/umbrel-os/external-storage/mount
+1597509995|Mayank Chhabra|M|/README.md
+1597509995|Mayank Chhabra|M|/info.json
+1597511789|Mayank Chhabra|M|/scripts/umbrel-os/services/umbrel-startup.service
+1597550352|BT|M|/docker-compose.yml
+1597550438|BT|M|/docker-compose.yml
+1597551858|Mayank Chhabra|M|/docker-compose.yml
+1597552073|Mayank Chhabra|M|/docker-compose.yml
+1597552341|Luke Childs|M|/nginx/conf.d/default.conf
+1597556443|Luke Childs|M|/docker-compose.yml
+1597577416|Mayank Chhabra|M|/scripts/umbrel-os/external-storage/mount
+1597578486|Luke Childs|M|/scripts/configure
+1597578486|Luke Childs|M|/templates/bitcoin-sample.conf
+1597578486|Luke Childs|M|/templates/torrc-sample
+1597578521|Mayank Chhabra|M|/README.md
+1597578521|Mayank Chhabra|M|/info.json
+1597585581|Luke Childs|A|/SECURITY.md
+1597586419|Luke Childs|M|/README.md
+1597587016|Mayank Chhabra|M|/README.md
+1597636042|Aaron Dewes|D|/.github/workflows/main.yml
+1597636042|Aaron Dewes|A|/.github/workflows/pull_request.yml
+1597636042|Aaron Dewes|A|/.github/workflows/push.yml
+1597687995|Mayank Chhabra|M|/scripts/configure
+1597745723|Mayank Chhabra|M|/docker-compose.yml
+1597832675|Luke Childs|M|/scripts/start
+1597832675|Luke Childs|M|/scripts/update/update
+1597837713|Luke Childs|A|/bin/bitcoin-cli
+1597837713|Luke Childs|A|/bin/lncli
+1598002686|Dennis Reimann|M|/README.md
+1598026032|Mayank Chhabra|M|/scripts/update/01-run.sh
+1598026127|Mayank Chhabra|M|/docker-compose.yml
+1598026213|Mayank Chhabra|M|/docker-compose.yml
+1598034643|Mayank Chhabra|M|/scripts/update/01-run.sh
+1598035356|Mayank Chhabra|M|/README.md
+1598035356|Mayank Chhabra|M|/info.json
+1598065350|Mayank Chhabra|M|/README.md
+1598065554|Mayank Chhabra|M|/README.md
+1598065779|Mayank Chhabra|M|/README.md
+1598110303|Mayank Chhabra|M|/README.md
+1598149265|Mayank Chhabra|M|/README.md
+1598283969|Luke Childs|M|/templates/bitcoin-sample.conf
+1598508214|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1598508214|Luke Childs|M|/scripts/update/01-run.sh
+1598510303|Mayank Chhabra|M|/docker-compose.yml
+1598510399|Mayank Chhabra|M|/docker-compose.yml
+1598514714|Luke Childs|M|/scripts/update/update
+1598515180|Mayank Chhabra|M|/README.md
+1598515180|Mayank Chhabra|M|/info.json
+1598553567|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1598693523|Mayank Chhabra|M|/README.md
+1598693523|Mayank Chhabra|M|/info.json
+1598720567|Mayank Chhabra|M|/README.md
+1598803163|Mayank Chhabra|M|/docker-compose.yml
+1598803291|Mayank Chhabra|M|/docker-compose.yml
+1598804018|Luke Childs|A|/db/umbrel-seed/.gitkeep
+1598804018|Luke Childs|M|/docker-compose.yml
+1598804018|Luke Childs|A|/events/triggers/backup
+1598804018|Luke Childs|A|/scripts/backup/backup
+1598804018|Luke Childs|A|/scripts/backup/decoy-trigger
+1598804018|Luke Childs|A|/scripts/backup/monitor
+1598804018|Luke Childs|M|/scripts/start
+1598805395|Mayank Chhabra|M|/scripts/backup/backup
+1598805881|Mayank Chhabra|A|/scripts/backup/README.md
+1598806453|Mayank Chhabra|M|/scripts/start
+1598809803|Luke Childs|M|/scripts/backup/decoy-trigger
+1598810738|Mayank Chhabra|M|/README.md
+1598810738|Mayank Chhabra|M|/info.json
+1598819677|Mayank Chhabra|M|/README.md
+1598822821|Mayank Chhabra|M|/scripts/backup/README.md
+1598886437|Luke Childs|M|/scripts/configure
+1598886726|Mayank Chhabra|M|/README.md
+1598886726|Mayank Chhabra|M|/info.json
+1599048676|Luke Childs|M|/scripts/backup/decoy-trigger
+1599050013|Luke Childs|M|/scripts/backup/backup
+1599050733|Luke Childs|M|/scripts/backup/backup
+1599050733|Luke Childs|M|/scripts/start
+1599050733|Luke Childs|M|/scripts/update/01-run.sh
+1599052700|Luke Childs|M|/README.md
+1599052700|Luke Childs|M|/info.json
+1599302441|Mayank Chhabra|M|/docker-compose.yml
+1599302441|Mayank Chhabra|M|/scripts/backup/backup
+1599364148|BT|M|/docker-compose.yml
+1599364266|Mayank Chhabra|M|/docker-compose.yml
+1599364266|Mayank Chhabra|M|/scripts/start
+1599367256|Mayank Chhabra|M|/docker-compose.yml
+1599367264|Mayank Chhabra|M|/docker-compose.yml
+1599367368|Mayank Chhabra|M|/docker-compose.yml
+1599369128|Mayank Chhabra|M|/README.md
+1599369128|Mayank Chhabra|M|/info.json
+1599659945|Arvinda R|A|/scripts/umbrel-os/external-storage/monitor
+1599659945|Arvinda R|M|/scripts/umbrel-os/external-storage/mount
+1599661515|Mayank Chhabra|M|/scripts/start
+1599661651|Mayank Chhabra|M|/docker-compose.yml
+1599663348|Luke Childs|M|/README.md
+1599663348|Luke Childs|M|/info.json
+1600147796|Mayank Chhabra|M|/README.md
+1600150157|Mayank Chhabra|M|/scripts/backup/monitor
+1600166541|Mayank Chhabra|D|/LICENSE
+1600166541|Mayank Chhabra|A|/LICENSE.md
+1600166541|Mayank Chhabra|M|/README.md
+1600787908|Aaron Dewes|M|/README.md
+1601287683|Mayank Chhabra|M|/docker-compose.yml
+1601287683|Mayank Chhabra|M|/scripts/configure
+1601287683|Mayank Chhabra|M|/scripts/start
+1601287683|Mayank Chhabra|M|/templates/lnd-sample.conf
+1601287683|Mayank Chhabra|M|/templates/torrc-sample
+1601292186|Luke Childs|M|/.gitignore
+1601292186|Luke Childs|M|/docker-compose.yml
+1601292186|Luke Childs|A|/electrs/.gitkeep
+1601292186|Luke Childs|M|/scripts/configure
+1601292186|Luke Childs|M|/scripts/update/.updateignore
+1601292186|Luke Childs|M|/scripts/update/.updateinclude
+1601292186|Luke Childs|M|/scripts/update/00-run.sh
+1601292186|Luke Childs|M|/scripts/update/01-run.sh
+1601292186|Luke Childs|M|/scripts/update/02-run.sh
+1601292186|Luke Childs|M|/scripts/update/03-run.sh
+1601292186|Luke Childs|A|/scripts/update/check-memory
+1601292186|Luke Childs|A|/templates/electrs-sample.toml
+1601292186|Luke Childs|M|/templates/torrc-sample
+1601296367|Mayank Chhabra|M|/docker-compose.yml
+1601304777|Mayank Chhabra|M|/docker-compose.yml
+1601306929|Mayank Chhabra|M|/README.md
+1601306929|Mayank Chhabra|M|/info.json
+1601628721|Mayank Chhabra|M|/README.md
+1601629000|Mayank Chhabra|M|/README.md
+1601634871|Mayank Chhabra|M|/.gitignore
+1601634883|Luke Childs|M|/scripts/update/check-memory
+1601645796|Luke Childs|M|/docker-compose.yml
+1601645796|Luke Childs|M|/scripts/configure
+1601645796|Luke Childs|M|/scripts/update/01-run.sh
+1601645796|Luke Childs|M|/templates/.env-sample
+1601645796|Luke Childs|M|/templates/torrc-sample
+1601912372|Mayank Chhabra|M|/README.md
+1601973007|Lounès Ksouri|M|/docker-compose.yml
+1601980010|Mayank Chhabra|M|/scripts/update/update
+1601982123|Luke Childs|M|/.gitignore
+1601982123|Luke Childs|A|/logs/.gitkeep
+1601982123|Luke Childs|M|/scripts/start
+1601982123|Luke Childs|M|/scripts/update/.updateignore
+1601985558|Luke Childs|M|/docker-compose.yml
+1601985682|Luke Childs|M|/docker-compose.yml
+1601990049|Luke Childs|M|/README.md
+1601990049|Luke Childs|M|/info.json
+1602061474|Lounès Ksouri|M|/scripts/start
+1602139408|Mayank Chhabra|M|/scripts/update/.updateignore
+1602139651|Mayank Chhabra|M|/README.md
+1602139651|Mayank Chhabra|M|/info.json
+1602752889|Luke Childs|M|/docker-compose.yml
+1602752976|Luke Childs|M|/nginx/conf.d/default.conf
+1602753010|Luke Childs|M|/.gitignore
+1603537254|Luke Childs|M|/SECURITY.md
+1604592428|Luke Childs|M|/scripts/start
+1604592550|Luke Childs|M|/docker-compose.yml
+1604592550|Luke Childs|M|/scripts/configure
+1604592550|Luke Childs|M|/templates/.env-sample
+1604592613|Luke Childs|M|/scripts/configure
+1604592668|Luke Childs|M|/scripts/configure
+1604593043|Luke Childs|M|/docker-compose.yml
+1604593043|Luke Childs|M|/templates/bitcoin-sample.conf
+1604740308|Luke Childs|M|/templates/bitcoin-sample.conf
+1604742423|Luke Childs|M|/templates/bitcoin-sample.conf
+1604765711|Luke Childs|M|/docker-compose.yml
+1605177214|Mayank Chhabra|M|/docker-compose.yml
+1605179154|Luke Childs|M|/docker-compose.yml
+1605179160|Luke Childs|M|/docker-compose.yml
+1605182469|Luke Childs|M|/README.md
+1605182469|Luke Childs|M|/info.json
+1605621665|Aaron Dewes|M|/.github/workflows/pull_request.yml
+1605679889|Aaron Dewes|M|/.github/workflows/push.yml
+1605875299|Lounès Ksouri|M|/templates/lnd-sample.conf
+1606386367|Luke Childs|M|/docker-compose.yml
+1606387928|Luke Childs|M|/README.md
+1606387928|Luke Childs|M|/info.json
+1607274550|PeterXMR|M|/README.md
+1607873436|Luke Childs|M|/.gitignore
+1607873436|Luke Childs|D|/NETWORKING.md
+1607873436|Luke Childs|A|/app-data/.gitkeep
+1607873436|Luke Childs|A|/apps/README.md
+1607873436|Luke Childs|A|/apps/docker-compose.common.yml
+1607873436|Luke Childs|A|/apps/registry.json
+1607873436|Luke Childs|M|/docker-compose.yml
+1607873436|Luke Childs|A|/events/triggers/app
+1607873436|Luke Childs|M|/karen
+1607873436|Luke Childs|A|/nginx/.gitkeep
+1607873436|Luke Childs|D|/nginx/conf.d/default.conf
+1607873436|Luke Childs|D|/nginx/log/.gitkeep
+1607873436|Luke Childs|D|/nginx/mime.types
+1607873436|Luke Childs|D|/nginx/nginx.conf
+1607873436|Luke Childs|D|/nginx/www/index.html
+1607873436|Luke Childs|A|/scripts/app
+1607873436|Luke Childs|M|/scripts/backup/backup
+1607873436|Luke Childs|M|/scripts/configure
+1607873436|Luke Childs|M|/scripts/start
+1607873436|Luke Childs|M|/scripts/stop
+1607873436|Luke Childs|M|/scripts/update/.updateignore
+1607873436|Luke Childs|M|/scripts/update/01-run.sh
+1607873436|Luke Childs|M|/templates/.env-sample
+1607873436|Luke Childs|M|/templates/bitcoin-sample.conf
+1607873436|Luke Childs|M|/templates/electrs-sample.toml
+1607873436|Luke Childs|M|/templates/lnd-sample.conf
+1607873436|Luke Childs|A|/templates/nginx-sample.conf
+1607873436|Luke Childs|M|/templates/torrc-sample
+1607874870|Luke Childs|A|/apps/btc-rpc-explorer/docker-compose.yml
+1607874870|Luke Childs|M|/scripts/configure
+1607874870|Luke Childs|M|/templates/.env-sample
+1607874870|Luke Childs|M|/templates/torrc-sample
+1607876000|Luke Childs|M|/apps/README.md
+1607930356|Mayank Chhabra|M|/apps/README.md
+1607944663|Luke Childs|M|/scripts/app
+1608116187|Luke Childs|M|/apps/README.md
+1608116187|Luke Childs|M|/scripts/app
+1608116339|Luke Childs|M|/scripts/app
+1608119184|Luke Childs|M|/scripts/app
+1608288097|Luke Childs|M|/scripts/update/.updateignore
+1608306816|Aaron Dewes|M|/templates/.env-sample
+1608448808|Luke Childs|M|/docker-compose.yml
+1608448808|Luke Childs|M|/scripts/configure
+1608474148|Luke Childs|M|/apps/btc-rpc-explorer/docker-compose.yml
+1608712986|Anthony Potdevin|A|/apps/thunderhub/data/thubConfig.yaml
+1608712986|Anthony Potdevin|A|/apps/thunderhub/docker-compose.yml
+1608712986|Anthony Potdevin|M|/scripts/configure
+1608712986|Anthony Potdevin|M|/templates/.env-sample
+1608712986|Anthony Potdevin|M|/templates/torrc-sample
+1608714475|Gonzalo Aune|A|/apps/sphinx-relay/data/.gitkeep
+1608714475|Gonzalo Aune|A|/apps/sphinx-relay/docker-compose.yml
+1608714475|Gonzalo Aune|M|/scripts/configure
+1608714475|Gonzalo Aune|M|/templates/.env-sample
+1608714475|Gonzalo Aune|M|/templates/torrc-sample
+1608716951|Lounès Ksouri|A|/apps/ride-the-lightning/docker-compose.yml
+1608716951|Lounès Ksouri|A|/apps/ride-the-lightning/loop/.gitkeep
+1608716951|Lounès Ksouri|A|/apps/ride-the-lightning/rtl/RTL-Config.json
+1608716951|Lounès Ksouri|M|/scripts/configure
+1608716951|Lounès Ksouri|M|/templates/.env-sample
+1608716951|Lounès Ksouri|M|/templates/torrc-sample
+1608717940|Lounès Ksouri|A|/apps/lightning-terminal/data/.lit/lit.conf
+1608717940|Lounès Ksouri|A|/apps/lightning-terminal/docker-compose.yml
+1608717940|Lounès Ksouri|M|/scripts/configure
+1608717940|Lounès Ksouri|M|/templates/.env-sample
+1608717940|Lounès Ksouri|M|/templates/torrc-sample
+1608724193|Kim Neunert|A|/apps/specter-desktop/data/config.json
+1608724193|Kim Neunert|A|/apps/specter-desktop/data/users.json
+1608724193|Kim Neunert|A|/apps/specter-desktop/docker-compose.yml
+1608724193|Kim Neunert|M|/scripts/configure
+1608724193|Kim Neunert|M|/templates/.env-sample
+1608724193|Kim Neunert|M|/templates/torrc-sample
+1609169073|Luke Childs|M|/scripts/app
+1609170292|Lounès Ksouri|A|/apps/btcpay-server/data/btcpay/.gitkeep
+1609170292|Lounès Ksouri|A|/apps/btcpay-server/data/nbxplorer/.gitkeep
+1609170292|Lounès Ksouri|A|/apps/btcpay-server/data/postgres/.gitkeep
+1609170292|Lounès Ksouri|A|/apps/btcpay-server/docker-compose.yml
+1609170292|Lounès Ksouri|M|/scripts/configure
+1609170292|Lounès Ksouri|M|/templates/.env-sample
+1609170292|Lounès Ksouri|M|/templates/torrc-sample
+1609171268|Luke Childs|A|/apps/specter-desktop/data/.gitkeep
+1609171268|Luke Childs|D|/apps/specter-desktop/data/config.json
+1609171268|Luke Childs|D|/apps/specter-desktop/data/users.json
+1609171770|Luke Childs|M|/apps/README.md
+1609171770|Luke Childs|M|/apps/btc-rpc-explorer/docker-compose.yml
+1609171770|Luke Childs|M|/apps/btcpay-server/docker-compose.yml
+1609171770|Luke Childs|M|/apps/lightning-terminal/docker-compose.yml
+1609171770|Luke Childs|M|/apps/ride-the-lightning/docker-compose.yml
+1609171770|Luke Childs|M|/apps/specter-desktop/docker-compose.yml
+1609171770|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1609171770|Luke Childs|M|/apps/thunderhub/docker-compose.yml
+1609224908|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1609244161|Luke Childs|M|/scripts/update/01-run.sh
+1609244402|Luke Childs|M|/scripts/app
+1609244402|Luke Childs|M|/scripts/update/01-run.sh
+1609244447|Luke Childs|M|/scripts/update/01-run.sh
+1609247541|Mayank Chhabra|M|/scripts/app
+1609264019|Mayank Chhabra|M|/scripts/update/01-run.sh
+1609300499|Lounès Ksouri|M|/scripts/app
+1609324460|Mayank Chhabra|M|/apps/registry.json
+1609336492|Aaron Dewes|A|/scripts/debug
+1609336535|Mayank Chhabra|M|/apps/README.md
+1609336846|Luke Childs|M|/docker-compose.yml
+1609336864|Luke Childs|M|/docker-compose.yml
+1609338364|Luke Childs|M|/README.md
+1609338364|Luke Childs|M|/info.json
+1609603057|Luke Childs|M|/apps/btcpay-server/docker-compose.yml
+1609603057|Luke Childs|M|/apps/ride-the-lightning/docker-compose.yml
+1609603057|Luke Childs|M|/docker-compose.yml
+1609603057|Luke Childs|M|/scripts/configure
+1609603057|Luke Childs|M|/templates/.env-sample
+1609658344|Luke Childs|M|/docker-compose.yml
+1609659087|Aaron Dewes|M|/apps/registry.json
+1609662062|Aaron Dewes|M|/bin/bitcoin-cli
+1609662062|Aaron Dewes|M|/bin/lncli
+1609663912|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1609663958|Luke Childs|M|/README.md
+1609663958|Luke Childs|M|/info.json
+1610354968|Aaron Dewes|M|/scripts/update/01-run.sh
+1610886810|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1610887091|Luke Childs|M|/apps/registry.json
+1610887816|Lounès Ksouri|M|/apps/registry.json
+1610887816|Lounès Ksouri|M|/apps/thunderhub/docker-compose.yml
+1610904163|nolim1t|M|/apps/registry.json
+1610904163|nolim1t|M|/apps/specter-desktop/docker-compose.yml
+1610980998|Lounès Ksouri|M|/apps/thunderhub/docker-compose.yml
+1610983068|Sylvain GOUMY|M|/apps/README.md
+1610983746|Luke Childs|M|/docker-compose.yml
+1610988270|Luke Childs|M|/scripts/update/01-run.sh
+1611052331|Aaron Dewes|M|/apps/registry.json
+1611052331|Aaron Dewes|M|/apps/thunderhub/docker-compose.yml
+1611052399|Aaron Dewes|M|/apps/registry.json
+1611052521|Aaron Dewes|M|/apps/btcpay-server/docker-compose.yml
+1611052521|Aaron Dewes|M|/apps/registry.json
+1611059086|Luke Childs|M|/README.md
+1611059086|Luke Childs|M|/info.json
+1612187498|nolim1t|M|/apps/registry.json
+1612187498|nolim1t|M|/apps/specter-desktop/docker-compose.yml
+1612189340|Bastien Guillaumat|M|/apps/btcpay-server/docker-compose.yml
+1612189340|Bastien Guillaumat|M|/apps/registry.json
+1612189688|Lounès Ksouri|M|/scripts/configure
+1612189688|Lounès Ksouri|M|/templates/.env-sample
+1612189688|Lounès Ksouri|M|/templates/bitcoin-sample.conf
+1612189688|Lounès Ksouri|M|/templates/lnd-sample.conf
+1612189914|Bastien Guillaumat|M|/apps/registry.json
+1612189914|Bastien Guillaumat|M|/apps/thunderhub/docker-compose.yml
+1612262045|Luke Childs|M|/SECURITY.md
+1612266809|nolim1t|M|/docker-compose.yml
+1612267205|d11n|M|/apps/README.md
+1612332510|nolim1t|M|/docker-compose.yml
+1612335790|Lounès Ksouri|M|/apps/lightning-terminal/docker-compose.yml
+1612335790|Lounès Ksouri|M|/apps/registry.json
+1612955363|Luke Childs|M|/scripts/app
+1613046590|Bastien Guillaumat|A|/apps/mempool/data/.gitkeep
+1613046590|Bastien Guillaumat|A|/apps/mempool/docker-compose.yml
+1613046590|Bastien Guillaumat|A|/apps/mempool/mysql/data/.gitkeep
+1613046590|Bastien Guillaumat|A|/apps/mempool/mysql/db-scripts/mariadb-structure.sql
+1613046590|Bastien Guillaumat|M|/scripts/configure
+1613046590|Bastien Guillaumat|M|/templates/.env-sample
+1613046590|Bastien Guillaumat|M|/templates/torrc-sample
+1613048376|Aaron Dewes|M|/scripts/app
+1613048376|Aaron Dewes|M|/scripts/start
+1613131278|Mayank Chhabra|M|/apps/registry.json
+1613134834|Luke Childs|M|/templates/bitcoin-sample.conf
+1613135331|Luke Childs|M|/templates/bitcoin-sample.conf
+1613158105|Mayank Chhabra|M|/apps/registry.json
+1613158474|Lounès Ksouri|A|/apps/samourai-server/docker-compose.yml
+1613158474|Lounès Ksouri|A|/apps/samourai-server/mysql/data/.gitkeep
+1613158474|Lounès Ksouri|A|/apps/samourai-server/mysql/db-scripts/1_db.sql
+1613158474|Lounès Ksouri|A|/apps/samourai-server/mysql/mysql-dojo.cnf
+1613158474|Lounès Ksouri|A|/apps/samourai-server/mysql/update-db.sh
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/css/normalize.css
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/css/style.css
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/img/icon.svg
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/index.html
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/js/conf.template.js
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/js/qrcode.min.js
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/connect/js/script.js
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/mainnet.conf
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/nginx.conf
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/testnet.conf
+1613158474|Lounès Ksouri|A|/apps/samourai-server/nginx/wait-for
+1613158474|Lounès Ksouri|A|/apps/samourai-server/whirlpool/.gitkeep
+1613158474|Lounès Ksouri|M|/scripts/app
+1613158474|Lounès Ksouri|M|/scripts/configure
+1613158474|Lounès Ksouri|M|/templates/.env-sample
+1613158474|Lounès Ksouri|M|/templates/torrc-sample
+1613160771|Mayank Chhabra|M|/apps/registry.json
+1613196598|Lounès Ksouri|M|/apps/registry.json
+1613207104|Aaron Dewes|A|/events/triggers/change-password
+1613207104|Aaron Dewes|M|/karen
+1613207104|Aaron Dewes|A|/scripts/umbrel-os/change-password
+1613207104|Aaron Dewes|A|/statuses/password
+1613208674|Luke Childs|M|/karen
+1613221233|Lounès Ksouri|M|/apps/registry.json
+1613221233|Lounès Ksouri|M|/apps/thunderhub/docker-compose.yml
+1613222651|Mayank Chhabra|M|/apps/btc-rpc-explorer/docker-compose.yml
+1613222651|Mayank Chhabra|M|/apps/registry.json
+1613241747|Lounès Ksouri|M|/scripts/app
+1613244295|Luke Childs|M|/docker-compose.yml
+1613296809|Lounès Ksouri|A|/apps/lnbits/data/.gitkeep
+1613296809|Lounès Ksouri|A|/apps/lnbits/docker-compose.yml
+1613296809|Lounès Ksouri|M|/scripts/configure
+1613296809|Lounès Ksouri|M|/templates/.env-sample
+1613296809|Lounès Ksouri|M|/templates/torrc-sample
+1613299482|Mayank Chhabra|M|/apps/registry.json
+1613302403|Mayank Chhabra|M|/apps/registry.json
+1613382460|Mayank Chhabra|M|/templates/lnd-sample.conf
+1613383905|Luke Childs|M|/docker-compose.yml
+1613386170|Mayank Chhabra|M|/scripts/configure
+1613389550|Lounès Ksouri|M|/apps/ride-the-lightning/docker-compose.yml
+1613389719|Mayank Chhabra|M|/apps/registry.json
+1613389828|Lounès Ksouri|M|/apps/ride-the-lightning/docker-compose.yml
+1613390291|Luke Childs|M|/docker-compose.yml
+1613390646|Luke Childs|M|/docker-compose.yml
+1613391675|Luke Childs|M|/docker-compose.yml
+1613393068|Luke Childs|M|/docker-compose.yml
+1613394133|Luke Childs|M|/docker-compose.yml
+1613397031|Luke Childs|M|/README.md
+1613397031|Luke Childs|M|/info.json
+1613405676|Luke Childs|M|/scripts/update/01-run.sh
+1613406838|Luke Childs|M|/README.md
+1613406838|Luke Childs|M|/info.json
+1613477304|Luke Childs|M|/scripts/configure
+1613477304|Luke Childs|M|/templates/lnd-sample.conf
+1613650063|Luke Childs|M|/SECURITY.md
+1613667887|Luke Childs|M|/apps/samourai-server/nginx/connect/css/style.css
+1613667887|Luke Childs|M|/apps/samourai-server/nginx/connect/index.html
+1613667887|Luke Childs|M|/apps/samourai-server/nginx/connect/js/conf.template.js
+1613667887|Luke Childs|M|/apps/samourai-server/nginx/connect/js/script.js
+1613747427|Luke Childs|M|/apps/lnbits/docker-compose.yml
+1613763024|Lounès Ksouri|M|/apps/lnbits/docker-compose.yml
+1613763024|Lounès Ksouri|M|/apps/registry.json
+1613763291|Aaron Dewes|M|/scripts/debug
+1613764640|Aaron Dewes|M|/docker-compose.yml
+1613764888|Aaron Dewes|M|/scripts/debug
+1613813932|Luke Childs|M|/templates/nginx-sample.conf
+1613816086|Luke Childs|M|/README.md
+1613816086|Luke Childs|M|/info.json
+1614339873|Bastien Guillaumat|M|/apps/mempool/docker-compose.yml
+1614339873|Bastien Guillaumat|M|/apps/registry.json
+1614341441|nolim1t|M|/docker-compose.yml
+1614345425|Luke Childs|M|/apps/mempool/docker-compose.yml
+1614362085|Jonathan Underwood|M|/README.md
+1614362085|Jonathan Underwood|M|/docker-compose.yml
+1614362085|Jonathan Underwood|M|/scripts/configure
+1614362085|Jonathan Underwood|M|/scripts/start
+1614362085|Jonathan Underwood|M|/templates/.env-sample
+1614364499|Luke Childs|M|/apps/mempool/docker-compose.yml
+1614371253|Aaron Dewes|M|/scripts/debug
+1614431916|Luke Childs|M|/docker-compose.yml
+1614444211|Luke Childs|M|/README.md
+1614444211|Luke Childs|M|/info.json
+1614523969|Luke Childs|M|/docker-compose.yml
+1614524523|Luke Childs|M|/README.md
+1614524523|Luke Childs|M|/info.json
+1615024870|Samuel Reed|M|/docker-compose.yml
+1616073719|Aaron Dewes|M|/docker-compose.yml
+1616511553|nolim1t|M|/docker-compose.yml
+1616585949|Luke Childs|M|/apps/registry.json
+1616585949|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1616591257|Lounès Ksouri|M|/apps/registry.json
+1616591257|Lounès Ksouri|M|/apps/samourai-server/docker-compose.yml
+1616591257|Lounès Ksouri|M|/apps/samourai-server/mysql/mysql-dojo.cnf
+1616671795|Luke Childs|M|/apps/registry.json
+1616671795|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1616673032|Luke Childs|M|/docker-compose.yml
+1616674349|nolim1t|M|/apps/registry.json
+1616674349|nolim1t|M|/apps/specter-desktop/docker-compose.yml
+1616674737|Luke Childs|M|/docker-compose.yml
+1616678762|Aaron Dewes|M|/apps/lightning-terminal/docker-compose.yml
+1616678762|Aaron Dewes|M|/apps/registry.json
+1616679879|Luke Childs|M|/apps/mempool/docker-compose.yml
+1616681153|Luke Childs|M|/apps/btcpay-server/docker-compose.yml
+1616681296|Luke Childs|M|/apps/btcpay-server/docker-compose.yml
+1616685061|Luke Childs|M|/apps/ride-the-lightning/docker-compose.yml
+1616685636|Luke Childs|M|/apps/thunderhub/docker-compose.yml
+1616685898|Luke Childs|M|/apps/ride-the-lightning/docker-compose.yml
+1616689580|Luke Childs|M|/docker-compose.yml
+1616696321|Luke Childs|M|/docker-compose.yml
+1616762019|Luke Childs|M|/apps/registry.json
+1616762019|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1616763194|Luke Childs|M|/README.md
+1616763194|Luke Childs|M|/info.json
+1618230678|Aaron Dewes|M|/scripts/update/01-run.sh
+1618231695|Aaron Dewes|M|/scripts/umbrel-os/external-storage/mount
+1618231695|Aaron Dewes|M|/scripts/umbrel-os/services/umbrel-external-storage.service
+1618231695|Aaron Dewes|M|/scripts/update/01-run.sh
+1618295311|Luke Childs|M|/apps/README.md
+1618295311|Luke Childs|M|/apps/btc-rpc-explorer/docker-compose.yml
+1618295311|Luke Childs|M|/apps/btcpay-server/docker-compose.yml
+1618295311|Luke Childs|M|/apps/lightning-terminal/docker-compose.yml
+1618295311|Luke Childs|M|/apps/lnbits/docker-compose.yml
+1618295311|Luke Childs|M|/apps/mempool/docker-compose.yml
+1618295311|Luke Childs|M|/apps/ride-the-lightning/docker-compose.yml
+1618295311|Luke Childs|M|/apps/samourai-server/docker-compose.yml
+1618295311|Luke Childs|M|/apps/specter-desktop/docker-compose.yml
+1618295311|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1618295311|Luke Childs|M|/apps/thunderhub/docker-compose.yml
+1618295311|Luke Childs|M|/docker-compose.yml
+1618387084|Lounès Ksouri|M|/apps/README.md
+1618408023|Luke Childs|M|/SECURITY.md
+1618408023|Luke Childs|M|/docker-compose.yml
+1618408023|Luke Childs|M|/scripts/configure
+1618408023|Luke Childs|M|/templates/.env-sample
+1618408023|Luke Childs|M|/templates/nginx-sample.conf
+1618595119|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1618668819|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1619010252|Lounès Ksouri|M|/docker-compose.yml
+1619010252|Lounès Ksouri|A|/events/triggers/debug
+1619010252|Lounès Ksouri|M|/scripts/debug
+1619021974|Luke Childs|M|/scripts/update/update
+1619094327|Aaron Dewes|M|/scripts/umbrel-os/services/umbrel-startup.service
+1619104590|nolim1t|M|/apps/registry.json
+1619104590|nolim1t|M|/apps/specter-desktop/docker-compose.yml
+1619105646|Luke Childs|M|/apps/registry.json
+1619105646|Luke Childs|M|/apps/sphinx-relay/docker-compose.yml
+1619105711|Luke Childs|M|/apps/registry.json
+1619105711|Luke Childs|M|/apps/thunderhub/docker-compose.yml
+1619106055|Lounès Ksouri|M|/apps/ride-the-lightning/docker-compose.yml
+1619117505|Luke Childs|M|/apps/lnbits/docker-compose.yml
+1619117505|Luke Childs|M|/apps/registry.json
+1619119871|Luke Childs|M|/apps/btc-rpc-explorer/docker-compose.yml
+1619119871|Luke Childs|M|/apps/registry.json
+1619177223|Luke Childs|M|/docker-compose.yml
+1619177427|Luke Childs|M|/docker-compose.yml
+1619177470|Luke Childs|M|/docker-compose.yml
+1619185926|Luke Childs|M|/README.md
+1619185926|Luke Childs|M|/info.json
+1619204366|Luke Childs|M|/scripts/umbrel-os/external-storage/mount
+1619285468|Aaron Dewes|A|/scripts/umbrel-os/services/umbrel-external-storage-sdcard-update.service
+1619285468|Aaron Dewes|M|/scripts/umbrel-os/services/umbrel-external-storage.service
+1619285468|Aaron Dewes|M|/scripts/umbrel-os/services/umbrel-startup.service
+1619362925|Luke Childs|M|/scripts/update/update
+1619955757|Aaron Dewes|A|/apps/bluewallet/data/redis/.gitkeep
+1619955757|Aaron Dewes|A|/apps/bluewallet/docker-compose.yml
+1619955757|Aaron Dewes|M|/apps/registry.json
+1619955757|Aaron Dewes|M|/scripts/configure
+1619955757|Aaron Dewes|M|/templates/.env-sample
+1619955757|Aaron Dewes|M|/templates/torrc-sample
+1619958540|Luke Childs|M|/scripts/debug
+1619958540|Luke Childs|A|/scripts/memory-usage
+1619972504|Luke Childs|M|/docker-compose.yml
+1619972504|Luke Childs|M|/scripts/configure
+1619972504|Luke Childs|M|/templates/bitcoin-sample.conf
+1619975225|buZz|M|/README.md
+1619976611|Aaron Dewes|M|/scripts/debug
+1619977340|Aaron Dewes|M|/scripts/debug
+1619978479|Luke Childs|M|/scripts/debug
+1619978612|Luke Childs|M|/scripts/debug
+1619980580|Luke Childs|M|/scripts/debug
+1620022964|Luke Childs|M|/scripts/debug
+1620027239|Luke Childs|M|/docker-compose.yml
+1620032920|Luke Childs|M|/docker-compose.yml
+1620036147|Luke Childs|M|/docker-compose.yml
+1620042132|Luke Childs|M|/README.md
+1620042132|Luke Childs|M|/info.json

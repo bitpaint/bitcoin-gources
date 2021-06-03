@@ -1,0 +1,89 @@
+1607911598|SeedSigner|A|/README.md
+1607911821|SeedSigner|A|/ST7789.py
+1607911821|SeedSigner|A|/seedsigner.py
+1607913401|SeedSigner|M|/README.md
+1607914388|SeedSigner|M|/README.md
+1607915026|SeedSigner|M|/README.md
+1607993433|SeedSigner|M|/seedsigner.py
+1607995931|SeedSigner|M|/README.md
+1607996043|SeedSigner|M|/README.md
+1608055698|SeedSigner|M|/README.md
+1608159492|SeedSigner|M|/README.md
+1608159660|SeedSigner|M|/README.md
+1608159806|SeedSigner|A|/489609F7-E607-47EA-9AF5-1D2A990A9266.jpeg
+1608159932|SeedSigner|D|/489609F7-E607-47EA-9AF5-1D2A990A9266.jpeg
+1608160525|SeedSigner|A|/Assembled_SeedSigner.JPG
+1608160631|SeedSigner|M|/README.md
+1608434084|SeedSigner|M|/seedsigner.py
+1608436008|SeedSigner|M|/README.md
+1608514168|SeedSigner|M|/README.md
+1608609352|SeedSigner|M|/README.md
+1610720206|SeedSigner|D|/Assembled_SeedSigner.JPG
+1610720248|SeedSigner|D|/seedsigner.py
+1610720495|SeedSigner|A|/dice.py
+1610720495|SeedSigner|A|/getword24.py
+1610720495|SeedSigner|A|/getwords.py
+1610720495|SeedSigner|A|/iotest.py
+1610720495|SeedSigner|A|/main.py
+1610720495|SeedSigner|A|/menus.py
+1610720495|SeedSigner|A|/psbtsign.py
+1610720495|SeedSigner|A|/xpubmake.py
+1610736063|SeedSigner|A|/Orange_Pill.JPG
+1610737482|SeedSigner|M|/README.md
+1610741549|SeedSigner|M|/README.md
+1610741655|SeedSigner|M|/README.md
+1610746968|SeedSigner|M|/README.md
+1611248439|SeedSigner|M|/README.md
+1611686511|SeedSigner|M|/README.md
+1612583256|SeedSigner|D|/dice.py
+1612583272|SeedSigner|D|/getword24.py
+1612583280|SeedSigner|D|/getwords.py
+1612583287|SeedSigner|D|/iotest.py
+1612583295|SeedSigner|D|/main.py
+1612583302|SeedSigner|D|/menus.py
+1612583311|SeedSigner|D|/psbtsign.py
+1612583318|SeedSigner|D|/xpubmake.py
+1612583377|SeedSigner|A|/main.py
+1612583377|SeedSigner|A|/resources.py
+1616202106|Nick Klockenga|M|/README.md
+1616524188|SeedSigner|M|/README.md
+1617226217|SeedSigner|M|/README.md
+1618620627|SeedSigner|A|/Orange_Pill/design_files/OP_Lower.f3d
+1618620627|SeedSigner|A|/Orange_Pill/design_files/OP_Upper.f3d
+1618620627|SeedSigner|A|/Orange_Pill/design_files/button.f3d
+1618620627|SeedSigner|A|/Orange_Pill/design_files/joystiick.f3d
+1618620627|SeedSigner|A|/Orange_Pill/print_files/OP_Lower.stl
+1618620627|SeedSigner|A|/Orange_Pill/print_files/OP_Upper.stl
+1618620627|SeedSigner|A|/Orange_Pill/print_files/button.stl
+1618620627|SeedSigner|A|/Orange_Pill/print_files/joystick.stl
+1619124180|SeedSigner|M|/README.md
+1619183257|SeedSigner|D|/Orange_Pill.JPG
+1619183293|SeedSigner|A|/Orange_Pill.JPG
+1619354561|SeedSigner|M|/README.md
+1619732306|SeedSigner|D|/Orange_Pill/print_files/joystick.stl
+1619732375|SeedSigner|A|/Orange_Pill/print_files/joystick.stl
+1620090933|SeedSigner|A|/seedsigner_pubkey.gpg
+1620325866|Nick Klockenga|A|/.gitignore
+1620325866|Nick Klockenga|D|/ST7789.py
+1620325866|Nick Klockenga|A|/controller.py
+1620325866|Nick Klockenga|A|/helpers/ST7789.py
+1620325866|Nick Klockenga|A|/helpers/buttons.py
+1620325866|Nick Klockenga|A|/helpers/camera_process.py
+1620325866|Nick Klockenga|A|/helpers/path.py
+1620325866|Nick Klockenga|A|/helpers/psbt_signer.py
+1620325866|Nick Klockenga|A|/helpers/qr.py
+1620325866|Nick Klockenga|M|/main.py
+1620325866|Nick Klockenga|A|/models/seed_storage.py
+1620325866|Nick Klockenga|D|/resources.py
+1620325866|Nick Klockenga|A|/views/io_test_view.py
+1620325866|Nick Klockenga|A|/views/menu_view.py
+1620325866|Nick Klockenga|A|/views/seed_tools_view.py
+1620325866|Nick Klockenga|A|/views/settings_tools_view.py
+1620325866|Nick Klockenga|A|/views/signing_tools_view.py
+1620325866|Nick Klockenga|A|/views/view.py
+1620390891|newtonick|M|/.gitignore
+1620390891|newtonick|M|/helpers/buttons.py
+1620390891|newtonick|M|/views/seed_tools_view.py
+1621385340|SeedSigner|M|/models/seed_storage.py
+1621450426|Nick Klockenga|M|/README.md
+1621888849|SeedSigner|M|/controller.py
