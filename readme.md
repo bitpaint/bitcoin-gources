@@ -1,5 +1,5 @@
 
-# what is Combined.txt?
+# what is "combined.txt" ?
 
 A file for gource that include:
 
