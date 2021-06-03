@@ -25,7 +25,6 @@ A file for gource that include:
 - Zeus
 
 a lot more to be added, i'm working on it.
-It's also 100% free to modify, re-use and re-distribute. Make it your own!
 
 
 # Installation
