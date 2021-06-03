@@ -12,5 +12,5 @@
 1456185600|Bitcoin 0.12 is released
 1471910400|Bitcoin 0.13 is released
 1488931200|Bitcoin 0.14 is released
-1503446400|Segwit activation UASA
+1503446400|Segwit activation UASF
 1505347200|Bitcoin 0.15 is released
