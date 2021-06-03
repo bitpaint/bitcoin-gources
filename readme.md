@@ -29,10 +29,10 @@ a lot more to be added, i'm working on it.
 
 # Installation
 
-Go to gource.io and install gource
-Download this repo
-go to the repo folder and do: 
-gource combined.txt  --user-image-dir avatar/
+- Go to gource.io and install gource
+- Download this repo
+- go to the repo folder and do:
+- gource combined.txt  --user-image-dir avatar/ --seconds-per-day 0.04 --date-format "%B %Y" --hide filenames
 
 
 
