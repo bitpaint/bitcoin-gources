@@ -1,3 +1,13 @@
+# Installation
+
+- Go to gource.io and install gource
+- Download this repo
+- launch run.sh
+
+
+
+
+
 
 # what is "combined.txt"?
 
@@ -27,12 +37,6 @@ A file for gource that include combined repos of:
 a lot more to be added, i'm working on it.
 
 
-# Installation
-
-- Go to gource.io and install gource
-- Download this repo
-- launch run.sh
-
 
 
 # Hotkeys / Interactive keyboard commands 
@@ -40,7 +44,6 @@ a lot more to be added, i'm working on it.
 - (T)   Toggle display of directory tree edges
 - (R)   Toggle display of root directory edges
 - (V)   Toggle camera mode
-- (C)   Displays Gource logo
 - (K)   Toggle file extension key
 - (M)   Toggle mouse visibility
 - (N)   Jump forward in time to next log entry
@@ -48,7 +51,6 @@ a lot more to be added, i'm working on it.
 - (D)   Toggle directory name display mode
 - (F)   Toggle file name display mode
 - (G)   Toggle display of users
-
 - (+-)  Adjust simulation speed
 - (<>)  Adjust time scale
 - (TAB) Cycle through visible users
