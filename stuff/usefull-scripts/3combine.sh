@@ -1,0 +1,1 @@
+cat log1.txt log2.txt log4.txt log5.txt log6.txt log7.txt log8.txt log9.txt log10.txt log11.txt log12.txt log13.txt log14.txt log15.txt log16.txt log17.txt log18.txt log19.txt log20.txt | sort -n > combined.txt

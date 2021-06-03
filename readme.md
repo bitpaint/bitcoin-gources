@@ -1,10 +1,10 @@
 
-# what is Combined.txt?
+# what is "combined.txt"?
 
-A file for gource that include:
+A file for gource that include combined repos of:
 
-- Bitcoin
-- Btcpayserver
+- Bitcoin (with bips lib58 libblkmaker)
+- Btcpayserver (with everything)
 - Electrum
 - Joinmarket
 - Lightning LND
@@ -31,9 +31,29 @@ a lot more to be added, i'm working on it.
 
 - Go to gource.io and install gource
 - Download this repo
-- go to the repo folder and do:
-- gource combined.txt  --user-image-dir avatar/ --seconds-per-day 0.04 --date-format "%B %Y" --hide filenames
+- launch run.sh
 
 
+
+# Hotkeys / Interactive keyboard commands 
+-(U)   Toggle user name display mode
+-(T)   Toggle display of directory tree edges
+-(R)   Toggle display of root directory edges
+-(V)   Toggle camera mode
+-(C)   Displays Gource logo
+-(K)   Toggle file extension key
+-(M)   Toggle mouse visibility
+-(N)   Jump forward in time to next log entry
+-(S)   Randomize colours
+-(D)   Toggle directory name display mode
+-(F)   Toggle file name display mode
+-(G)   Toggle display of users
+
+-(+-)  Adjust simulation speed
+-(<>)  Adjust time scale
+-(TAB) Cycle through visible users
+-(F12) Screenshot
+-(Alt+Enter) Fullscreen toggle
+-(ESC) Quit
 
 

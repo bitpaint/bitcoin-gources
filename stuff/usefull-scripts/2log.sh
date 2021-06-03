@@ -1,0 +1,1 @@
+gource --output-custom-log log1.txt 
