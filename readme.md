@@ -33,6 +33,7 @@ A file for gource that include combined repos of:
 - Umbrel
 - Zap-desktop
 - Zeus
+- Bisq
 
 a lot more to be added, i'm working on it.
 
