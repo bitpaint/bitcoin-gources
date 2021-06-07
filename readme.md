@@ -60,3 +60,6 @@ a lot more to be added, i'm working on it.
 - (ESC) Quit
 
 
+
+
+https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
