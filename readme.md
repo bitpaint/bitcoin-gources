@@ -35,6 +35,7 @@ A file for gource that include combined repos of:
 - Zeus
 - Bisq
 - Decentralized Identity Foundation (ION + sidetree)
+- BlueWallet
 
 a lot more to be added, i'm working on it.
 
