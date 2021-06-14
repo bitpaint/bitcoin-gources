@@ -1,1 +1,0 @@
-gource combined-new.txt  --user-image-dir avatar/ --seconds-per-day 0.01
