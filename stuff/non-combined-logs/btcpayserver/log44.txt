@@ -1,6 +1,0 @@
-1603885433|Dennis Reimann|A|/.github/ISSUE_TEMPLATE/call.md
-1603885433|Dennis Reimann|A|/.github/workflows/calendar.yml
-1603885433|Dennis Reimann|A|/README.md
-1603893312|Pavlenex|M|/README.md
-1606646429|Pavlenex|M|/.github/ISSUE_TEMPLATE/call.md
-1609787054|britttttk|M|/.github/ISSUE_TEMPLATE/call.md

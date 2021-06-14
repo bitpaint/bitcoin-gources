@@ -1,1 +1,0 @@
-cat combined.txt log1.txt | sort -n > combined-new.txt
