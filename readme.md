@@ -34,6 +34,7 @@ A file for gource that include combined repos of:
 - Zap-desktop
 - Zeus
 - Bisq
+- Decentralized Identity Foundation (ION + sidetree)
 
 a lot more to be added, i'm working on it.
 
