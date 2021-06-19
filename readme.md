@@ -36,6 +36,7 @@ A file for gource that include combined repos of:
 - Bisq
 - Decentralized Identity Foundation (ION + sidetree)
 - BlueWallet
+- GaloyMoney
 
 a lot more to be added, i'm working on it.
 
