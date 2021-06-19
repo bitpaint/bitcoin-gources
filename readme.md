@@ -2,7 +2,7 @@
 
 - Go to gource.io and install gource
 - Download this repo
-- Launch gource/gource.sh
+- Run @gource.sh
 
 
 
