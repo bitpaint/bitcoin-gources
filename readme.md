@@ -37,6 +37,7 @@ A file for gource that include combined repos of:
 - Decentralized Identity Foundation (ION + sidetree)
 - BlueWallet
 - GaloyMoney
+- Bitcoin-only.com
 
 a lot more to be added, i'm working on it.
 
