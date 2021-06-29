@@ -40,6 +40,7 @@ A file for gource that include combined repos of:
 - Bitcoin-only.com
 - bitcoinj
 - bitcoin.org
+- DeBitpay
 
 
 a lot more to be added, i'm working on it.
