@@ -39,6 +39,8 @@ A file for gource that include combined repos of:
 - GaloyMoney
 - Bitcoin-only.com
 - bitcoinj
+- bitcoin.org
+
 
 a lot more to be added, i'm working on it.
 
