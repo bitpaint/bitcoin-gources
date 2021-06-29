@@ -38,6 +38,7 @@ A file for gource that include combined repos of:
 - BlueWallet
 - GaloyMoney
 - Bitcoin-only.com
+- bitcoinj
 
 a lot more to be added, i'm working on it.
 
