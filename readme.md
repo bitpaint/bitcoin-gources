@@ -71,3 +71,10 @@ a lot more to be added, i'm working on it.
 # Youtube playlist:
 
 https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
+
+
+
+# Art:
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)
+
+
