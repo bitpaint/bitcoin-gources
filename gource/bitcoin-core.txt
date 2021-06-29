@@ -1,149 +1,149 @@
-1251603999|sirius-m|A|/bitcoin/base58.h
-1251603999|sirius-m|A|/bitcoin/base58.h
-1251603999|sirius-m|A|/bitcoin/bignum.h
-1251603999|sirius-m|A|/bitcoin/bignum.h
-1251603999|sirius-m|A|/bitcoin/db.cpp
-1251603999|sirius-m|A|/bitcoin/db.cpp
-1251603999|sirius-m|A|/bitcoin/db.h
-1251603999|sirius-m|A|/bitcoin/db.h
-1251603999|sirius-m|A|/bitcoin/headers.h
-1251603999|sirius-m|A|/bitcoin/headers.h
-1251603999|sirius-m|A|/bitcoin/irc.cpp
-1251603999|sirius-m|A|/bitcoin/irc.cpp
-1251603999|sirius-m|A|/bitcoin/irc.h
-1251603999|sirius-m|A|/bitcoin/irc.h
-1251603999|sirius-m|A|/bitcoin/key.h
-1251603999|sirius-m|A|/bitcoin/key.h
-1251603999|sirius-m|A|/bitcoin/libeay32.dll
-1251603999|sirius-m|A|/bitcoin/libeay32.dll
-1251603999|sirius-m|A|/bitcoin/license.txt
-1251603999|sirius-m|A|/bitcoin/license.txt
-1251603999|sirius-m|A|/bitcoin/main.cpp
-1251603999|sirius-m|A|/bitcoin/main.cpp
-1251603999|sirius-m|A|/bitcoin/main.h
-1251603999|sirius-m|A|/bitcoin/main.h
-1251603999|sirius-m|A|/bitcoin/makefile
-1251603999|sirius-m|A|/bitcoin/makefile
-1251603999|sirius-m|A|/bitcoin/makefile.vc
-1251603999|sirius-m|A|/bitcoin/makefile.vc
-1251603999|sirius-m|A|/bitcoin/market.cpp
-1251603999|sirius-m|A|/bitcoin/market.cpp
-1251603999|sirius-m|A|/bitcoin/market.h
-1251603999|sirius-m|A|/bitcoin/market.h
-1251603999|sirius-m|A|/bitcoin/mingwm10.dll
-1251603999|sirius-m|A|/bitcoin/mingwm10.dll
-1251603999|sirius-m|A|/bitcoin/net.cpp
-1251603999|sirius-m|A|/bitcoin/net.cpp
-1251603999|sirius-m|A|/bitcoin/net.h
-1251603999|sirius-m|A|/bitcoin/net.h
-1251603999|sirius-m|A|/bitcoin/rc/addressbook16.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook16.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook16mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook16mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook20.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook20.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook20mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/addressbook20mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/bitcoin.ico
-1251603999|sirius-m|A|/bitcoin/rc/bitcoin.ico
-1251603999|sirius-m|A|/bitcoin/rc/check.ico
-1251603999|sirius-m|A|/bitcoin/rc/check.ico
-1251603999|sirius-m|A|/bitcoin/rc/send16.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send16.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send16mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send16mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send16masknoshadow.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send16masknoshadow.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send20.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send20.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send20mask.bmp
-1251603999|sirius-m|A|/bitcoin/rc/send20mask.bmp
-1251603999|sirius-m|A|/bitcoin/readme.txt
-1251603999|sirius-m|A|/bitcoin/readme.txt
-1251603999|sirius-m|A|/bitcoin/script.cpp
-1251603999|sirius-m|A|/bitcoin/script.cpp
-1251603999|sirius-m|A|/bitcoin/script.h
-1251603999|sirius-m|A|/bitcoin/script.h
-1251603999|sirius-m|A|/bitcoin/serialize.h
-1251603999|sirius-m|A|/bitcoin/serialize.h
-1251603999|sirius-m|A|/bitcoin/sha.cpp
-1251603999|sirius-m|A|/bitcoin/sha.cpp
-1251603999|sirius-m|A|/bitcoin/sha.h
-1251603999|sirius-m|A|/bitcoin/sha.h
-1251603999|sirius-m|A|/bitcoin/ui.cpp
-1251603999|sirius-m|A|/bitcoin/ui.cpp
-1251603999|sirius-m|A|/bitcoin/ui.h
-1251603999|sirius-m|A|/bitcoin/ui.h
-1251603999|sirius-m|A|/bitcoin/ui.rc
-1251603999|sirius-m|A|/bitcoin/ui.rc
-1251603999|sirius-m|A|/bitcoin/uibase.cpp
-1251603999|sirius-m|A|/bitcoin/uibase.cpp
-1251603999|sirius-m|A|/bitcoin/uibase.h
-1251603999|sirius-m|A|/bitcoin/uibase.h
-1251603999|sirius-m|A|/bitcoin/uint256.h
-1251603999|sirius-m|A|/bitcoin/uint256.h
-1251603999|sirius-m|A|/bitcoin/uiproject.fbp
-1251603999|sirius-m|A|/bitcoin/uiproject.fbp
-1251603999|sirius-m|A|/bitcoin/util.cpp
-1251603999|sirius-m|A|/bitcoin/util.cpp
-1251603999|sirius-m|A|/bitcoin/util.h
-1251603999|sirius-m|A|/bitcoin/util.h
-1251604253|sirius-m|A|/bitcoin/changelog.txt
-1251604253|sirius-m|A|/bitcoin/changelog.txt
-1253107564|sirius-m|D|/bitcoin/libeay32.dll
-1253107564|sirius-m|D|/bitcoin/libeay32.dll
-1253107564|sirius-m|D|/bitcoin/mingwm10.dll
-1253107564|sirius-m|D|/bitcoin/mingwm10.dll
-1253765396|sirius-m|A|/bitcoin/bugs.txt
-1253765396|sirius-m|A|/bitcoin/bugs.txt
-1253765396|sirius-m|M|/bitcoin/changelog.txt
-1253765396|sirius-m|M|/bitcoin/changelog.txt
-1253765396|sirius-m|M|/bitcoin/db.cpp
-1253765396|sirius-m|M|/bitcoin/db.cpp
-1253765396|sirius-m|M|/bitcoin/headers.h
-1253765396|sirius-m|M|/bitcoin/headers.h
-1253765396|sirius-m|M|/bitcoin/main.cpp
-1253765396|sirius-m|M|/bitcoin/main.cpp
-1253765396|sirius-m|M|/bitcoin/main.h
-1253765396|sirius-m|M|/bitcoin/main.h
-1253765396|sirius-m|M|/bitcoin/makefile
-1253765396|sirius-m|M|/bitcoin/makefile
-1253765396|sirius-m|M|/bitcoin/ui.cpp
-1253765396|sirius-m|M|/bitcoin/ui.cpp
-1253765396|sirius-m|M|/bitcoin/ui.h
-1253765396|sirius-m|M|/bitcoin/ui.h
-1253765396|sirius-m|M|/bitcoin/uibase.cpp
-1253765396|sirius-m|M|/bitcoin/uibase.cpp
-1253765396|sirius-m|M|/bitcoin/uibase.h
-1253765396|sirius-m|M|/bitcoin/uibase.h
-1253765396|sirius-m|M|/bitcoin/uiproject.fbp
-1253765396|sirius-m|M|/bitcoin/uiproject.fbp
-1254478445|sirius-m|M|/bitcoin/bugs.txt
-1254478445|sirius-m|M|/bitcoin/bugs.txt
-1254478445|sirius-m|M|/bitcoin/changelog.txt
-1254478445|sirius-m|M|/bitcoin/changelog.txt
-1254478445|sirius-m|M|/bitcoin/ui.cpp
-1254478445|sirius-m|M|/bitcoin/ui.cpp
-1254478445|sirius-m|M|/bitcoin/ui.h
-1254478445|sirius-m|M|/bitcoin/ui.h
-1254570741|sirius-m|M|/bitcoin/bugs.txt
-1254570741|sirius-m|M|/bitcoin/bugs.txt
-1254570741|sirius-m|M|/bitcoin/ui.cpp
-1254570741|sirius-m|M|/bitcoin/ui.cpp
-1254589379|sirius-m|A|/bitcoin/setup.nsi
-1254589379|sirius-m|A|/bitcoin/setup.nsi
-1254656309|sirius-m|M|/bitcoin/changelog.txt
-1254656309|sirius-m|M|/bitcoin/changelog.txt
-1254656309|sirius-m|M|/bitcoin/headers.h
-1254656309|sirius-m|M|/bitcoin/headers.h
-1254656309|sirius-m|M|/bitcoin/setup.nsi
-1254656309|sirius-m|M|/bitcoin/setup.nsi
-1254656309|sirius-m|M|/bitcoin/ui.cpp
-1254656309|sirius-m|M|/bitcoin/ui.cpp
-1254656309|sirius-m|M|/bitcoin/uibase.cpp
-1254656309|sirius-m|M|/bitcoin/uibase.cpp
-1254656309|sirius-m|M|/bitcoin/uiproject.fbp
-1254656309|sirius-m|M|/bitcoin/uiproject.fbp
+1251603999|Martti Malmi|A|/bitcoin/base58.h
+1251603999|Martti Malmi|A|/bitcoin/base58.h
+1251603999|Martti Malmi|A|/bitcoin/bignum.h
+1251603999|Martti Malmi|A|/bitcoin/bignum.h
+1251603999|Martti Malmi|A|/bitcoin/db.cpp
+1251603999|Martti Malmi|A|/bitcoin/db.cpp
+1251603999|Martti Malmi|A|/bitcoin/db.h
+1251603999|Martti Malmi|A|/bitcoin/db.h
+1251603999|Martti Malmi|A|/bitcoin/headers.h
+1251603999|Martti Malmi|A|/bitcoin/headers.h
+1251603999|Martti Malmi|A|/bitcoin/irc.cpp
+1251603999|Martti Malmi|A|/bitcoin/irc.cpp
+1251603999|Martti Malmi|A|/bitcoin/irc.h
+1251603999|Martti Malmi|A|/bitcoin/irc.h
+1251603999|Martti Malmi|A|/bitcoin/key.h
+1251603999|Martti Malmi|A|/bitcoin/key.h
+1251603999|Martti Malmi|A|/bitcoin/libeay32.dll
+1251603999|Martti Malmi|A|/bitcoin/libeay32.dll
+1251603999|Martti Malmi|A|/bitcoin/license.txt
+1251603999|Martti Malmi|A|/bitcoin/license.txt
+1251603999|Martti Malmi|A|/bitcoin/main.cpp
+1251603999|Martti Malmi|A|/bitcoin/main.cpp
+1251603999|Martti Malmi|A|/bitcoin/main.h
+1251603999|Martti Malmi|A|/bitcoin/main.h
+1251603999|Martti Malmi|A|/bitcoin/makefile
+1251603999|Martti Malmi|A|/bitcoin/makefile
+1251603999|Martti Malmi|A|/bitcoin/makefile.vc
+1251603999|Martti Malmi|A|/bitcoin/makefile.vc
+1251603999|Martti Malmi|A|/bitcoin/market.cpp
+1251603999|Martti Malmi|A|/bitcoin/market.cpp
+1251603999|Martti Malmi|A|/bitcoin/market.h
+1251603999|Martti Malmi|A|/bitcoin/market.h
+1251603999|Martti Malmi|A|/bitcoin/mingwm10.dll
+1251603999|Martti Malmi|A|/bitcoin/mingwm10.dll
+1251603999|Martti Malmi|A|/bitcoin/net.cpp
+1251603999|Martti Malmi|A|/bitcoin/net.cpp
+1251603999|Martti Malmi|A|/bitcoin/net.h
+1251603999|Martti Malmi|A|/bitcoin/net.h
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook16.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook16.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook16mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook16mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook20.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook20.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook20mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/addressbook20mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/bitcoin.ico
+1251603999|Martti Malmi|A|/bitcoin/rc/bitcoin.ico
+1251603999|Martti Malmi|A|/bitcoin/rc/check.ico
+1251603999|Martti Malmi|A|/bitcoin/rc/check.ico
+1251603999|Martti Malmi|A|/bitcoin/rc/send16.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send16.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send16mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send16mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send16masknoshadow.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send16masknoshadow.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send20.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send20.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send20mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/rc/send20mask.bmp
+1251603999|Martti Malmi|A|/bitcoin/readme.txt
+1251603999|Martti Malmi|A|/bitcoin/readme.txt
+1251603999|Martti Malmi|A|/bitcoin/script.cpp
+1251603999|Martti Malmi|A|/bitcoin/script.cpp
+1251603999|Martti Malmi|A|/bitcoin/script.h
+1251603999|Martti Malmi|A|/bitcoin/script.h
+1251603999|Martti Malmi|A|/bitcoin/serialize.h
+1251603999|Martti Malmi|A|/bitcoin/serialize.h
+1251603999|Martti Malmi|A|/bitcoin/sha.cpp
+1251603999|Martti Malmi|A|/bitcoin/sha.cpp
+1251603999|Martti Malmi|A|/bitcoin/sha.h
+1251603999|Martti Malmi|A|/bitcoin/sha.h
+1251603999|Martti Malmi|A|/bitcoin/ui.cpp
+1251603999|Martti Malmi|A|/bitcoin/ui.cpp
+1251603999|Martti Malmi|A|/bitcoin/ui.h
+1251603999|Martti Malmi|A|/bitcoin/ui.h
+1251603999|Martti Malmi|A|/bitcoin/ui.rc
+1251603999|Martti Malmi|A|/bitcoin/ui.rc
+1251603999|Martti Malmi|A|/bitcoin/uibase.cpp
+1251603999|Martti Malmi|A|/bitcoin/uibase.cpp
+1251603999|Martti Malmi|A|/bitcoin/uibase.h
+1251603999|Martti Malmi|A|/bitcoin/uibase.h
+1251603999|Martti Malmi|A|/bitcoin/uint256.h
+1251603999|Martti Malmi|A|/bitcoin/uint256.h
+1251603999|Martti Malmi|A|/bitcoin/uiproject.fbp
+1251603999|Martti Malmi|A|/bitcoin/uiproject.fbp
+1251603999|Martti Malmi|A|/bitcoin/util.cpp
+1251603999|Martti Malmi|A|/bitcoin/util.cpp
+1251603999|Martti Malmi|A|/bitcoin/util.h
+1251603999|Martti Malmi|A|/bitcoin/util.h
+1251604253|Martti Malmi|A|/bitcoin/changelog.txt
+1251604253|Martti Malmi|A|/bitcoin/changelog.txt
+1253107564|Martti Malmi|D|/bitcoin/libeay32.dll
+1253107564|Martti Malmi|D|/bitcoin/libeay32.dll
+1253107564|Martti Malmi|D|/bitcoin/mingwm10.dll
+1253107564|Martti Malmi|D|/bitcoin/mingwm10.dll
+1253765396|Martti Malmi|A|/bitcoin/bugs.txt
+1253765396|Martti Malmi|A|/bitcoin/bugs.txt
+1253765396|Martti Malmi|M|/bitcoin/changelog.txt
+1253765396|Martti Malmi|M|/bitcoin/changelog.txt
+1253765396|Martti Malmi|M|/bitcoin/db.cpp
+1253765396|Martti Malmi|M|/bitcoin/db.cpp
+1253765396|Martti Malmi|M|/bitcoin/headers.h
+1253765396|Martti Malmi|M|/bitcoin/headers.h
+1253765396|Martti Malmi|M|/bitcoin/main.cpp
+1253765396|Martti Malmi|M|/bitcoin/main.cpp
+1253765396|Martti Malmi|M|/bitcoin/main.h
+1253765396|Martti Malmi|M|/bitcoin/main.h
+1253765396|Martti Malmi|M|/bitcoin/makefile
+1253765396|Martti Malmi|M|/bitcoin/makefile
+1253765396|Martti Malmi|M|/bitcoin/ui.cpp
+1253765396|Martti Malmi|M|/bitcoin/ui.cpp
+1253765396|Martti Malmi|M|/bitcoin/ui.h
+1253765396|Martti Malmi|M|/bitcoin/ui.h
+1253765396|Martti Malmi|M|/bitcoin/uibase.cpp
+1253765396|Martti Malmi|M|/bitcoin/uibase.cpp
+1253765396|Martti Malmi|M|/bitcoin/uibase.h
+1253765396|Martti Malmi|M|/bitcoin/uibase.h
+1253765396|Martti Malmi|M|/bitcoin/uiproject.fbp
+1253765396|Martti Malmi|M|/bitcoin/uiproject.fbp
+1254478445|Martti Malmi|M|/bitcoin/bugs.txt
+1254478445|Martti Malmi|M|/bitcoin/bugs.txt
+1254478445|Martti Malmi|M|/bitcoin/changelog.txt
+1254478445|Martti Malmi|M|/bitcoin/changelog.txt
+1254478445|Martti Malmi|M|/bitcoin/ui.cpp
+1254478445|Martti Malmi|M|/bitcoin/ui.cpp
+1254478445|Martti Malmi|M|/bitcoin/ui.h
+1254478445|Martti Malmi|M|/bitcoin/ui.h
+1254570741|Martti Malmi|M|/bitcoin/bugs.txt
+1254570741|Martti Malmi|M|/bitcoin/bugs.txt
+1254570741|Martti Malmi|M|/bitcoin/ui.cpp
+1254570741|Martti Malmi|M|/bitcoin/ui.cpp
+1254589379|Martti Malmi|A|/bitcoin/setup.nsi
+1254589379|Martti Malmi|A|/bitcoin/setup.nsi
+1254656309|Martti Malmi|M|/bitcoin/changelog.txt
+1254656309|Martti Malmi|M|/bitcoin/changelog.txt
+1254656309|Martti Malmi|M|/bitcoin/headers.h
+1254656309|Martti Malmi|M|/bitcoin/headers.h
+1254656309|Martti Malmi|M|/bitcoin/setup.nsi
+1254656309|Martti Malmi|M|/bitcoin/setup.nsi
+1254656309|Martti Malmi|M|/bitcoin/ui.cpp
+1254656309|Martti Malmi|M|/bitcoin/ui.cpp
+1254656309|Martti Malmi|M|/bitcoin/uibase.cpp
+1254656309|Martti Malmi|M|/bitcoin/uibase.cpp
+1254656309|Martti Malmi|M|/bitcoin/uiproject.fbp
+1254656309|Martti Malmi|M|/bitcoin/uiproject.fbp
 1256087285|s_nakamoto|A|/bitcoin/build.txt
 1256087285|s_nakamoto|A|/bitcoin/build.txt
 1256087285|s_nakamoto|D|/bitcoin/readme.txt
@@ -184,8 +184,8 @@
 1256087285|s_nakamoto|M|/bitcoin/uiproject.fbp
 1256087285|s_nakamoto|M|/bitcoin/util.cpp
 1256087285|s_nakamoto|M|/bitcoin/util.cpp
-1256403039|sirius-m|M|/bitcoin/setup.nsi
-1256403039|sirius-m|M|/bitcoin/setup.nsi
+1256403039|Martti Malmi|M|/bitcoin/setup.nsi
+1256403039|Martti Malmi|M|/bitcoin/setup.nsi
 1256445301|s_nakamoto|M|/bitcoin/main.cpp
 1256445301|s_nakamoto|M|/bitcoin/main.cpp
 1256445301|s_nakamoto|M|/bitcoin/serialize.h
@@ -258,22 +258,22 @@
 1256847046|s_nakamoto|M|/bitcoin/util.cpp
 1256847046|s_nakamoto|M|/bitcoin/util.h
 1256847046|s_nakamoto|M|/bitcoin/util.h
-1256863535|sirius-m|M|/bitcoin/setup.nsi
-1256863535|sirius-m|M|/bitcoin/setup.nsi
+1256863535|Martti Malmi|M|/bitcoin/setup.nsi
+1256863535|Martti Malmi|M|/bitcoin/setup.nsi
 1256864225|s_nakamoto|M|/bitcoin/main.cpp
 1256864225|s_nakamoto|M|/bitcoin/main.cpp
-1256980303|sirius-m|M|/bitcoin/headers.h
-1256980303|sirius-m|M|/bitcoin/headers.h
-1256980303|sirius-m|M|/bitcoin/irc.h
-1256980303|sirius-m|M|/bitcoin/irc.h
-1256980303|sirius-m|M|/bitcoin/main.cpp
-1256980303|sirius-m|M|/bitcoin/main.cpp
-1256980303|sirius-m|M|/bitcoin/net.h
-1256980303|sirius-m|M|/bitcoin/net.h
-1256980303|sirius-m|M|/bitcoin/util.h
-1256980303|sirius-m|M|/bitcoin/util.h
-1256982744|sirius-m|M|/bitcoin/headers.h
-1256982744|sirius-m|M|/bitcoin/headers.h
+1256980303|Martti Malmi|M|/bitcoin/headers.h
+1256980303|Martti Malmi|M|/bitcoin/headers.h
+1256980303|Martti Malmi|M|/bitcoin/irc.h
+1256980303|Martti Malmi|M|/bitcoin/irc.h
+1256980303|Martti Malmi|M|/bitcoin/main.cpp
+1256980303|Martti Malmi|M|/bitcoin/main.cpp
+1256980303|Martti Malmi|M|/bitcoin/net.h
+1256980303|Martti Malmi|M|/bitcoin/net.h
+1256980303|Martti Malmi|M|/bitcoin/util.h
+1256980303|Martti Malmi|M|/bitcoin/util.h
+1256982744|Martti Malmi|M|/bitcoin/headers.h
+1256982744|Martti Malmi|M|/bitcoin/headers.h
 1257038211|s_nakamoto|M|/bitcoin/build.txt
 1257038211|s_nakamoto|M|/bitcoin/build.txt
 1257038211|s_nakamoto|M|/bitcoin/db.cpp
@@ -646,20 +646,20 @@
 1265237920|s_nakamoto|M|/bitcoin/uibase.h
 1265237920|s_nakamoto|M|/bitcoin/uiproject.fbp
 1265237920|s_nakamoto|M|/bitcoin/uiproject.fbp
-1265297506|sirius-m|A|/bitcoin/ipc.cpp
-1265297506|sirius-m|A|/bitcoin/ipc.cpp
-1265297506|sirius-m|A|/bitcoin/ipc.h
-1265297506|sirius-m|A|/bitcoin/ipc.h
-1265297506|sirius-m|M|/bitcoin/headers.h
-1265297506|sirius-m|M|/bitcoin/headers.h
-1265297506|sirius-m|M|/bitcoin/makefile
-1265297506|sirius-m|M|/bitcoin/makefile
-1265297506|sirius-m|M|/bitcoin/makefile.unix.wx2.8
-1265297506|sirius-m|M|/bitcoin/makefile.unix.wx2.8
-1265297506|sirius-m|M|/bitcoin/makefile.unix.wx2.9
-1265297506|sirius-m|M|/bitcoin/makefile.unix.wx2.9
-1265297506|sirius-m|M|/bitcoin/ui.cpp
-1265297506|sirius-m|M|/bitcoin/ui.cpp
+1265297506|Martti Malmi|A|/bitcoin/ipc.cpp
+1265297506|Martti Malmi|A|/bitcoin/ipc.cpp
+1265297506|Martti Malmi|A|/bitcoin/ipc.h
+1265297506|Martti Malmi|A|/bitcoin/ipc.h
+1265297506|Martti Malmi|M|/bitcoin/headers.h
+1265297506|Martti Malmi|M|/bitcoin/headers.h
+1265297506|Martti Malmi|M|/bitcoin/makefile
+1265297506|Martti Malmi|M|/bitcoin/makefile
+1265297506|Martti Malmi|M|/bitcoin/makefile.unix.wx2.8
+1265297506|Martti Malmi|M|/bitcoin/makefile.unix.wx2.8
+1265297506|Martti Malmi|M|/bitcoin/makefile.unix.wx2.9
+1265297506|Martti Malmi|M|/bitcoin/makefile.unix.wx2.9
+1265297506|Martti Malmi|M|/bitcoin/ui.cpp
+1265297506|Martti Malmi|M|/bitcoin/ui.cpp
 1265830384|s_nakamoto|D|/bitcoin/ipc.cpp
 1265830384|s_nakamoto|D|/bitcoin/ipc.cpp
 1265830384|s_nakamoto|D|/bitcoin/ipc.h
