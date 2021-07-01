@@ -75,7 +75,7 @@ https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
 
 
 # Art:
-\gource\art <br>
+Some art is located at \gource\art <br>
 ![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)
 
 
