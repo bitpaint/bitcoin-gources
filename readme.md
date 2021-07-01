@@ -76,6 +76,10 @@ https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
 
 # Art:
 Some art is located at \gource\art <br>
-![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)<br>
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/1.png)
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/2.png)<br>
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/3.png)
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/4.png)<br>
 
 
