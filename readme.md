@@ -1,11 +1,15 @@
+
+# Welcome to Bitcoin-gources!
+
+![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)<br><br>
+
+
+
 # Installation
 
-- Go to gource.io and install gource
-- Download this repo
+- Go to https://gource.io and **install gource**
+- Clone this repo
 - Run @gource.sh
-
-
-
 
 
 
@@ -75,8 +79,7 @@ https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
 
 
 # Art:
-Some art is located at \gource\art <br>
-![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/screenshoot.jpg)<br>
+Some art is located at *\gource\art* <br>
 ![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/1.png)
 ![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/2.png)<br>
 ![alt text](https://raw.githubusercontent.com/bitpaint/bitcoin-gources/main/gource/art/4k/3.png)
