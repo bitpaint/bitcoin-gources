@@ -5,7 +5,12 @@
 
 
 
-# Installation
+# Youtube playlist:
+
+https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
+
+
+# Installation instructions
 
 - Go to https://gource.io and **install gource**
 - Clone this repo
