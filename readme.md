@@ -50,6 +50,9 @@ A file for gource that include combined repos of:
 - bitcoinj
 - bitcoin.org
 - DeBitpay
+- Bitcoin-wallet
+- Mastering Bitcoin second edition
+- 
 
 
 a lot more to be added, i'm working on it.
