@@ -18,9 +18,9 @@ https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
 
 
 
-# what is "combined.txt"?
+# what is "gource\combined.txt"?
 
-A file for gource that include combined repos of:
+A file for gource that include combined repos of: (in order - first added first)
 
 - Bitcoin (with bips lib58 libblkmaker)
 - Btcpayserver (with everything)
@@ -52,7 +52,7 @@ A file for gource that include combined repos of:
 - DeBitpay
 - Bitcoin-wallet
 - Mastering Bitcoin second edition
-- 
+- Lightning-poker 
 
 
 a lot more to be added, i'm working on it.
