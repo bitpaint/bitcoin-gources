@@ -53,6 +53,7 @@ A file for gource that include combined repos of: (in order - first added first)
 - Bitcoin-wallet
 - Mastering Bitcoin second edition
 - Lightning-poker 
+- Coldcard Firmware
 
 
 a lot more to be added, i'm working on it.
