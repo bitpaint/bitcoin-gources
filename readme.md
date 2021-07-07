@@ -54,6 +54,7 @@ A file for gource that include combined repos of: (in order - first added first)
 - Mastering Bitcoin second edition
 - Lightning-poker 
 - Coldcard Firmware
+- Ride the Lightning (RTL)
 
 
 a lot more to be added, i'm working on it.
