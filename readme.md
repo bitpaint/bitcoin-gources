@@ -82,11 +82,6 @@ a lot more to be added, i'm working on it.
 - (ESC) Quit
 
 
-# Youtube playlist:
-
-https://www.youtube.com/playlist?list=PL__P3lEspEgAcDvJZWLqOQqigCInflZeJ
-
-
 
 # Art:
 Some art is located at *\gource\art* <br>
