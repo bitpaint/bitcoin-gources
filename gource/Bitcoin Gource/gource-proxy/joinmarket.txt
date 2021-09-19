@@ -1,0 +1,2202 @@
+1418093330|Belcher|A|/JOINMARKET/.gitignore
+1418093330|Belcher|A|/JOINMARKET/README.txt
+1418093330|Belcher|A|/JOINMARKET/bip32-tool.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/__init__.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/bci.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/composite.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/deterministic.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/main.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/ripemd.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/stealth.py
+1418093330|Belcher|A|/JOINMARKET/bitcoin/transaction.py
+1418093330|Belcher|A|/JOINMARKET/common.py
+1418093330|Belcher|A|/JOINMARKET/irclib.py
+1418093330|Belcher|A|/JOINMARKET/maker.py
+1418093330|Belcher|A|/JOINMARKET/taker.py
+1418093330|Belcher|M|/JOINMARKET/bip32-tool.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/bci.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/composite.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/deterministic.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/main.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/ripemd.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/stealth.py
+1418093330|Belcher|M|/JOINMARKET/bitcoin/transaction.py
+1418093330|Belcher|M|/JOINMARKET/common.py
+1418093330|Belcher|M|/JOINMARKET/irclib.py
+1418093330|Belcher|M|/JOINMARKET/maker.py
+1418093330|Belcher|M|/JOINMARKET/taker.py
+1418261220|Belcher|M|/JOINMARKET/bip32-tool.py
+1418261220|Belcher|M|/JOINMARKET/common.py
+1418261220|Belcher|M|/JOINMARKET/maker.py
+1418261220|Belcher|M|/JOINMARKET/taker.py
+1418263811|Belcher|M|/JOINMARKET/README.txt
+1418337196|Belcher|M|/JOINMARKET/README.txt
+1418337196|Belcher|M|/JOINMARKET/taker.py
+1418348531|Belcher|M|/JOINMARKET/README.txt
+1418348531|Belcher|M|/JOINMARKET/common.py
+1418348531|Belcher|M|/JOINMARKET/irclib.py
+1418348531|Belcher|M|/JOINMARKET/maker.py
+1418348531|Belcher|M|/JOINMARKET/taker.py
+1418679042|Belcher|M|/JOINMARKET/maker.py
+1418679629|Belcher|M|/JOINMARKET/README.txt
+1418849346|Belcher|M|/JOINMARKET/bip32-tool.py
+1418849346|Belcher|M|/JOINMARKET/common.py
+1418849346|Belcher|M|/JOINMARKET/maker.py
+1419295785|Belcher|M|/JOINMARKET/README.txt
+1419295785|Belcher|M|/JOINMARKET/bip32-tool.py
+1419295785|Belcher|M|/JOINMARKET/common.py
+1419295785|Belcher|M|/JOINMARKET/irclib.py
+1419295785|Belcher|M|/JOINMARKET/maker.py
+1419295785|Belcher|M|/JOINMARKET/taker.py
+1419337751|Belcher|M|/JOINMARKET/README.txt
+1419337751|Belcher|M|/JOINMARKET/common.py
+1419337751|Belcher|M|/JOINMARKET/maker.py
+1419337751|Belcher|M|/JOINMARKET/taker.py
+1419345071|Belcher|M|/JOINMARKET/taker.py
+1419345071|Belcher|A|/JOINMARKET/testtaker.py
+1419345071|Belcher|A|/JOINMARKET/tumbler.py
+1419345153|Belcher|M|/JOINMARKET/README.txt
+1419369938|Belcher|A|/JOINMARKET/gui-taker.py
+1419369938|Belcher|M|/JOINMARKET/irclib.py
+1419369938|Belcher|A|/JOINMARKET/orderbook.html
+1419369938|Belcher|M|/JOINMARKET/taker.py
+1419375075|Belcher|M|/JOINMARKET/irclib.py
+1419375075|Belcher|M|/JOINMARKET/maker.py
+1419375075|Belcher|M|/JOINMARKET/taker.py
+1419375075|Belcher|M|/JOINMARKET/testtaker.py
+1419516978|Belcher|M|/JOINMARKET/README.txt
+1419516978|Belcher|M|/JOINMARKET/common.py
+1419516978|Belcher|M|/JOINMARKET/gui-taker.py
+1419516978|Belcher|M|/JOINMARKET/irclib.py
+1419516978|Belcher|M|/JOINMARKET/maker.py
+1419516978|Belcher|M|/JOINMARKET/testtaker.py
+1419523985|Belcher|M|/JOINMARKET/maker.py
+1419529850|Belcher|M|/JOINMARKET/bip32-tool.py
+1419546354|Belcher|M|/JOINMARKET/README.txt
+1419546354|Belcher|M|/JOINMARKET/bip32-tool.py
+1419553872|Belcher|M|/JOINMARKET/maker.py
+1419553872|Belcher|A|/JOINMARKET/yield-generator.py
+1419561270|Belcher|M|/JOINMARKET/gui-taker.py
+1419561270|Belcher|M|/JOINMARKET/orderbook.html
+1419563313|Belcher|M|/JOINMARKET/gui-taker.py
+1419563313|Belcher|M|/JOINMARKET/orderbook.html
+1419563665|Belcher|M|/JOINMARKET/README.txt
+1419638726|Belcher|M|/JOINMARKET/README.txt
+1419638726|Belcher|M|/JOINMARKET/gui-taker.py
+1419638726|Belcher|M|/JOINMARKET/taker.py
+1419638726|Belcher|D|/JOINMARKET/testtaker.py
+1419684526|Belcher|M|/JOINMARKET/README.txt
+1419684526|Belcher|M|/JOINMARKET/maker.py
+1419684526|Belcher|M|/JOINMARKET/yield-generator.py
+1419714836|Belcher|M|/JOINMARKET/maker.py
+1419714836|Belcher|M|/JOINMARKET/taker.py
+1419714836|Belcher|M|/JOINMARKET/yield-generator.py
+1419728197|Belcher|M|/JOINMARKET/taker.py
+1419728197|Belcher|M|/JOINMARKET/yield-generator.py
+1419734650|Belcher|M|/JOINMARKET/common.py
+1419734650|Belcher|M|/JOINMARKET/yield-generator.py
+1419824243|Belcher|M|/JOINMARKET/README.txt
+1419824243|Belcher|A|/JOINMARKET/send-payment.py
+1419824607|Belcher|M|/JOINMARKET/maker.py
+1419866181|Belcher|M|/JOINMARKET/taker.py
+1419871663|Belcher|M|/JOINMARKET/send-payment.py
+1419959203|Belcher|M|/JOINMARKET/README.txt
+1419965970|Belcher|M|/JOINMARKET/send-payment.py
+1419965970|Belcher|M|/JOINMARKET/yield-generator.py
+1419977764|Belcher|M|/JOINMARKET/README.txt
+1419977764|Belcher|M|/JOINMARKET/send-payment.py
+1419981058|Belcher|M|/JOINMARKET/irclib.py
+1419981058|Belcher|M|/JOINMARKET/yield-generator.py
+1420038384|Adam Gibson|A|/JOINMARKET/enc_wrapper.py
+1420038384|Adam Gibson|A|/JOINMARKET/enc_wrapper_tester.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/__init__.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/base.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/blake.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/dual.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/encode.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/public.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/secret.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/sign.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/utils.py
+1420038384|Adam Gibson|A|/JOINMARKET/libnacl/version.py
+1420041464|Belcher|M|/JOINMARKET/maker.py
+1420041464|Belcher|D|/JOINMARKET/send-payment.py
+1420041464|Belcher|A|/JOINMARKET/sendpayment.py
+1420049920|Belcher|M|/JOINMARKET/irclib.py
+1420049920|Belcher|M|/JOINMARKET/taker.py
+1420155027|Belcher|A|/JOINMARKET/patientsendpayment.py
+1420235642|Belcher|M|/JOINMARKET/README.txt
+1420235642|Belcher|M|/JOINMARKET/common.py
+1420237932|Belcher|M|/JOINMARKET/bip32-tool.py
+1420237932|Belcher|M|/JOINMARKET/patientsendpayment.py
+1420237932|Belcher|M|/JOINMARKET/sendpayment.py
+1420238700|Belcher|D|/JOINMARKET/bip32-tool.py
+1420238700|Belcher|A|/JOINMARKET/wallet-tool.py
+1420240227|Belcher|M|/JOINMARKET/README.txt
+1420405674|Adam Gibson|M|/JOINMARKET/README.txt
+1420405674|Adam Gibson|M|/JOINMARKET/common.py
+1420405674|Adam Gibson|M|/JOINMARKET/irclib.py
+1420405674|Adam Gibson|M|/JOINMARKET/maker.py
+1420405674|Adam Gibson|M|/JOINMARKET/taker.py
+1420754662|Belcher|M|/JOINMARKET/sendpayment.py
+1420841863|Belcher|M|/JOINMARKET/yield-generator.py
+1420842125|Belcher|M|/JOINMARKET/yield-generator.py
+1420842430|Belcher|M|/JOINMARKET/yield-generator.py
+1421098252|Belcher|M|/JOINMARKET/irclib.py
+1421098296|Belcher|M|/JOINMARKET/yield-generator.py
+1421098598|Adam Gibson|M|/JOINMARKET/enc_wrapper.py
+1421098598|Adam Gibson|A|/JOINMARKET/encryption_protocol.txt
+1421098598|Adam Gibson|M|/JOINMARKET/irclib.py
+1421098598|Adam Gibson|M|/JOINMARKET/maker.py
+1421098598|Adam Gibson|M|/JOINMARKET/taker.py
+1421099679|Belcher|M|/JOINMARKET/yield-generator.py
+1421100324|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1421183458|Adam Gibson|M|/JOINMARKET/common.py
+1421189169|Belcher|M|/JOINMARKET/irclib.py
+1421189169|Belcher|M|/JOINMARKET/patientsendpayment.py
+1421189169|Belcher|M|/JOINMARKET/sendpayment.py
+1421189169|Belcher|M|/JOINMARKET/yield-generator.py
+1421427821|Belcher|M|/JOINMARKET/irclib.py
+1421429892|Belcher|M|/JOINMARKET/irclib.py
+1421499293|Adam Gibson|M|/JOINMARKET/common.py
+1421499293|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1421516082|Belcher|M|/JOINMARKET/irclib.py
+1421602189|Belcher|M|/JOINMARKET/common.py
+1421602189|Belcher|M|/JOINMARKET/maker.py
+1421602189|Belcher|M|/JOINMARKET/patientsendpayment.py
+1421602189|Belcher|M|/JOINMARKET/sendpayment.py
+1421602189|Belcher|M|/JOINMARKET/taker.py
+1421602189|Belcher|M|/JOINMARKET/yield-generator.py
+1421602469|Adam Gibson|M|/JOINMARKET/maker.py
+1421602469|Adam Gibson|M|/JOINMARKET/taker.py
+1421602469|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1421793036|Belcher|M|/JOINMARKET/common.py
+1421793036|Belcher|M|/JOINMARKET/maker.py
+1421793036|Belcher|M|/JOINMARKET/patientsendpayment.py
+1421793036|Belcher|M|/JOINMARKET/sendpayment.py
+1421793036|Belcher|M|/JOINMARKET/taker.py
+1421793036|Belcher|M|/JOINMARKET/yield-generator.py
+1421794020|Belcher|M|/JOINMARKET/maker.py
+1421794020|Belcher|M|/JOINMARKET/taker.py
+1421794426|Belcher|M|/JOINMARKET/maker.py
+1421794426|Belcher|M|/JOINMARKET/taker.py
+1421800828|Belcher|M|/JOINMARKET/maker.py
+1421800828|Belcher|M|/JOINMARKET/patientsendpayment.py
+1421800828|Belcher|M|/JOINMARKET/yield-generator.py
+1421800926|Belcher|M|/JOINMARKET/yield-generator.py
+1421801069|Belcher|M|/JOINMARKET/README.txt
+1421801069|Belcher|A|/JOINMARKET/TODO
+1421801815|Belcher|M|/JOINMARKET/README.txt
+1421803796|Belcher|M|/JOINMARKET/taker.py
+1421863947|Adam Gibson|M|/JOINMARKET/taker.py
+1421863947|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1421863947|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1421872657|Belcher|M|/JOINMARKET/TODO
+1421877412|Belcher|M|/JOINMARKET/TODO
+1421877412|Belcher|M|/JOINMARKET/common.py
+1421877412|Belcher|M|/JOINMARKET/patientsendpayment.py
+1421877412|Belcher|M|/JOINMARKET/sendpayment.py
+1421877412|Belcher|M|/JOINMARKET/yield-generator.py
+1421946915|Adam Gibson|M|/JOINMARKET/irclib.py
+1421946915|Adam Gibson|M|/JOINMARKET/taker.py
+1422051607|Belcher|M|/JOINMARKET/common.py
+1422051607|Belcher|M|/JOINMARKET/maker.py
+1422053322|Belcher|M|/JOINMARKET/TODO
+1422053322|Belcher|M|/JOINMARKET/common.py
+1422053322|Belcher|M|/JOINMARKET/patientsendpayment.py
+1422053322|Belcher|M|/JOINMARKET/sendpayment.py
+1422093526|Adam Gibson|M|/JOINMARKET/enc_wrapper.py
+1422093526|Adam Gibson|D|/JOINMARKET/enc_wrapper_tester.py
+1422099427|Adam Gibson|M|/JOINMARKET/TODO
+1422099427|Adam Gibson|M|/JOINMARKET/irclib.py
+1422099427|Adam Gibson|M|/JOINMARKET/maker.py
+1422099427|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1422099427|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1422099427|Adam Gibson|M|/JOINMARKET/taker.py
+1422099427|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1422120082|Belcher|M|/JOINMARKET/common.py
+1422121070|Adam Gibson|M|/JOINMARKET/enc_wrapper.py
+1422122644|Belcher|M|/JOINMARKET/maker.py
+1422208360|Belcher|M|/JOINMARKET/irclib.py
+1422208360|Belcher|M|/JOINMARKET/maker.py
+1422208360|Belcher|M|/JOINMARKET/taker.py
+1422210727|Belcher|M|/JOINMARKET/TODO
+1422210727|Belcher|M|/JOINMARKET/irclib.py
+1422214465|Belcher|M|/JOINMARKET/yield-generator.py
+1422219667|Belcher|M|/JOINMARKET/common.py
+1422219667|Belcher|M|/JOINMARKET/sendpayment.py
+1422220118|Belcher|M|/JOINMARKET/irclib.py
+1422222656|Belcher|M|/JOINMARKET/common.py
+1422222656|Belcher|M|/JOINMARKET/sendpayment.py
+1422230067|Belcher|M|/JOINMARKET/common.py
+1422234080|Belcher|M|/JOINMARKET/sendpayment.py
+1422234230|Belcher|M|/JOINMARKET/TODO
+1422234946|Belcher|M|/JOINMARKET/sendpayment.py
+1422234946|Belcher|M|/JOINMARKET/taker.py
+1422317526|Belcher|M|/JOINMARKET/taker.py
+1422396566|Belcher|M|/JOINMARKET/patientsendpayment.py
+1422396566|Belcher|M|/JOINMARKET/sendpayment.py
+1422405595|Belcher|M|/JOINMARKET/TODO
+1422405595|Belcher|M|/JOINMARKET/maker.py
+1422407667|Belcher|M|/JOINMARKET/TODO
+1422407667|Belcher|M|/JOINMARKET/maker.py
+1422407667|Belcher|M|/JOINMARKET/taker.py
+1422410372|Belcher|M|/JOINMARKET/TODO
+1422484971|Belcher|M|/JOINMARKET/common.py
+1422484971|Belcher|M|/JOINMARKET/yield-generator.py
+1422491927|Belcher|A|/JOINMARKET/message_channel.py
+1422491927|Belcher|M|/JOINMARKET/taker.py
+1422492850|Belcher|M|/JOINMARKET/common.py
+1422535495|Adam Gibson|M|/JOINMARKET/enc_wrapper.py
+1422535495|Adam Gibson|M|/JOINMARKET/maker.py
+1422575206|Belcher|M|/JOINMARKET/wallet-tool.py
+1422576161|Belcher|M|/JOINMARKET/.gitignore
+1422576161|Belcher|M|/JOINMARKET/wallet-tool.py
+1422719229|Belcher|M|/JOINMARKET/maker.py
+1422727653|Adam Gibson|M|/JOINMARKET/common.py
+1422727653|Adam Gibson|M|/JOINMARKET/enc_wrapper.py
+1422727653|Adam Gibson|M|/JOINMARKET/encryption_protocol.txt
+1422727653|Adam Gibson|M|/JOINMARKET/irclib.py
+1422727653|Adam Gibson|M|/JOINMARKET/maker.py
+1422727653|Adam Gibson|M|/JOINMARKET/taker.py
+1422734500|Belcher|M|/JOINMARKET/maker.py
+1422736995|Adam Gibson|M|/JOINMARKET/common.py
+1422736995|Adam Gibson|M|/JOINMARKET/maker.py
+1422737386|Adam Gibson|M|/JOINMARKET/common.py
+1422800196|Adam Gibson|M|/JOINMARKET/irclib.py
+1422822334|Belcher|D|/JOINMARKET/TODO
+1422822888|Belcher|A|/JOINMARKET/TODO
+1422822987|Belcher|D|/JOINMARKET/TODO
+1422913402|Adam Gibson|M|/JOINMARKET/common.py
+1422913402|Adam Gibson|M|/JOINMARKET/irclib.py
+1422913402|Adam Gibson|M|/JOINMARKET/maker.py
+1422913402|Adam Gibson|M|/JOINMARKET/taker.py
+1423081102|Adam Gibson|M|/JOINMARKET/common.py
+1423096277|Belcher|M|/JOINMARKET/irclib.py
+1423096277|Belcher|M|/JOINMARKET/taker.py
+1423159221|Adam Gibson|M|/JOINMARKET/common.py
+1423159221|Adam Gibson|M|/JOINMARKET/encryption_protocol.txt
+1423159221|Adam Gibson|M|/JOINMARKET/maker.py
+1423163476|Adam Gibson|M|/JOINMARKET/maker.py
+1423163476|Adam Gibson|M|/JOINMARKET/taker.py
+1423289531|Emilian Ursu|M|/JOINMARKET/common.py
+1423289531|Emilian Ursu|M|/JOINMARKET/maker.py
+1423289531|Emilian Ursu|M|/JOINMARKET/taker.py
+1423291695|Emilian Ursu|M|/JOINMARKET/common.py
+1423291695|Emilian Ursu|M|/JOINMARKET/patientsendpayment.py
+1423291695|Emilian Ursu|M|/JOINMARKET/sendpayment.py
+1423291695|Emilian Ursu|M|/JOINMARKET/taker.py
+1423659032|Adam Gibson|A|/JOINMARKET/blockchaininterface.py
+1423659032|Adam Gibson|M|/JOINMARKET/common.py
+1423659032|Adam Gibson|A|/JOINMARKET/testing/regtesttest.py
+1423766135|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1423766135|Adam Gibson|M|/JOINMARKET/common.py
+1423773149|chris belcher|M|/JOINMARKET/irclib.py
+1423773149|chris belcher|M|/JOINMARKET/message_channel.py
+1423773149|chris belcher|M|/JOINMARKET/taker.py
+1423786812|Belcher|M|/JOINMARKET/irclib.py
+1423830246|chris belcher|M|/JOINMARKET/gui-taker.py
+1423830246|chris belcher|M|/JOINMARKET/irclib.py
+1423830246|chris belcher|M|/JOINMARKET/message_channel.py
+1423830246|chris belcher|M|/JOINMARKET/taker.py
+1423850921|chris belcher|M|/JOINMARKET/gui-taker.py
+1423850921|chris belcher|A|/JOINMARKET/irc.py
+1423850921|chris belcher|D|/JOINMARKET/irclib.py
+1423850921|chris belcher|M|/JOINMARKET/taker.py
+1423851504|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1423851504|Adam Gibson|M|/JOINMARKET/common.py
+1423860738|chris belcher|M|/JOINMARKET/irc.py
+1423860738|chris belcher|M|/JOINMARKET/message_channel.py
+1423860738|chris belcher|M|/JOINMARKET/sendpayment.py
+1423860738|chris belcher|M|/JOINMARKET/taker.py
+1424001976|Belcher|M|/JOINMARKET/irc.py
+1424001976|Belcher|M|/JOINMARKET/taker.py
+1424010187|Belcher|M|/JOINMARKET/irc.py
+1424010187|Belcher|M|/JOINMARKET/maker.py
+1424010187|Belcher|M|/JOINMARKET/message_channel.py
+1424010187|Belcher|M|/JOINMARKET/yield-generator.py
+1424011941|Belcher|M|/JOINMARKET/common.py
+1424036185|Belcher|M|/JOINMARKET/irc.py
+1424036185|Belcher|M|/JOINMARKET/maker.py
+1424036185|Belcher|M|/JOINMARKET/taker.py
+1424037235|Belcher|M|/JOINMARKET/irc.py
+1424044966|Belcher|M|/JOINMARKET/tumbler.py
+1424119972|chris belcher|M|/JOINMARKET/irc.py
+1424119972|chris belcher|M|/JOINMARKET/sendpayment.py
+1424119972|chris belcher|M|/JOINMARKET/taker.py
+1424121058|chris belcher|M|/JOINMARKET/irc.py
+1424121058|chris belcher|M|/JOINMARKET/message_channel.py
+1424121058|chris belcher|M|/JOINMARKET/taker.py
+1424121408|chris belcher|M|/JOINMARKET/yield-generator.py
+1424175237|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1424175237|Adam Gibson|M|/JOINMARKET/common.py
+1424175237|Adam Gibson|M|/JOINMARKET/taker.py
+1424198031|chris belcher|M|/JOINMARKET/irc.py
+1424296416|chris belcher|M|/JOINMARKET/irc.py
+1424296416|chris belcher|M|/JOINMARKET/patientsendpayment.py
+1424296443|chris belcher|M|/JOINMARKET/wallet-tool.py
+1424369321|chris belcher|M|/JOINMARKET/patientsendpayment.py
+1424391083|Belcher|M|/JOINMARKET/patientsendpayment.py
+1424392639|Belcher|M|/JOINMARKET/patientsendpayment.py
+1424392639|Belcher|M|/JOINMARKET/sendpayment.py
+1424392639|Belcher|M|/JOINMARKET/taker.py
+1424393218|Belcher|M|/JOINMARKET/irc.py
+1424460339|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1424460339|Adam Gibson|M|/JOINMARKET/common.py
+1424460339|Adam Gibson|A|/JOINMARKET/regtesttest.py
+1424460339|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1424460339|Adam Gibson|D|/JOINMARKET/testing/regtesttest.py
+1424460339|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1424522627|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1424522627|Adam Gibson|M|/JOINMARKET/common.py
+1424522627|Adam Gibson|M|/JOINMARKET/regtesttest.py
+1424522627|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1424522627|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1424531299|Adam Gibson|M|/JOINMARKET/common.py
+1424540052|Adam Gibson|M|/JOINMARKET/common.py
+1424635335|Adam Gibson|M|/JOINMARKET/common.py
+1424635335|Adam Gibson|M|/JOINMARKET/irc.py
+1424635335|Adam Gibson|M|/JOINMARKET/regtesttest.py
+1424635335|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1424635335|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1424637429|Adam Gibson|M|/JOINMARKET/common.py
+1424637429|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1424637429|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1424722798|Adam Gibson|M|/JOINMARKET/gui-taker.py
+1424722798|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1424890707|chris belcher|M|/JOINMARKET/tumbler.py
+1424988411|Adam Gibson|M|/JOINMARKET/common.py
+1424988411|Adam Gibson|M|/JOINMARKET/irc.py
+1424988411|Adam Gibson|A|/JOINMARKET/joinmarket.cfg
+1424988411|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1424988411|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1424988411|Adam Gibson|M|/JOINMARKET/tumbler.py
+1424988411|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1424988411|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1425150883|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1425150883|Adam Gibson|M|/JOINMARKET/common.py
+1425150883|Adam Gibson|M|/JOINMARKET/irc.py
+1425150883|Adam Gibson|A|/JOINMARKET/joinmarket.cfg
+1425150883|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1425150883|Adam Gibson|M|/JOINMARKET/taker.py
+1425150883|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1425150883|Adam Gibson|M|/JOINMARKET/yield-generator.py
+1425155600|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1425155600|Adam Gibson|M|/JOINMARKET/common.py
+1425155600|Adam Gibson|M|/JOINMARKET/regtesttest.py
+1425395572|Adam Gibson|M|/JOINMARKET/blockchaininterface.py
+1425936302|Belcher|M|/JOINMARKET/blockchaininterface.py
+1425936302|Belcher|M|/JOINMARKET/common.py
+1425936302|Belcher|M|/JOINMARKET/joinmarket.cfg
+1426021738|Belcher|M|/JOINMARKET/gui-taker.py
+1426212740|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426212740|Belcher|M|/JOINMARKET/common.py
+1426212740|Belcher|M|/JOINMARKET/irc.py
+1426212740|Belcher|M|/JOINMARKET/maker.py
+1426212740|Belcher|M|/JOINMARKET/sendpayment.py
+1426212740|Belcher|M|/JOINMARKET/taker.py
+1426212740|Belcher|M|/JOINMARKET/wallet-tool.py
+1426212740|Belcher|M|/JOINMARKET/yield-generator.py
+1426213390|Belcher|M|/JOINMARKET/README.txt
+1426368015|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426368015|Belcher|M|/JOINMARKET/common.py
+1426368015|Belcher|M|/JOINMARKET/joinmarket.cfg
+1426387326|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426387326|Belcher|M|/JOINMARKET/joinmarket.cfg
+1426387326|Belcher|M|/JOINMARKET/wallet-tool.py
+1426387326|Belcher|M|/JOINMARKET/yield-generator.py
+1426432446|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426445105|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426558894|Belcher|M|/JOINMARKET/blockchaininterface.py
+1426558894|Belcher|M|/JOINMARKET/common.py
+1426558894|Belcher|M|/JOINMARKET/patientsendpayment.py
+1426558894|Belcher|M|/JOINMARKET/sendpayment.py
+1426558894|Belcher|M|/JOINMARKET/taker.py
+1426558894|Belcher|M|/JOINMARKET/tumbler.py
+1426632255|Belcher|M|/JOINMARKET/common.py
+1426632255|Belcher|M|/JOINMARKET/irc.py
+1426632255|Belcher|M|/JOINMARKET/yield-generator.py
+1426633633|Belcher|M|/JOINMARKET/irc.py
+1426716303|Belcher|M|/JOINMARKET/wallet-tool.py
+1426810355|Belcher|M|/JOINMARKET/taker.py
+1426810355|Belcher|M|/JOINMARKET/yield-generator.py
+1426811475|Belcher|M|/JOINMARKET/irc.py
+1427331820|Belcher|M|/JOINMARKET/blockchaininterface.py
+1427331820|Belcher|M|/JOINMARKET/taker.py
+1427384104|Belcher|M|/JOINMARKET/patientsendpayment.py
+1427384104|Belcher|M|/JOINMARKET/sendpayment.py
+1427384104|Belcher|M|/JOINMARKET/taker.py
+1427384104|Belcher|M|/JOINMARKET/tumbler.py
+1427384407|Belcher|M|/JOINMARKET/taker.py
+1427581719|Belcher|M|/JOINMARKET/.gitignore
+1427581719|Belcher|M|/JOINMARKET/common.py
+1427581719|Belcher|M|/JOINMARKET/maker.py
+1427581719|Belcher|M|/JOINMARKET/patientsendpayment.py
+1427581719|Belcher|M|/JOINMARKET/sendpayment.py
+1427581719|Belcher|M|/JOINMARKET/taker.py
+1427581719|Belcher|M|/JOINMARKET/tumbler.py
+1427589621|Belcher|M|/JOINMARKET/tumbler.py
+1427589962|Belcher|M|/JOINMARKET/taker.py
+1427743435|Belcher|M|/JOINMARKET/blockchaininterface.py
+1427743435|Belcher|M|/JOINMARKET/maker.py
+1427743435|Belcher|M|/JOINMARKET/taker.py
+1427832690|Belcher|M|/JOINMARKET/blockchaininterface.py
+1427832690|Belcher|M|/JOINMARKET/common.py
+1427832690|Belcher|M|/JOINMARKET/irc.py
+1427832690|Belcher|M|/JOINMARKET/maker.py
+1427832690|Belcher|M|/JOINMARKET/patientsendpayment.py
+1427832690|Belcher|M|/JOINMARKET/sendpayment.py
+1427832690|Belcher|M|/JOINMARKET/yield-generator.py
+1427834889|Belcher|M|/JOINMARKET/yield-generator.py
+1427847073|Belcher|M|/JOINMARKET/gui-taker.py
+1427847073|Belcher|M|/JOINMARKET/irc.py
+1427847073|Belcher|M|/JOINMARKET/yield-generator.py
+1428193945|Belcher|M|/JOINMARKET/blockchaininterface.py
+1428195534|Belcher|M|/JOINMARKET/common.py
+1428196359|Belcher|M|/JOINMARKET/common.py
+1428266357|Belcher|M|/JOINMARKET/blockchaininterface.py
+1428266357|Belcher|M|/JOINMARKET/taker.py
+1428270367|Belcher|M|/JOINMARKET/maker.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/__init__.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/bci.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/composite.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/deterministic.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/main.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/ripemd.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/stealth.py
+1428274041|Belcher|D|/JOINMARKET/bitcoin/transaction.py
+1428274041|Belcher|D|/JOINMARKET/blockchaininterface.py
+1428274041|Belcher|D|/JOINMARKET/common.py
+1428274041|Belcher|D|/JOINMARKET/enc_wrapper.py
+1428274041|Belcher|M|/JOINMARKET/gui-taker.py
+1428274041|Belcher|D|/JOINMARKET/irc.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/__init__.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/bci.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/composite.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/deterministic.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/main.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/ripemd.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/stealth.py
+1428274041|Belcher|A|/JOINMARKET/lib/bitcoin/transaction.py
+1428274041|Belcher|A|/JOINMARKET/lib/blockchaininterface.py
+1428274041|Belcher|A|/JOINMARKET/lib/common.py
+1428274041|Belcher|A|/JOINMARKET/lib/enc_wrapper.py
+1428274041|Belcher|A|/JOINMARKET/lib/irc.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/__init__.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/base.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/blake.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/dual.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/encode.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/public.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/secret.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/sign.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/utils.py
+1428274041|Belcher|A|/JOINMARKET/lib/libnacl/version.py
+1428274041|Belcher|A|/JOINMARKET/lib/maker.py
+1428274041|Belcher|A|/JOINMARKET/lib/message_channel.py
+1428274041|Belcher|A|/JOINMARKET/lib/regtesttest.py
+1428274041|Belcher|A|/JOINMARKET/lib/taker.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/__init__.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/base.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/blake.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/dual.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/encode.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/public.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/secret.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/sign.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/utils.py
+1428274041|Belcher|D|/JOINMARKET/libnacl/version.py
+1428274041|Belcher|D|/JOINMARKET/maker.py
+1428274041|Belcher|D|/JOINMARKET/message_channel.py
+1428274041|Belcher|M|/JOINMARKET/patientsendpayment.py
+1428274041|Belcher|D|/JOINMARKET/regtesttest.py
+1428274041|Belcher|M|/JOINMARKET/sendpayment.py
+1428274041|Belcher|D|/JOINMARKET/taker.py
+1428274041|Belcher|M|/JOINMARKET/wallet-tool.py
+1428274041|Belcher|M|/JOINMARKET/yield-generator.py
+1428286981|Belcher|M|/JOINMARKET/tumbler.py
+1428344951|Belcher|M|/JOINMARKET/lib/common.py
+1428344951|Belcher|M|/JOINMARKET/wallet-tool.py
+1428345450|Belcher|M|/JOINMARKET/patientsendpayment.py
+1428345450|Belcher|M|/JOINMARKET/sendpayment.py
+1428345450|Belcher|M|/JOINMARKET/tumbler.py
+1428345450|Belcher|M|/JOINMARKET/yield-generator.py
+1428345764|Belcher|A|/JOINMARKET/wallets/.gitignore
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/__init__.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/bci.py
+1428354152|Belcher|A|/JOINMARKET/lib/bitcoin/blocks.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/composite.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/deterministic.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/main.py
+1428354152|Belcher|A|/JOINMARKET/lib/bitcoin/py2specials.py
+1428354152|Belcher|A|/JOINMARKET/lib/bitcoin/py3specials.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/ripemd.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/stealth.py
+1428354152|Belcher|M|/JOINMARKET/lib/bitcoin/transaction.py
+1428354152|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1428354469|Belcher|A|/JOINMARKET/lib/old_mnemonic.py
+1428357701|Belcher|M|/JOINMARKET/lib/common.py
+1428357701|Belcher|M|/JOINMARKET/patientsendpayment.py
+1428357701|Belcher|M|/JOINMARKET/sendpayment.py
+1428357701|Belcher|M|/JOINMARKET/tumbler.py
+1428357701|Belcher|M|/JOINMARKET/wallet-tool.py
+1428358691|Belcher|M|/JOINMARKET/patientsendpayment.py
+1428358691|Belcher|M|/JOINMARKET/sendpayment.py
+1428358691|Belcher|M|/JOINMARKET/tumbler.py
+1428358691|Belcher|M|/JOINMARKET/yield-generator.py
+1428367133|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1428367133|Belcher|M|/JOINMARKET/lib/common.py
+1428443387|Belcher|M|/JOINMARKET/lib/common.py
+1428526187|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1428526187|Belcher|M|/JOINMARKET/lib/maker.py
+1428526187|Belcher|M|/JOINMARKET/lib/taker.py
+1428526187|Belcher|M|/JOINMARKET/tumbler.py
+1428539424|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1428539424|Belcher|M|/JOINMARKET/lib/common.py
+1428539424|Belcher|M|/JOINMARKET/tumbler.py
+1428619831|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1428619831|Belcher|M|/JOINMARKET/lib/common.py
+1428619831|Belcher|M|/JOINMARKET/tumbler.py
+1429041899|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429052473|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429052473|Belcher|M|/JOINMARKET/lib/common.py
+1429052473|Belcher|M|/JOINMARKET/lib/maker.py
+1429052473|Belcher|M|/JOINMARKET/lib/taker.py
+1429145457|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429301245|Belcher|M|/JOINMARKET/lib/common.py
+1429301245|Belcher|M|/JOINMARKET/wallet-tool.py
+1429317059|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429317885|Belcher|M|/JOINMARKET/lib/irc.py
+1429322696|Belcher|M|/JOINMARKET/lib/irc.py
+1429322696|Belcher|M|/JOINMARKET/yield-generator.py
+1429359051|esh|M|/JOINMARKET/joinmarket.cfg
+1429359051|esh|M|/JOINMARKET/lib/irc.py
+1429362678|esh|M|/JOINMARKET/joinmarket.cfg
+1429362678|esh|M|/JOINMARKET/lib/irc.py
+1429387700|Belcher|M|/JOINMARKET/lib/common.py
+1429387700|Belcher|M|/JOINMARKET/lib/irc.py
+1429387700|Belcher|M|/JOINMARKET/lib/maker.py
+1429387700|Belcher|M|/JOINMARKET/lib/taker.py
+1429387700|Belcher|M|/JOINMARKET/patientsendpayment.py
+1429387700|Belcher|M|/JOINMARKET/yield-generator.py
+1429388093|Belcher|M|/JOINMARKET/wallet-tool.py
+1429389921|Belcher|M|/JOINMARKET/lib/irc.py
+1429395420|Belcher|M|/JOINMARKET/lib/common.py
+1429395420|Belcher|M|/JOINMARKET/lib/irc.py
+1429395420|Belcher|M|/JOINMARKET/lib/maker.py
+1429400020|Belcher|M|/JOINMARKET/lib/irc.py
+1429400469|Belcher|M|/JOINMARKET/lib/irc.py
+1429400605|Belcher|M|/JOINMARKET/lib/irc.py
+1429401172|Belcher|M|/JOINMARKET/lib/taker.py
+1429401433|Belcher|M|/JOINMARKET/README.txt
+1429401433|Belcher|D|/JOINMARKET/gui-taker.py
+1429401433|Belcher|A|/JOINMARKET/ob-watcher.py
+1429407073|Belcher|M|/JOINMARKET/lib/irc.py
+1429456447|Belcher|M|/JOINMARKET/lib/irc.py
+1429456447|Belcher|M|/JOINMARKET/lib/maker.py
+1429456447|Belcher|M|/JOINMARKET/lib/message_channel.py
+1429456447|Belcher|M|/JOINMARKET/lib/taker.py
+1429456492|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429743547|Belcher|M|/JOINMARKET/lib/irc.py
+1429743547|Belcher|M|/JOINMARKET/lib/maker.py
+1429743547|Belcher|M|/JOINMARKET/yield-generator.py
+1429749830|Belcher|M|/JOINMARKET/lib/common.py
+1429749830|Belcher|M|/JOINMARKET/wallet-tool.py
+1429753078|Belcher|M|/JOINMARKET/lib/common.py
+1429753078|Belcher|M|/JOINMARKET/wallet-tool.py
+1429753709|Belcher|M|/JOINMARKET/README.txt
+1429808463|chris belcher|M|/JOINMARKET/tumbler.py
+1429925935|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1429926600|Belcher|M|/JOINMARKET/lib/irc.py
+1430007580|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1430068966|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1430068966|Belcher|M|/JOINMARKET/tumbler.py
+1430082739|Belcher|M|/JOINMARKET/tumbler.py
+1430082739|Belcher|M|/JOINMARKET/wallet-tool.py
+1430088890|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1430088890|Belcher|M|/JOINMARKET/lib/maker.py
+1430088890|Belcher|M|/JOINMARKET/lib/taker.py
+1430088890|Belcher|M|/JOINMARKET/tumbler.py
+1430168865|Belcher|M|/JOINMARKET/tumbler.py
+1430171809|Belcher|M|/JOINMARKET/lib/common.py
+1430217003|chris belcher|M|/JOINMARKET/README.txt
+1430320555|chris belcher|M|/JOINMARKET/lib/common.py
+1430320555|chris belcher|M|/JOINMARKET/lib/irc.py
+1430320555|chris belcher|M|/JOINMARKET/ob-watcher.py
+1430320555|chris belcher|M|/JOINMARKET/patientsendpayment.py
+1430320555|chris belcher|M|/JOINMARKET/sendpayment.py
+1430320555|chris belcher|M|/JOINMARKET/tumbler.py
+1430320555|chris belcher|M|/JOINMARKET/yield-generator.py
+1430477929|chris belcher|M|/JOINMARKET/lib/irc.py
+1430779133|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1430779133|Belcher|M|/JOINMARKET/lib/common.py
+1430779133|Belcher|M|/JOINMARKET/lib/maker.py
+1430779133|Belcher|M|/JOINMARKET/lib/taker.py
+1430781661|Belcher|M|/JOINMARKET/lib/common.py
+1430942020|Belcher|M|/JOINMARKET/joinmarket.cfg
+1430946459|Belcher|M|/JOINMARKET/README.txt
+1430948742|Belcher|M|/JOINMARKET/joinmarket.cfg
+1430948742|Belcher|M|/JOINMARKET/lib/common.py
+1430948742|Belcher|M|/JOINMARKET/lib/irc.py
+1430951147|Belcher|M|/JOINMARKET/README.txt
+1430954212|Belcher|M|/JOINMARKET/joinmarket.cfg
+1430954919|Belcher|M|/JOINMARKET/joinmarket.cfg
+1430954919|Belcher|M|/JOINMARKET/wallet-tool.py
+1430993676|Emilian Ursu|M|/JOINMARKET/joinmarket.cfg
+1430993676|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1431030887|Belcher|M|/JOINMARKET/yield-generator.py
+1431036630|Belcher|M|/JOINMARKET/sendpayment.py
+1431036708|Belcher|M|/JOINMARKET/lib/common.py
+1431040128|Belcher|M|/JOINMARKET/README.txt
+1431041896|Belcher|M|/JOINMARKET/lib/maker.py
+1431119290|Belcher|M|/JOINMARKET/ob-watcher.py
+1431124110|Belcher|M|/JOINMARKET/README.txt
+1431215369|Belcher|M|/JOINMARKET/sendpayment.py
+1431387794|Belcher|M|/JOINMARKET/lib/maker.py
+1431480263|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431480866|Belcher|M|/JOINMARKET/lib/common.py
+1431480980|Belcher|M|/JOINMARKET/joinmarket.cfg
+1431482761|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431547464|Belcher|M|/JOINMARKET/lib/irc.py
+1431549577|Belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431549577|Belcher|M|/JOINMARKET/lib/maker.py
+1431549577|Belcher|M|/JOINMARKET/lib/taker.py
+1431549577|Belcher|M|/JOINMARKET/sendpayment.py
+1431552605|Anduck|M|/JOINMARKET/lib/common.py
+1431552605|Anduck|M|/JOINMARKET/sendpayment.py
+1431558096|Belcher|M|/JOINMARKET/lib/common.py
+1431603204|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1431607918|Adlai Chandrasekhar|M|/JOINMARKET/.gitignore
+1431607918|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1431607918|Adlai Chandrasekhar|A|/JOINMARKET/logs/.gitignore
+1431607918|Adlai Chandrasekhar|M|/JOINMARKET/yield-generator.py
+1431607935|Adlai Chandrasekhar|M|/JOINMARKET/lib/maker.py
+1431688891|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1431692707|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1431864417|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1431864441|Emilian Ursu|M|/JOINMARKET/lib/taker.py
+1431929863|Emilian Ursu|M|/JOINMARKET/.gitignore
+1431929863|Emilian Ursu|D|/JOINMARKET/joinmarket.cfg
+1431929863|Emilian Ursu|M|/JOINMARKET/lib/common.py
+1431930050|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1431930157|Emilian Ursu|M|/JOINMARKET/lib/common.py
+1431997115|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431997115|chris-belcher|M|/JOINMARKET/lib/common.py
+1431997115|chris-belcher|M|/JOINMARKET/lib/maker.py
+1431997115|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1431997157|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431997157|chris-belcher|M|/JOINMARKET/lib/common.py
+1431997157|chris-belcher|M|/JOINMARKET/lib/maker.py
+1431997157|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1431997219|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1431997219|chris-belcher|M|/JOINMARKET/lib/common.py
+1431997219|chris-belcher|M|/JOINMARKET/lib/maker.py
+1431997219|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1432077036|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432078913|chris-belcher|M|/JOINMARKET/lib/common.py
+1432078913|chris-belcher|M|/JOINMARKET/yield-generator.py
+1432084759|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1432158174|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432158174|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1432252579|chris-belcher|M|/JOINMARKET/lib/common.py
+1432412652|chris-belcher|M|/JOINMARKET/lib/common.py
+1432415856|chris-belcher|M|/JOINMARKET/yield-generator.py
+1432418495|chris-belcher|M|/JOINMARKET/lib/common.py
+1432425822|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432427266|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432427587|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432486413|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1432486426|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432500867|Adlai Chandrasekhar|M|/JOINMARKET/ob-watcher.py
+1432507733|chris-belcher|M|/JOINMARKET/lib/maker.py
+1432508775|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1432508775|chris-belcher|M|/JOINMARKET/tumbler.py
+1432596211|chris-belcher|M|/JOINMARKET/README.txt
+1432596211|chris-belcher|M|/JOINMARKET/lib/common.py
+1432596211|chris-belcher|A|/JOINMARKET/lib/slowaes.py
+1432596211|chris-belcher|A|/JOINMARKET/lib/socks.py
+1432596211|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1432598879|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432599164|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432599482|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432599774|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432687728|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1432765299|chris-belcher|M|/JOINMARKET/lib/irc.py
+1432807890|Martino|M|/JOINMARKET/ob-watcher.py
+1432808032|Martino|M|/JOINMARKET/ob-watcher.py
+1432808774|K1773R|M|/JOINMARKET/lib/common.py
+1432856590|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1432856590|chris-belcher|M|/JOINMARKET/lib/common.py
+1432856590|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1432856590|chris-belcher|M|/JOINMARKET/sendpayment.py
+1432856590|chris-belcher|M|/JOINMARKET/tumbler.py
+1432856590|chris-belcher|M|/JOINMARKET/yield-generator.py
+1432857891|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1432941673|Anduck|M|/JOINMARKET/lib/common.py
+1433099185|chris-belcher|M|/JOINMARKET/lib/irc.py
+1433101585|chris-belcher|M|/JOINMARKET/lib/taker.py
+1433102589|chris-belcher|M|/JOINMARKET/lib/irc.py
+1433369120|chris-belcher|M|/JOINMARKET/lib/common.py
+1433369120|chris-belcher|M|/JOINMARKET/tumbler.py
+1433373883|chris-belcher|M|/JOINMARKET/tumbler.py
+1433376053|chris-belcher|M|/JOINMARKET/lib/common.py
+1433376700|chris-belcher|M|/JOINMARKET/lib/common.py
+1433441924|chris belcher|M|/JOINMARKET/lib/common.py
+1433442682|chris belcher|M|/JOINMARKET/README.txt
+1433590678|Martino Salvetti|M|/JOINMARKET/.gitignore
+1433590678|Martino Salvetti|M|/JOINMARKET/lib/bitcoin/bci.py
+1433590678|Martino Salvetti|A|/JOINMARKET/lib/bitcoin/cache.py
+1434087156|Emilian Ursu|M|/JOINMARKET/joinmarket.cfg
+1434087156|Emilian Ursu|M|/JOINMARKET/lib/irc.py
+1434087356|Emilian Ursu|M|/JOINMARKET/lib/common.py
+1434201261|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1434203127|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1434204043|Martino Salvetti|M|/JOINMARKET/lib/bitcoin/bci.py
+1434204043|Martino Salvetti|D|/JOINMARKET/lib/bitcoin/cache.py
+1434204043|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1434317956|Adlai Chandrasekhar|M|/JOINMARKET/ob-watcher.py
+1434318203|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1434415951|chris-belcher|M|/JOINMARKET/lib/common.py
+1435194948|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1435552647|CohibAA|M|/JOINMARKET/README.txt
+1435561882|A bit Fan|M|/JOINMARKET/lib/irc.py
+1435566960|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1435566960|chris-belcher|M|/JOINMARKET/sendpayment.py
+1435688208|btcspry|M|/JOINMARKET/ob-watcher.py
+1435688208|btcspry|M|/JOINMARKET/orderbook.html
+1435715041|chris-belcher|M|/JOINMARKET/lib/common.py
+1435753983|chris-belcher|M|/JOINMARKET/lib/common.py
+1435754064|chris-belcher|M|/JOINMARKET/lib/common.py
+1435790968|chris-belcher|M|/JOINMARKET/lib/taker.py
+1435793494|btcspry|M|/JOINMARKET/orderbook.html
+1435851689|Daniel Kraft|M|/JOINMARKET/lib/common.py
+1435885289|chris-belcher|M|/JOINMARKET/lib/common.py
+1435887794|CohibAA|M|/JOINMARKET/lib/irc.py
+1435893417|CohibAA|M|/JOINMARKET/lib/irc.py
+1435942667|CohibAA|M|/JOINMARKET/lib/common.py
+1435971487|Harm Aarts|M|/JOINMARKET/ob-watcher.py
+1436028065|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1436047416|Harm Aarts|M|/JOINMARKET/yield-generator.py
+1436173632|CohibAA|M|/JOINMARKET/lib/maker.py
+1436205994|Daniel Kraft|M|/JOINMARKET/lib/common.py
+1436215915|Mikadily|M|/JOINMARKET/yield-generator.py
+1436577849|Bryan Stitt|M|/JOINMARKET/.gitignore
+1436578861|chris-belcher|M|/JOINMARKET/lib/maker.py
+1436581028|chris-belcher|M|/JOINMARKET/sendpayment.py
+1436700530|Adlai|M|/JOINMARKET/lib/maker.py
+1437242383|Adlai Chandrasekhar|M|/JOINMARKET/lib/blockchaininterface.py
+1437262683|chris-belcher|M|/JOINMARKET/tumbler.py
+1437327240|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1437356835|chris-belcher|M|/JOINMARKET/sendpayment.py
+1437560785|Adlai Chandrasekhar|M|/JOINMARKET/lib/blockchaininterface.py
+1437582600|chris-belcher|M|/JOINMARKET/sendpayment.py
+1437582652|chris-belcher|M|/JOINMARKET/tumbler.py
+1437653897|Adam Gibson|M|/JOINMARKET/lib/blockchaininterface.py
+1437653897|Adam Gibson|D|/JOINMARKET/lib/regtesttest.py
+1437653897|Adam Gibson|A|/JOINMARKET/regtest.py
+1437853042|Adam Gibson|A|/JOINMARKET/.travis.yml
+1437853042|Adam Gibson|D|/JOINMARKET/regtest.py
+1437853042|Adam Gibson|A|/JOINMARKET/test/bitcoin.conf
+1437853042|Adam Gibson|A|/JOINMARKET/test/regtest.py
+1437853042|Adam Gibson|A|/JOINMARKET/test/regtest_joinmarket.cfg
+1437918099|Adam Gibson|M|/JOINMARKET/lib/enc_wrapper.py
+1438004884|Adam Gibson|M|/JOINMARKET/.travis.yml
+1438004884|Adam Gibson|A|/JOINMARKET/test/wallet-test.py
+1438028430|Adlai Chandrasekhar|M|/JOINMARKET/lib/blockchaininterface.py
+1438129977|chris-belcher|M|/JOINMARKET/sendpayment.py
+1438193032|Adam Gibson|M|/JOINMARKET/lib/bitcoin/transaction.py
+1438300642|chris-belcher|M|/JOINMARKET/lib/common.py
+1438619727|chris-belcher|M|/JOINMARKET/lib/irc.py
+1438630110|Adam Gibson|M|/JOINMARKET/lib/taker.py
+1438777600|chris-belcher|M|/JOINMARKET/lib/common.py
+1438825841|Adlai Chandrasekhar|M|/JOINMARKET/ob-watcher.py
+1438954151|Adam Gibson|M|/JOINMARKET/lib/blockchaininterface.py
+1439113546|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1439113546|Adlai Chandrasekhar|M|/JOINMARKET/lib/taker.py
+1439113546|Adlai Chandrasekhar|M|/JOINMARKET/ob-watcher.py
+1439143913|CohibAA|M|/JOINMARKET/lib/common.py
+1439144184|CohibAA|M|/JOINMARKET/lib/common.py
+1439145900|CohibAA|M|/JOINMARKET/ob-watcher.py
+1439239781|Adam Gibson|M|/JOINMARKET/lib/common.py
+1439239781|Adam Gibson|M|/JOINMARKET/tumbler.py
+1439241072|Adam Gibson|A|/JOINMARKET/test/tumbler-test.py
+1439275072|Daniel Kraft|M|/JOINMARKET/lib/blockchaininterface.py
+1439275072|Daniel Kraft|M|/JOINMARKET/lib/common.py
+1439275072|Daniel Kraft|A|/JOINMARKET/lib/jsonrpc.py
+1439275072|Daniel Kraft|M|/JOINMARKET/lib/blockchaininterface.py
+1439275072|Daniel Kraft|M|/JOINMARKET/lib/common.py
+1439382300|Adam Gibson|A|/JOINMARKET/test/commontest.py
+1439382300|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1439382300|Adam Gibson|M|/JOINMARKET/test/wallet-test.py
+1439411461|Adam Gibson|A|/JOINMARKET/test/wnb.sh
+1439560423|Adam Gibson|M|/JOINMARKET/lib/common.py
+1439560423|Adam Gibson|M|/JOINMARKET/lib/slowaes.py
+1439636908|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1440362958|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1440362958|chris-belcher|M|/JOINMARKET/lib/common.py
+1440818368|CohibAA|M|/JOINMARKET/lib/maker.py
+1441046376|chris-belcher|M|/JOINMARKET/tumbler.py
+1441310573|unknown|A|/JOINMARKET/test/randomfunc-test.py
+1441337140|tailsjoin|M|/JOINMARKET/README.txt
+1441460861|Adlai Chandrasekhar|M|/JOINMARKET/lib/socks.py
+1441460985|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1441466858|Adlai|M|/JOINMARKET/lib/common.py
+1441926423|chris-belcher|M|/JOINMARKET/lib/common.py
+1441936348|chris-belcher|M|/JOINMARKET/lib/jsonrpc.py
+1442028544|chris-belcher|M|/JOINMARKET/tumbler.py
+1442028933|chris-belcher|M|/JOINMARKET/tumbler.py
+1442029047|chris-belcher|M|/JOINMARKET/lib/irc.py
+1442029213|chris-belcher|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1442029552|chris-belcher|M|/JOINMARKET/tumbler.py
+1442102817|chris-belcher|M|/JOINMARKET/tumbler.py
+1442262208|tailsjoin|A|/JOINMARKET/README.md
+1442262208|tailsjoin|D|/JOINMARKET/README.txt
+1442452593|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1442971816|chris-belcher|M|/JOINMARKET/lib/common.py
+1442971816|chris-belcher|M|/JOINMARKET/lib/taker.py
+1442971816|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1442971816|chris-belcher|M|/JOINMARKET/sendpayment.py
+1442971816|chris-belcher|M|/JOINMARKET/tumbler.py
+1442971897|chris-belcher|M|/JOINMARKET/lib/taker.py
+1442971897|chris-belcher|M|/JOINMARKET/tumbler.py
+1442971930|chris-belcher|M|/JOINMARKET/tumbler.py
+1442971930|chris-belcher|M|/JOINMARKET/lib/common.py
+1442971930|chris-belcher|M|/JOINMARKET/lib/irc.py
+1442971930|chris-belcher|M|/JOINMARKET/lib/taker.py
+1442971930|chris-belcher|M|/JOINMARKET/tumbler.py
+1443095169|chris-belcher|M|/JOINMARKET/lib/common.py
+1443095169|chris-belcher|M|/JOINMARKET/tumbler.py
+1443097079|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1443118854|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1443118854|chris-belcher|M|/JOINMARKET/lib/common.py
+1443313656|chris-belcher|M|/JOINMARKET/lib/common.py
+1443313656|chris-belcher|M|/JOINMARKET/sendpayment.py
+1443364970|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1443364970|chris-belcher|M|/JOINMARKET/lib/common.py
+1443364970|chris-belcher|M|/JOINMARKET/lib/maker.py
+1443364970|chris-belcher|M|/JOINMARKET/lib/taker.py
+1443364970|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1443477062|Martino Salvetti|M|/JOINMARKET/orderbook.html
+1443566518|chris-belcher|M|/JOINMARKET/sendpayment.py
+1443658908|chris-belcher|M|/JOINMARKET/lib/taker.py
+1443658908|chris-belcher|M|/JOINMARKET/sendpayment.py
+1443658908|chris-belcher|M|/JOINMARKET/tumbler.py
+1443700309|baurusdb|M|/JOINMARKET/README.md
+1443857877|Adlai Chandrasekhar|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1443857877|Adlai Chandrasekhar|M|/JOINMARKET/test/regtest.py
+1443877918|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1443885117|Martino Salvetti|M|/JOINMARKET/orderbook.html
+1443900942|chris-belcher|A|/JOINMARKET/create-unsigned-tx.py
+1443900942|chris-belcher|M|/JOINMARKET/lib/taker.py
+1443923483|chris-belcher|M|/JOINMARKET/lib/common.py
+1443923483|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1443952659|Daniel Kraft|M|/JOINMARKET/lib/blockchaininterface.py
+1443952659|Daniel Kraft|M|/JOINMARKET/lib/common.py
+1444252601|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444345781|chris-belcher|M|/JOINMARKET/lib/common.py
+1444345781|chris-belcher|M|/JOINMARKET/tumbler.py
+1444511118|Adam Gibson|M|/JOINMARKET/lib/common.py
+1444605138|Martino Salvetti|M|/JOINMARKET/orderbook.html
+1444605138|chris-belcher|M|/JOINMARKET/sendpayment.py
+1444605138|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444605138|chris-belcher|M|/JOINMARKET/sendpayment.py
+1444605138|chris-belcher|M|/JOINMARKET/tumbler.py
+1444605138|chris-belcher|A|/JOINMARKET/create-unsigned-tx.py
+1444605138|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444605138|baurusdb|M|/JOINMARKET/README.md
+1444605138|Adlai Chandrasekhar|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1444605138|Adlai Chandrasekhar|M|/JOINMARKET/test/regtest.py
+1444605138|Martino Salvetti|M|/JOINMARKET/ob-watcher.py
+1444605138|Martino Salvetti|M|/JOINMARKET/orderbook.html
+1444605138|chris-belcher|M|/JOINMARKET/lib/common.py
+1444605138|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1444605138|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444605138|chris-belcher|M|/JOINMARKET/lib/common.py
+1444605138|chris-belcher|M|/JOINMARKET/tumbler.py
+1444605540|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444605540|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681136|chris-belcher|M|/JOINMARKET/lib/common.py
+1444681136|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444681136|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1444681136|chris-belcher|M|/JOINMARKET/sendpayment.py
+1444681136|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681139|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444681139|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681141|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681143|chris-belcher|M|/JOINMARKET/lib/common.py
+1444681146|chris-belcher|M|/JOINMARKET/lib/irc.py
+1444681146|chris-belcher|M|/JOINMARKET/lib/taker.py
+1444681434|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681445|chris-belcher|M|/JOINMARKET/lib/common.py
+1444681445|chris-belcher|M|/JOINMARKET/tumbler.py
+1444681448|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1444681453|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1444681453|chris-belcher|M|/JOINMARKET/lib/common.py
+1444698091|chris-belcher|M|/JOINMARKET/tumbler.py
+1444785536|chris-belcher|M|/JOINMARKET/lib/common.py
+1444861996|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1444863046|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1444999533|Adam Gibson|M|/JOINMARKET/lib/common.py
+1445048872|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1445048872|chris-belcher|M|/JOINMARKET/lib/common.py
+1445048872|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1445049077|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1445070324|Martino Salvetti|M|/JOINMARKET/wallet-tool.py
+1445119484|chris-belcher|M|/JOINMARKET/create-unsigned-tx.py
+1445119484|chris-belcher|M|/JOINMARKET/lib/common.py
+1445119484|chris-belcher|M|/JOINMARKET/lib/taker.py
+1445119484|chris-belcher|M|/JOINMARKET/sendpayment.py
+1445119484|chris-belcher|M|/JOINMARKET/tumbler.py
+1445179767|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1445288396|Adlai Chandrasekhar|M|/JOINMARKET/lib/common.py
+1445300676|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1445480979|Ande2101|M|/JOINMARKET/lib/bitcoin/bci.py
+1445480979|Ande2101|M|/JOINMARKET/lib/blockchaininterface.py
+1445531610|tailsjoin|M|/JOINMARKET/lib/common.py
+1445559736|chris-belcher|M|/JOINMARKET/tumbler.py
+1445793607|chris-belcher|M|/JOINMARKET/lib/blockchaininterface.py
+1446160973|chris-belcher|M|/JOINMARKET/tumbler.py
+1446235247|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1446243891|Adam Gibson|M|/JOINMARKET/test/wallet-test.py
+1446554263|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/bitcoin/deterministic.py
+1446554263|Adam Gibson|A|/JOINMARKET/lib/bitcoin/ec_ecdsa.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/bitcoin/main.py
+1446554263|Adam Gibson|A|/JOINMARKET/lib/bitcoin/noncefunc_build.py
+1446554263|Adam Gibson|A|/JOINMARKET/lib/bitcoin/secp256k1.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/bitcoin/transaction.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/common.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/maker.py
+1446554263|Adam Gibson|M|/JOINMARKET/lib/taker.py
+1446554263|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1446554263|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1446554263|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1446554666|Adam Gibson|M|/JOINMARKET/.travis.yml
+1446554666|Adam Gibson|A|/JOINMARKET/install.sh
+1446554666|Adam Gibson|M|/JOINMARKET/lib/bitcoin/__init__.py
+1446554666|Adam Gibson|D|/JOINMARKET/lib/bitcoin/blocks.py
+1446554666|Adam Gibson|A|/JOINMARKET/lib/bitcoin/build.py
+1446554666|Adam Gibson|D|/JOINMARKET/lib/bitcoin/composite.py
+1446554666|Adam Gibson|M|/JOINMARKET/lib/bitcoin/deterministic.py
+1446554666|Adam Gibson|D|/JOINMARKET/lib/bitcoin/ec_ecdsa.py
+1446554666|Adam Gibson|M|/JOINMARKET/lib/bitcoin/main.py
+1446554666|Adam Gibson|M|/JOINMARKET/lib/bitcoin/secp256k1.py
+1446554666|Adam Gibson|D|/JOINMARKET/lib/bitcoin/stealth.py
+1446554666|Adam Gibson|M|/JOINMARKET/lib/bitcoin/transaction.py
+1446554666|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1446554666|Adam Gibson|M|/JOINMARKET/test/wallet-test.py
+1446554666|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1446582017|Adam Gibson|M|/JOINMARKET/lib/bitcoin/main.py
+1446642638|Adlai Chandrasekhar|M|/JOINMARKET/lib/irc.py
+1446829891|MagikSquirrel|M|/JOINMARKET/lib/common.py
+1446900788|Adam Gibson|M|/JOINMARKET/lib/bitcoin/main.py
+1446921925|arubi|A|/JOINMARKET/.gitmodules
+1446921925|arubi|A|/JOINMARKET/deps/libffi
+1446921925|arubi|A|/JOINMARKET/deps/libsodium
+1446921925|arubi|A|/JOINMARKET/deps/pexpect
+1446921925|arubi|A|/JOINMARKET/deps/pycparser
+1446921925|arubi|A|/JOINMARKET/deps/secp256k1
+1446921948|arubi|M|/JOINMARKET/.gitmodules
+1446921948|arubi|A|/JOINMARKET/INSTALL_UBUNTU.md
+1446921948|arubi|A|/JOINMARKET/deps/ptyprocess
+1446921948|arubi|M|/JOINMARKET/install.sh
+1446985047|arubi|M|/JOINMARKET/INSTALL_UBUNTU.md
+1446985047|arubi|M|/JOINMARKET/install.sh
+1447255175|thoffma|M|/JOINMARKET/wallet-tool.py
+1447351990|Adlai Chandrasekhar|M|/JOINMARKET/ob-watcher.py
+1447352923|chris-belcher|M|/JOINMARKET/yield-generator.py
+1447353896|chris-belcher|M|/JOINMARKET/yield-generator.py
+1447378489|chris-belcher|M|/JOINMARKET/lib/common.py
+1447380414|thoffma|M|/JOINMARKET/wallet-tool.py
+1447681301|Adam Gibson|M|/JOINMARKET/lib/bitcoin/secp256k1.py
+1447681301|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1447709045|Adam Gibson|M|/JOINMARKET/README.md
+1447798400|chris-belcher|D|/JOINMARKET/.gitmodules
+1447798400|chris-belcher|M|/JOINMARKET/.travis.yml
+1447798400|chris-belcher|D|/JOINMARKET/INSTALL_UBUNTU.md
+1447798400|chris-belcher|M|/JOINMARKET/README.md
+1447798400|chris-belcher|M|/JOINMARKET/create-unsigned-tx.py
+1447798400|chris-belcher|D|/JOINMARKET/deps/libffi
+1447798400|chris-belcher|D|/JOINMARKET/deps/libsodium
+1447798400|chris-belcher|D|/JOINMARKET/deps/pexpect
+1447798400|chris-belcher|D|/JOINMARKET/deps/ptyprocess
+1447798400|chris-belcher|D|/JOINMARKET/deps/pycparser
+1447798400|chris-belcher|D|/JOINMARKET/deps/secp256k1
+1447798400|chris-belcher|D|/JOINMARKET/install.sh
+1447798400|chris-belcher|M|/JOINMARKET/lib/bitcoin/__init__.py
+1447798400|chris-belcher|A|/JOINMARKET/lib/bitcoin/blocks.py
+1447798400|chris-belcher|D|/JOINMARKET/lib/bitcoin/build.py
+1447798400|chris-belcher|A|/JOINMARKET/lib/bitcoin/composite.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/bitcoin/deterministic.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/bitcoin/main.py
+1447798400|chris-belcher|D|/JOINMARKET/lib/bitcoin/noncefunc_build.py
+1447798400|chris-belcher|D|/JOINMARKET/lib/bitcoin/secp256k1.py
+1447798400|chris-belcher|A|/JOINMARKET/lib/bitcoin/stealth.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/bitcoin/transaction.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/common.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/maker.py
+1447798400|chris-belcher|M|/JOINMARKET/lib/taker.py
+1447798400|chris-belcher|M|/JOINMARKET/test/regtest.py
+1447798400|chris-belcher|M|/JOINMARKET/test/tumbler-test.py
+1447798400|chris-belcher|M|/JOINMARKET/test/wallet-test.py
+1447798400|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1447882692|mb300sd|M|/JOINMARKET/lib/maker.py
+1449432041|Adam Gibson|M|/JOINMARKET/lib/bitcoin/main.py
+1449432041|Adam Gibson|M|/JOINMARKET/lib/blockchaininterface.py
+1449432041|Adam Gibson|M|/JOINMARKET/lib/common.py
+1449432041|Adam Gibson|M|/JOINMARKET/lib/taker.py
+1449432041|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1449432041|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1449432041|Adam Gibson|A|/JOINMARKET/test/fee-estimation.py
+1449432041|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1449432041|Adam Gibson|M|/JOINMARKET/tumbler.py
+1449679763|Glenn H Tarbox, PhD|A|/JOINMARKET/.gitattributes
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/.gitattributes
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/create-unsigned-tx.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/__init__.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/bci.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/blocks.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/composite.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/deterministic.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/main.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/py2specials.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/py3specials.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/ripemd.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/stealth.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/bitcoin/transaction.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/blockchaininterface.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/common.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/enc_wrapper.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/irc.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/jsonrpc.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/__init__.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/base.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/blake.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/dual.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/encode.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/public.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/secret.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/sign.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/utils.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/libnacl/version.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/maker.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/message_channel.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/old_mnemonic.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/slowaes.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/socks.py
+1449679806|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/taker.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/__init__.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/bci.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/blocks.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/composite.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/deterministic.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/main.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/py2specials.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/py3specials.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/ripemd.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/stealth.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/bitcoin/transaction.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/blockchaininterface.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/common.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/enc_wrapper.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/irc.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/jsonrpc.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/__init__.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/base.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/blake.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/dual.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/encode.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/public.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/secret.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/sign.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/utils.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/libnacl/version.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/maker.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/message_channel.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/old_mnemonic.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/slowaes.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/socks.py
+1449679806|Glenn H Tarbox, PhD|D|/JOINMARKET/lib/taker.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/ob-watcher.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/test/commontest.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/test/randomfunc-test.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/test/regtest.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/test/tumbler-test.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/test/wallet-test.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449679806|Glenn H Tarbox, PhD|M|/JOINMARKET/yield-generator.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/create-unsigned-tx.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/__init__.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/bci.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/blocks.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/composite.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/deterministic.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/main.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/py2specials.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/py3specials.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/ripemd.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/stealth.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/bitcoin/transaction.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/__init__.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/base.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/blake.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/dual.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/encode.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/public.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/secret.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/sign.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/utils.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/external/libnacl/version.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/__init__.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/__init__.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/bci.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/blocks.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/composite.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/deterministic.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/main.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/py2specials.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/py3specials.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/ripemd.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/stealth.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/bitcoin/transaction.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/common.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/enc_wrapper.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/irc.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/jsonrpc.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/__init__.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/base.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/blake.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/dual.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/encode.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/public.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/secret.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/sign.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/utils.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/joinmarket/libnacl/version.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/maker.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/message_channel.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/old_mnemonic.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/slowaes.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/socks.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/taker.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/ob-watcher.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/yield-generator.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/create-unsigned-tx.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/__init__.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/maker.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/wallet.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/yield-generator.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/__init__.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/jsonrpc.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/ob-watcher.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/test/regtest.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/test/tumbler-test.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/yield-generator-basic.py
+1449679834|Glenn H Tarbox, PhD|D|/JOINMARKET/yield-generator.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/create-unsigned-tx.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/__init__.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/configure.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/enc_wrapper.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/irc.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/jsonrpc.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/maker.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/message_channel.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/slowaes.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/socks.py
+1449679834|Glenn H Tarbox, PhD|A|/JOINMARKET/joinmarket/support.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/taker.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/wallet.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/ob-watcher.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449679834|Glenn H Tarbox, PhD|M|/JOINMARKET/yield-generator-basic.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/create-unsigned-tx.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/external/libnacl/__init__.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/__init__.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/configure.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/support.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/taker.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/wallet.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/ob-watcher.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/patientsendpayment.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/sendpayment.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/tumbler.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/wallet-tool.py
+1449680313|Glenn H Tarbox, PhD|M|/JOINMARKET/yield-generator-basic.py
+1449681448|Adam Gibson|M|/JOINMARKET/.travis.yml
+1449681448|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449683469|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/configure.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/__init__.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/bci.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/blocks.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/composite.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/deterministic.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/main.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/py2specials.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/py3specials.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/ripemd.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/stealth.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/bitcoin/transaction.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/__init__.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/bci.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/blocks.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/composite.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/deterministic.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/main.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/py2specials.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/py3specials.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/ripemd.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/stealth.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/bitcoin/transaction.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/__init__.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/base.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/blake.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/dual.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/encode.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/public.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/secret.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/sign.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/utils.py
+1449684674|Glenn H Tarbox, PhD|D|/JOINMARKET/external/libnacl/version.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/__init__.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/base.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/blake.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/dual.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/encode.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/public.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/secret.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/sign.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/utils.py
+1449684674|Glenn H Tarbox, PhD|A|/JOINMARKET/libnacl/version.py
+1449684946|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1449685751|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/wallet.py
+1449686351|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/configure.py
+1449686351|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/taker.py
+1449688500|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/configure.py
+1449688500|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/support.py
+1449690876|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/configure.py
+1449690876|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/support.py
+1449697657|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1449697657|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1449697657|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1449697657|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1449697657|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1449697657|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1449697657|Adam Gibson|M|/JOINMARKET/test/wallet-test.py
+1449704915|raedah|M|/JOINMARKET/joinmarket/irc.py
+1449704915|raedah|M|/JOINMARKET/yield-generator-basic.py
+1449704915|raedah|A|/JOINMARKET/yield-generator-deluxe.py
+1449704915|raedah|A|/JOINMARKET/yield-generator-mixdepth.py
+1449706536|raedah|M|/JOINMARKET/wallet-tool.py
+1449769825|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/__init__.py
+1449769825|Glenn H Tarbox, PhD|M|/JOINMARKET/joinmarket/irc.py
+1449770168|Adam Gibson|M|/JOINMARKET/.travis.yml
+1449772378|Adam Gibson|M|/JOINMARKET/.travis.yml
+1449772378|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1449772539|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1449784389|raedah|M|/JOINMARKET/sendpayment.py
+1449784389|raedah|M|/JOINMARKET/test/regtest.py
+1449784389|raedah|M|/JOINMARKET/test/tumbler-test.py
+1449870384|raedah|M|/JOINMARKET/yield-generator-mixdepth.py
+1450033966|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1450033966|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1450033966|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1450033966|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1450033966|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1450033966|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1450033966|Adam Gibson|M|/JOINMARKET/test/fee-estimation.py
+1450033966|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1450033966|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1450033966|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1450033966|Adam Gibson|M|/JOINMARKET/tumbler.py
+1450094739|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1450095658|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/support.py
+1450095658|Adlai Chandrasekhar|M|/JOINMARKET/sendpayment.py
+1450098557|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1450099126|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1450126867|Adam Gibson|M|/JOINMARKET/.travis.yml
+1450126867|Adam Gibson|M|/JOINMARKET/test/regtest.py
+1450126867|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1450169935|Adlai Chandrasekhar|M|/JOINMARKET/.travis.yml
+1450225608|raedah|M|/JOINMARKET/yield-generator-basic.py
+1450225608|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1450225608|raedah|M|/JOINMARKET/yield-generator-mixdepth.py
+1450269731|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1450269731|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/configure.py
+1450269731|Adlai Chandrasekhar|M|/JOINMARKET/wallet-tool.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/maker.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/wallet.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/patientsendpayment.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/sendpayment.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/test/commontest.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/test/fee-estimation.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/test/tumbler-test.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/tumbler.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/wallet-tool.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/yield-generator-basic.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/yield-generator-deluxe.py
+1450359170|Adlai Chandrasekhar|M|/JOINMARKET/yield-generator-mixdepth.py
+1450377175|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1450377175|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1450377175|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1450377175|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1450377175|Adam Gibson|M|/JOINMARKET/tumbler.py
+1450604170|Daniel Kraft|M|/JOINMARKET/sendpayment.py
+1450622401|Adam Gibson|M|/JOINMARKET/.travis.yml
+1450622401|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1450622401|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1450622401|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1450622401|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1450685553|raedah|M|/JOINMARKET/yield-generator-basic.py
+1450685553|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1450685553|raedah|M|/JOINMARKET/yield-generator-mixdepth.py
+1450703444|Adlai|M|/JOINMARKET/joinmarket/configure.py
+1450708161|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1450727726|Adam Gibson|A|/JOINMARKET/CONTRIBUTING.md
+1450727726|Adam Gibson|M|/JOINMARKET/README.md
+1450787530|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1450895188|Adam Gibson|M|/JOINMARKET/README.md
+1450895188|Adam Gibson|A|/JOINMARKET/doc/release-notes.md
+1450899275|Adam Gibson|M|/JOINMARKET/README.md
+1451006618|Bryan Stitt|M|/JOINMARKET/.gitignore
+1451006618|Bryan Stitt|M|/JOINMARKET/.travis.yml
+1451006618|Bryan Stitt|M|/JOINMARKET/README.md
+1451006618|Bryan Stitt|M|/JOINMARKET/joinmarket/__init__.py
+1451006618|Bryan Stitt|M|/JOINMARKET/joinmarket/enc_wrapper.py
+1451006618|Bryan Stitt|A|/JOINMARKET/requirements-dev.txt
+1451006618|Bryan Stitt|A|/JOINMARKET/requirements.txt
+1451006618|Bryan Stitt|A|/JOINMARKET/setup.cfg
+1451006618|Bryan Stitt|A|/JOINMARKET/test/test_enc_wrapper.py
+1451006618|Bryan Stitt|A|/JOINMARKET/tox.ini
+1451929753|Gostylo, Jacob|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1452005506|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1452485272|raedah|M|/JOINMARKET/yield-generator-basic.py
+1452485272|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1452485272|raedah|M|/JOINMARKET/yield-generator-mixdepth.py
+1452865938|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1452870939|Adam Gibson|M|/JOINMARKET/README.md
+1452870939|Adam Gibson|A|/JOINMARKET/doc/release-notes-0.1.1.md
+1452993046|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1453257920|chris-belcher|M|/JOINMARKET/README.md
+1453411469|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1453512392|raedah|M|/JOINMARKET/joinmarket/irc.py
+1453578984|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1453578984|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1453578984|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1453578984|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1453578984|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1453578984|Adam Gibson|M|/JOINMARKET/ob-watcher.py
+1453580964|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1453582219|chris-belcher|M|/JOINMARKET/README.md
+1453582219|chris-belcher|A|/JOINMARKET/doc/release-notes-0.1.2.md
+1453582219|chris-belcher|M|/JOINMARKET/doc/release-notes.md
+1453913750|Brent Garber|M|/JOINMARKET/joinmarket/configure.py
+1454082622|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/taker.py
+1454111093|chris-belcher|A|/JOINMARKET/broadcast-tx.py
+1454111093|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1454170980|chris-belcher|M|/JOINMARKET/broadcast-tx.py
+1454170980|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1454583166|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/maker.py
+1454814049|chris-belcher|M|/JOINMARKET/yield-generator-mixdepth.py
+1455479160|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1455479160|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1455479160|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1455533150|Adlai|M|/JOINMARKET/joinmarket/configure.py
+1455572687|chris-belcher|A|/JOINMARKET/doc/release-notes-0.1.3.md
+1455572687|chris-belcher|M|/JOINMARKET/doc/release-notes.md
+1455572687|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1455573371|chris-belcher|M|/JOINMARKET/README.md
+1455662418|raedah|M|/JOINMARKET/yield-generator-deluxe.py
+1455799778|chris-belcher|M|/JOINMARKET/yield-generator-mixdepth.py
+1455891155|Adam Gibson|D|/JOINMARKET/encryption_protocol.txt
+1455891155|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1456444936|chris-belcher|M|/JOINMARKET/logs/.gitignore
+1456444936|chris-belcher|A|/JOINMARKET/logs/scrub-log.py
+1456755801|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1456758214|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1456758214|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1456758214|chris-belcher|M|/JOINMARKET/tumbler.py
+1456923807|Adlai|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1456926305|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1456966395|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1457054380|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1457057061|chris-belcher|M|/JOINMARKET/create-unsigned-tx.py
+1457057061|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1457057061|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1457057061|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1457057061|chris-belcher|M|/JOINMARKET/ob-watcher.py
+1457057061|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1457057061|chris-belcher|M|/JOINMARKET/sendpayment.py
+1457057061|chris-belcher|M|/JOINMARKET/tumbler.py
+1457060070|chris-belcher|M|/JOINMARKET/create-unsigned-tx.py
+1457060070|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1457060070|chris-belcher|M|/JOINMARKET/sendpayment.py
+1457060070|chris-belcher|M|/JOINMARKET/tumbler.py
+1457108325|Brent Garber|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1457112588|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1457206219|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1457215583|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1457215583|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1457215583|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1457284707|raedah|A|/JOINMARKET/yield-generator-oscillator.py
+1457359365|Adam Gibson|M|/JOINMARKET/tumbler.py
+1457471861|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1457472014|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1457478926|chris-belcher|M|/JOINMARKET/joinmarket/socks.py
+1457485993|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1457485993|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1457486781|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1457620356|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/maker.py
+1457661885|chris-belcher|M|/JOINMARKET/logs/scrub-log.py
+1457816349|Adlai|M|/JOINMARKET/sendpayment.py
+1458107200|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/taker.py
+1458491315|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1458569980|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1458830598|Adam Gibson|M|/JOINMARKET/bitcoin/__init__.py
+1458830598|Adam Gibson|D|/JOINMARKET/bitcoin/blocks.py
+1458830598|Adam Gibson|D|/JOINMARKET/bitcoin/composite.py
+1458830598|Adam Gibson|D|/JOINMARKET/bitcoin/stealth.py
+1458830598|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1458830598|Adam Gibson|M|/JOINMARKET/setup.cfg
+1458830598|Adam Gibson|A|/JOINMARKET/test/base58_keys_invalid.json
+1458830598|Adam Gibson|A|/JOINMARKET/test/base58_keys_valid.json
+1458830598|Adam Gibson|A|/JOINMARKET/test/test_addresses.py
+1458830598|Adam Gibson|A|/JOINMARKET/test/test_bip32.py
+1458830598|Adam Gibson|A|/JOINMARKET/test/test_tx_serialize.py
+1458830598|Adam Gibson|A|/JOINMARKET/test/tx_valid.json
+1458909231|Adam Gibson|A|/JOINMARKET/.gitmodules
+1458909231|Adam Gibson|M|/JOINMARKET/.travis.yml
+1458909231|Adam Gibson|M|/JOINMARKET/README.md
+1458909231|Adam Gibson|M|/JOINMARKET/bitcoin/deterministic.py
+1458909231|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1458909231|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1458909231|Adam Gibson|A|/JOINMARKET/miniircd
+1458909231|Adam Gibson|M|/JOINMARKET/requirements-dev.txt
+1458909231|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1458909231|Adam Gibson|A|/JOINMARKET/test/conftest.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/fee-estimation.py
+1458909231|Adam Gibson|D|/JOINMARKET/test/regtest.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/test_addresses.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/test_bip32.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/test_enc_wrapper.py
+1458909231|Adam Gibson|A|/JOINMARKET/test/test_regtest.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/test_tx_serialize.py
+1458909231|Adam Gibson|A|/JOINMARKET/test/test_wallets.py
+1458909231|Adam Gibson|M|/JOINMARKET/test/tumbler-test.py
+1458909231|Adam Gibson|D|/JOINMARKET/test/wallet-test.py
+1458936887|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1458936887|Adam Gibson|A|/JOINMARKET/test/test_keys.py
+1458936887|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1458936887|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1459103958|Adam Gibson|M|/JOINMARKET/bitcoin/__init__.py
+1459103958|Adam Gibson|A|/JOINMARKET/bitcoin/secp256k1_deterministic.py
+1459103958|Adam Gibson|A|/JOINMARKET/bitcoin/secp256k1_main.py
+1459103958|Adam Gibson|A|/JOINMARKET/bitcoin/secp256k1_transaction.py
+1459103958|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1459103958|Adam Gibson|M|/JOINMARKET/joinmarket/old_mnemonic.py
+1459103958|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1459103958|Adam Gibson|M|/JOINMARKET/test/test_keys.py
+1459103958|Adam Gibson|A|/JOINMARKET/test/test_mnemonic.py
+1459103958|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1459103958|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1459174162|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1459427884|Adam Gibson|M|/JOINMARKET/README.md
+1459427884|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1459427884|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1459427884|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1459509519|Paul Georgiou|M|/JOINMARKET/yield-generator-basic.py
+1459518415|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1459518415|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1459518415|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1459518415|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1459518415|Adam Gibson|M|/JOINMARKET/test/test_keys.py
+1459518415|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1459518415|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1459662213|Paul Georgiou|M|/JOINMARKET/yield-generator-basic.py
+1460031893|Adam Gibson|A|/JOINMARKET/.coveragerc
+1460031893|Adam Gibson|M|/JOINMARKET/.travis.yml
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/__init__.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/bci.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/main.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/py2specials.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/py3specials.py
+1460031893|Adam Gibson|D|/JOINMARKET/bitcoin/ripemd.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_deterministic.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_transaction.py
+1460031893|Adam Gibson|M|/JOINMARKET/bitcoin/transaction.py
+1460031893|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1460031893|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1460031893|Adam Gibson|M|/JOINMARKET/joinmarket/slowaes.py
+1460031893|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/ecc_sigs_rfc6979_valid.json
+1460031893|Adam Gibson|M|/JOINMARKET/test/test_bip32.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_blockr.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_btc_formatting.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_donations.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_ecc_signing.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_irc_messaging.py
+1460031893|Adam Gibson|M|/JOINMARKET/test/test_keys.py
+1460031893|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_tumbler.py
+1460031893|Adam Gibson|A|/JOINMARKET/test/test_tx_creation.py
+1460031893|Adam Gibson|M|/JOINMARKET/test/test_tx_serialize.py
+1460031893|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1460217312|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1460217312|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1460217312|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1460217312|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1460217312|chris-belcher|M|/JOINMARKET/tumbler.py
+1460242747|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1460320602|Adam Gibson|M|/JOINMARKET/bitcoin/main.py
+1460900381|chris-belcher|M|/JOINMARKET/test/conftest.py
+1460900381|chris-belcher|M|/JOINMARKET/test/test_irc_messaging.py
+1460936257|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1460936257|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1460936257|chris-belcher|M|/JOINMARKET/test/test_tumbler.py
+1460936257|chris-belcher|D|/JOINMARKET/test/tumbler-test.py
+1460936257|chris-belcher|M|/JOINMARKET/tumbler.py
+1460938936|chris-belcher|M|/JOINMARKET/test/test_tx_creation.py
+1461264667|Adlai|M|/JOINMARKET/sendpayment.py
+1461264670|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1461264715|chris-belcher|M|/JOINMARKET/joinmarket/jsonrpc.py
+1461264715|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1461432186|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1461432186|chris-belcher|A|/JOINMARKET/test/test_tx_notify.py
+1461443472|chris-belcher|M|/JOINMARKET/tumbler.py
+1461668255|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461668255|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461668689|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461668689|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461670491|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461670491|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461671118|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461671118|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461671812|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461671812|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461674902|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461674902|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461701862|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461701862|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461701862|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1461701862|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1461708622|chris-belcher|M|/JOINMARKET/joinmarket/__init__.py
+1461708622|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1461708622|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1461708622|chris-belcher|A|/JOINMARKET/test/test_broadcast_method.py
+1461709842|chris-belcher|M|/JOINMARKET/joinmarket/wallet.py
+1461709842|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1461760185|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1461760185|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1461876384|chris-belcher|M|/JOINMARKET/tumbler.py
+1461876384|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1461877768|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1461884266|chris-belcher|M|/JOINMARKET/tumbler.py
+1462321534|chris-belcher|A|/JOINMARKET/doc/release-notes-0.1.0.md
+1462321534|chris-belcher|A|/JOINMARKET/doc/release-notes-0.1.4.md
+1462321534|chris-belcher|D|/JOINMARKET/doc/release-notes.md
+1462400406|chris-belcher|M|/JOINMARKET/tumbler.py
+1462446038|AlexCato|M|/JOINMARKET/README.md
+1462488723|chris-belcher|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1462488723|chris-belcher|M|/JOINMARKET/joinmarket/maker.py
+1462488723|chris-belcher|M|/JOINMARKET/sendpayment.py
+1462632446|AlexCato|M|/JOINMARKET/joinmarket/irc.py
+1462660970|chris-belcher|M|/JOINMARKET/test/test_tumbler.py
+1462660970|chris-belcher|M|/JOINMARKET/tumbler.py
+1462699222|raedah|M|/JOINMARKET/README.md
+1462699222|raedah|M|/JOINMARKET/yield-generator-oscillator.py
+1462736646|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1462736646|Adam Gibson|M|/JOINMARKET/joinmarket/enc_wrapper.py
+1462736646|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1462736646|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1462736646|Adam Gibson|M|/JOINMARKET/test/test_enc_wrapper.py
+1462736646|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1463611793|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1463611793|chris-belcher|M|/JOINMARKET/tumbler.py
+1463923183|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1463923183|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1463923183|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1463923183|Adam Gibson|M|/JOINMARKET/test/test_tx_creation.py
+1464349778|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1464591909|jamesphillipturpin|M|/JOINMARKET/yield-generator-oscillator.py
+1464740929|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1464809427|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1464809427|Adam Gibson|M|/JOINMARKET/yield-generator-mixdepth.py
+1464931102|Alex Cato|M|/JOINMARKET/sendpayment.py
+1464931102|Alex Cato|M|/JOINMARKET/tumbler.py
+1465047403|Alex Cato|M|/JOINMARKET/sendpayment.py
+1465047403|Alex Cato|M|/JOINMARKET/tumbler.py
+1465048195|Alex Cato|M|/JOINMARKET/sendpayment.py
+1465084167|Alex Cato|M|/JOINMARKET/joinmarket/socks.py
+1465403660|Alex Cato|M|/JOINMARKET/yield-generator-oscillator.py
+1465473805|chris-belcher|M|/JOINMARKET/joinmarket/support.py
+1465500730|Adam Gibson|M|/JOINMARKET/.travis.yml
+1465500730|Adam Gibson|M|/JOINMARKET/broadcast-tx.py
+1465500730|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1465500730|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1465500730|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1465500730|Adam Gibson|M|/JOINMARKET/test/conftest.py
+1465500730|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1465500730|Adam Gibson|M|/JOINMARKET/test/test_broadcast_method.py
+1465500730|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1465500730|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1465500730|Adam Gibson|M|/JOINMARKET/test/test_tumbler.py
+1465500730|Adam Gibson|M|/JOINMARKET/tumbler.py
+1465500730|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1465500730|Adam Gibson|M|/JOINMARKET/yield-generator-deluxe.py
+1465500730|Adam Gibson|M|/JOINMARKET/yield-generator-mixdepth.py
+1465500730|Adam Gibson|M|/JOINMARKET/yield-generator-oscillator.py
+1465587751|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1465587751|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1465650154|Alex Cato|M|/JOINMARKET/yield-generator-basic.py
+1465650154|Alex Cato|M|/JOINMARKET/yield-generator-deluxe.py
+1465650154|Alex Cato|M|/JOINMARKET/yield-generator-mixdepth.py
+1465665243|Adam Gibson|M|/JOINMARKET/test/test_broadcast_method.py
+1465665243|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1465990909|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1465990909|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1465990909|Adam Gibson|M|/JOINMARKET/test/commontest.py
+1465990909|Adam Gibson|M|/JOINMARKET/test/test_tx_creation.py
+1465990909|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1465992720|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1466341958|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1467208703|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1467397508|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1467397508|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1467484828|Adlai|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1467545336|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1467547518|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1467634231|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1467909961|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1467909961|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1467909961|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1467909961|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1467909961|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1467909961|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1467909961|Adam Gibson|M|/JOINMARKET/yield-generator-deluxe.py
+1467909961|Adam Gibson|M|/JOINMARKET/yield-generator-mixdepth.py
+1467909961|Adam Gibson|M|/JOINMARKET/yield-generator-oscillator.py
+1467980121|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1467980121|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1468262108|Adam Gibson|M|/JOINMARKET/bitcoin/__init__.py
+1468262108|Adam Gibson|A|/JOINMARKET/bitcoin/podle.py
+1468262108|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1468262108|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1468262108|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1468262108|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1468262108|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1468262108|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1468324207|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1468325020|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1468325020|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1468331618|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1468331618|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1468331618|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1468441584|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1468781549|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1469211167|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1469211167|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1469211167|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1469211167|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469211167|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1469211167|Adam Gibson|A|/JOINMARKET/test/test_podle.py
+1469444774|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1469444774|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1469449309|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1469449309|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469449309|Adam Gibson|M|/JOINMARKET/test/test_irc_messaging.py
+1469541005|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469541005|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1469541171|Adam Gibson|M|/JOINMARKET/test/test_blockr.py
+1469551756|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469551756|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1469551953|Adam Gibson|M|/JOINMARKET/test/test_blockr.py
+1469700047|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469707292|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1469707292|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1469707292|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1469735428|Adam Gibson|A|/JOINMARKET/add-utxo.py
+1469773001|Adlai|M|/JOINMARKET/joinmarket/configure.py
+1469791966|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1469819259|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1469819259|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1469819259|Adam Gibson|M|/JOINMARKET/test/test_podle.py
+1469820318|Adam Gibson|M|/JOINMARKET/.gitignore
+1469820318|Adam Gibson|M|/JOINMARKET/.travis.yml
+1469990316|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1469990316|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1469990316|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1469990316|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1469990316|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1469990316|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1469990316|Adam Gibson|M|/JOINMARKET/test/test_podle.py
+1469993875|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1469993875|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1469993875|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1469993875|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1470056079|Adam Gibson|M|/JOINMARKET/add-utxo.py
+1470056175|Adam Gibson|A|/JOINMARKET/test/ygrunner.py
+1470068045|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1470068045|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1470068045|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470068045|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1470074630|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1470074630|Adam Gibson|M|/JOINMARKET/test/test_ecc_signing.py
+1470135988|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1470135988|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1470135988|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470135988|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1470135988|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1470135988|Adam Gibson|M|/JOINMARKET/ob-watcher.py
+1470135988|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1470135988|Adam Gibson|M|/JOINMARKET/test/test_broadcast_method.py
+1470135988|Adam Gibson|M|/JOINMARKET/tumbler.py
+1470135988|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1470135988|Adam Gibson|M|/JOINMARKET/yield-generator-deluxe.py
+1470135988|Adam Gibson|M|/JOINMARKET/yield-generator-mixdepth.py
+1470135988|Adam Gibson|M|/JOINMARKET/yield-generator-oscillator.py
+1470157514|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1470157514|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1470165867|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1470231381|Adam Gibson|M|/JOINMARKET/ob-watcher.py
+1470269545|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1470296356|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1470317582|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1470317582|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1470317582|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470317582|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1470345939|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1470490409|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1470490409|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470576723|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1470585749|chris-belcher|M|/JOINMARKET/joinmarket/irc.py
+1470605769|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1470605769|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470765522|Adam Gibson|M|/JOINMARKET/joinmarket/message_channel.py
+1470773307|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1470775003|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1470775003|Adam Gibson|A|/JOINMARKET/joinmarket/yieldgenerator.py
+1470775003|Adam Gibson|A|/JOINMARKET/yg-pe.py
+1470828105|Adam Gibson|M|/JOINMARKET/yg-pe.py
+1470833004|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1470922224|Adam Gibson|M|/JOINMARKET/bitcoin/__init__.py
+1470922224|Adam Gibson|D|/JOINMARKET/bitcoin/deterministic.py
+1470922224|Adam Gibson|D|/JOINMARKET/bitcoin/main.py
+1470922224|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1470922224|Adam Gibson|D|/JOINMARKET/bitcoin/transaction.py
+1470922224|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1470922224|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1470922224|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1470922224|Adam Gibson|M|/JOINMARKET/test/test_blockr.py
+1470922224|Adam Gibson|M|/JOINMARKET/test/test_donations.py
+1470922224|Adam Gibson|M|/JOINMARKET/test/test_keys.py
+1470922224|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1470922224|Adam Gibson|M|/JOINMARKET/test/test_tumbler.py
+1470922224|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1471038922|Adam Gibson|M|/JOINMARKET/add-utxo.py
+1471038922|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1471038922|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1471038922|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1471038922|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1471038922|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1471162131|Nicolas Kuttler|M|/JOINMARKET/wallet-tool.py
+1471205685|Adam Gibson|M|/JOINMARKET/.gitignore
+1471205685|Adam Gibson|D|/JOINMARKET/add-utxo.py
+1471205685|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1471205685|Adam Gibson|A|/JOINMARKET/cmttools/add-utxo.py
+1471205685|Adam Gibson|A|/JOINMARKET/cmttools/commitment_utils.py
+1471205685|Adam Gibson|A|/JOINMARKET/cmttools/sendtomany.py
+1471205685|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1471205685|Adam Gibson|M|/JOINMARKET/test/test_podle.py
+1471205685|Adam Gibson|M|/JOINMARKET/tumbler.py
+1471205685|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1471365944|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1471365944|Adam Gibson|M|/JOINMARKET/joinmarket/support.py
+1471365944|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1471365944|Adam Gibson|M|/JOINMARKET/tumbler.py
+1471374491|Adam Gibson|M|/JOINMARKET/cmttools/add-utxo.py
+1471374491|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1471374491|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1471374491|Adam Gibson|M|/JOINMARKET/tumbler.py
+1471374491|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1471445192|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1471445192|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1471782591|Adam Gibson|M|/JOINMARKET/test/test_broadcast_method.py
+1471868530|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1471868530|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1472243284|Martino Salvetti|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1472399319|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1472399319|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/__init__.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/base.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/blake.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/dual.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/encode.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/public.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/secret.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/sign.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/utils.py
+1472473560|Adam Gibson|D|/JOINMARKET/libnacl/version.py
+1472473560|Adam Gibson|A|/JOINMARKET/requirements-windows.txt
+1472473560|Adam Gibson|M|/JOINMARKET/requirements.txt
+1472478016|Adam Gibson|M|/JOINMARKET/README.md
+1472583552|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1473451023|Adam Gibson|M|/JOINMARKET/.travis.yml
+1473451023|Adam Gibson|M|/JOINMARKET/README.md
+1473451023|Adam Gibson|D|/JOINMARKET/miniircd
+1473451023|Adam Gibson|M|/JOINMARKET/requirements-dev.txt
+1473451023|Adam Gibson|D|/JOINMARKET/setup.cfg
+1473451023|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1473451023|Adam Gibson|M|/JOINMARKET/test/ygrunner.py
+1473451023|Adam Gibson|M|/JOINMARKET/yg-pe.py
+1473451023|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1473451023|Adam Gibson|D|/JOINMARKET/yield-generator-deluxe.py
+1473451023|Adam Gibson|D|/JOINMARKET/yield-generator-mixdepth.py
+1473451023|Adam Gibson|D|/JOINMARKET/yield-generator-oscillator.py
+1473536234|Adam Gibson|M|/JOINMARKET/README.md
+1473536234|Adam Gibson|M|/JOINMARKET/bitcoin/bci.py
+1473536234|Adam Gibson|A|/JOINMARKET/doc/release-notes-0.2.0.md
+1473613994|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1473616484|Daniel Kraft|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1473616484|Daniel Kraft|M|/JOINMARKET/yg-pe.py
+1473616484|Daniel Kraft|M|/JOINMARKET/yield-generator-basic.py
+1473666453|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1473710302|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1473710302|Adam Gibson|M|/JOINMARKET/bitcoin/secp256k1_main.py
+1473765814|Adam Gibson|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1473765814|Adam Gibson|M|/JOINMARKET/ob-watcher.py
+1473765814|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1473765814|Adam Gibson|M|/JOINMARKET/tumbler.py
+1473851854|Adam Gibson|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1473858285|Adam Gibson|M|/JOINMARKET/joinmarket/maker.py
+1473858285|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1473858285|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1473870370|Adam Gibson|M|/JOINMARKET/README.md
+1473870370|Adam Gibson|A|/JOINMARKET/doc/release-notes-0.2.1.md
+1474139729|CohibAA|M|/JOINMARKET/yield-generator-basic.py
+1474139855|CohibAA|M|/JOINMARKET/yg-pe.py
+1474200709|Martino Salvetti|M|/JOINMARKET/bitcoin/bci.py
+1474200709|Martino Salvetti|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1474200709|Martino Salvetti|M|/JOINMARKET/requirements-dev.txt
+1474200709|Martino Salvetti|M|/JOINMARKET/test/test_blockr.py
+1474458690|Adam Gibson|M|/JOINMARKET/broadcast-tx.py
+1474458690|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1474458690|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1474458690|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1474458690|Adam Gibson|M|/JOINMARKET/ob-watcher.py
+1474458690|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1474458690|Adam Gibson|M|/JOINMARKET/test/test_podle.py
+1474458690|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1474458690|Adam Gibson|M|/JOINMARKET/test/test_tumbler.py
+1474458690|Adam Gibson|M|/JOINMARKET/tumbler.py
+1474478759|Adam Gibson|M|/JOINMARKET/.coveragerc
+1474478759|Adam Gibson|M|/JOINMARKET/cmttools/add-utxo.py
+1474478759|Adam Gibson|M|/JOINMARKET/joinmarket/__init__.py
+1474478759|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1474478759|Adam Gibson|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1474478759|Adam Gibson|M|/JOINMARKET/patientsendpayment.py
+1474478759|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_blockr.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_donations.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_podle.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_tumbler.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_tx_creation.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_tx_notify.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/test_wallets.py
+1474478759|Adam Gibson|M|/JOINMARKET/test/ygrunner.py
+1474478759|Adam Gibson|M|/JOINMARKET/tumbler.py
+1474478759|Adam Gibson|M|/JOINMARKET/wallet-tool.py
+1474560499|Adlai|M|/JOINMARKET/joinmarket/configure.py
+1474732210|CohibAA|M|/JOINMARKET/joinmarket/irc.py
+1474773529|CohibAA|M|/JOINMARKET/joinmarket/irc.py
+1474783124|CohibAA|M|/JOINMARKET/joinmarket/configure.py
+1474808679|Adam Gibson|M|/JOINMARKET/create-unsigned-tx.py
+1474808679|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1474946861|Bryan Stitt|M|/JOINMARKET/yg-pe.py
+1474946886|Bryan Stitt|M|/JOINMARKET/yg-pe.py
+1475961355|AlexCato|M|/JOINMARKET/README.md
+1475998291|Alex Cato|M|/JOINMARKET/bitcoin/bci.py
+1475998291|Alex Cato|M|/JOINMARKET/broadcast-tx.py
+1475998291|Alex Cato|M|/JOINMARKET/cmttools/sendtomany.py
+1475998291|Alex Cato|M|/JOINMARKET/create-unsigned-tx.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/configure.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/irc.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/maker.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/message_channel.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/support.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/taker.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/wallet.py
+1475998291|Alex Cato|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1475998291|Alex Cato|M|/JOINMARKET/ob-watcher.py
+1475998291|Alex Cato|M|/JOINMARKET/patientsendpayment.py
+1475998291|Alex Cato|M|/JOINMARKET/sendpayment.py
+1475998291|Alex Cato|M|/JOINMARKET/tumbler.py
+1475998291|Alex Cato|M|/JOINMARKET/yg-pe.py
+1475998291|Alex Cato|M|/JOINMARKET/yield-generator-basic.py
+1476001482|Alex Cato|M|/JOINMARKET/bitcoin/bci.py
+1476001482|Alex Cato|M|/JOINMARKET/broadcast-tx.py
+1476001482|Alex Cato|M|/JOINMARKET/cmttools/sendtomany.py
+1476001482|Alex Cato|M|/JOINMARKET/create-unsigned-tx.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/configure.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/irc.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/maker.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/message_channel.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/support.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/taker.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/wallet.py
+1476001482|Alex Cato|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1476001482|Alex Cato|M|/JOINMARKET/ob-watcher.py
+1476001482|Alex Cato|M|/JOINMARKET/patientsendpayment.py
+1476001482|Alex Cato|M|/JOINMARKET/sendpayment.py
+1476001482|Alex Cato|M|/JOINMARKET/tumbler.py
+1476001482|Alex Cato|M|/JOINMARKET/yg-pe.py
+1476001482|Alex Cato|M|/JOINMARKET/yield-generator-basic.py
+1476188669|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1476199989|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1476287860|Alex Cato|M|/JOINMARKET/joinmarket/message_channel.py
+1476287860|Alex Cato|M|/JOINMARKET/joinmarket/support.py
+1476290719|Alex Cato|M|/JOINMARKET/joinmarket/configure.py
+1476290719|Alex Cato|M|/JOINMARKET/joinmarket/support.py
+1476552376|Adam Gibson|M|/JOINMARKET/joinmarket/irc.py
+1476552376|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1476552376|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1476552376|Adam Gibson|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1476552376|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1476552376|Adam Gibson|M|/JOINMARKET/tumbler.py
+1476631536|Adam Gibson|M|/JOINMARKET/joinmarket/wallet.py
+1476756590|Bryan Stitt|M|/JOINMARKET/.gitignore
+1476756737|Bryan Stitt|M|/JOINMARKET/.gitignore
+1476792896|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1476792896|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1476814608|AlexCato|M|/JOINMARKET/README.md
+1476945217|CohibAA|M|/JOINMARKET/joinmarket/message_channel.py
+1477046398|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1477062499|Alex Cato|M|/JOINMARKET/joinmarket/configure.py
+1477137516|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1477253370|Martino Salvetti|M|/JOINMARKET/wallet-tool.py
+1477400865|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1477400865|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1477400865|Adam Gibson|M|/JOINMARKET/test/test_regtest.py
+1477400865|Adam Gibson|M|/JOINMARKET/yg-pe.py
+1477400865|Adam Gibson|M|/JOINMARKET/yield-generator-basic.py
+1477483383|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1477488022|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1477488022|Adam Gibson|M|/JOINMARKET/joinmarket/taker.py
+1477488022|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1477488022|Adam Gibson|M|/JOINMARKET/test/regtest_joinmarket.cfg
+1477504888|Alex Cato|M|/JOINMARKET/README.md
+1477504888|Alex Cato|A|/JOINMARKET/doc/release-notes-0.2.2.md
+1477586357|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/configure.py
+1477586357|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/maker.py
+1477586357|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/taker.py
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.1.0.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.1.1.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.1.2.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.1.4.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.2.0.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.2.1.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.2.2.md
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/configure.py
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/sendpayment.py
+1477590466|Adlai Chandrasekhar|M|/JOINMARKET/tumbler.py
+1477590523|Adlai Chandrasekhar|M|/JOINMARKET/doc/release-notes-0.2.2.md
+1477598241|Adam Gibson|M|/JOINMARKET/tumbler.py
+1477671470|Adam Gibson|M|/JOINMARKET/doc/release-notes-0.2.2.md
+1477671470|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1477850603|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1478983676|anduck|M|/JOINMARKET/README.md
+1479425521|Bryan Stitt|M|/JOINMARKET/README.md
+1479557644|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1479679141|Gero G|M|/JOINMARKET/wallet-tool.py
+1480116384|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/support.py
+1480120940|Adlai Chandrasekhar|M|/JOINMARKET/test/test_wallets.py
+1480122104|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/support.py
+1480122104|Adlai Chandrasekhar|M|/JOINMARKET/orderbook.html
+1480370209|eduard6|M|/JOINMARKET/bitcoin/podle.py
+1480370209|eduard6|M|/JOINMARKET/wallet-tool.py
+1480603146|Empty2k12 (Gero G.)|M|/JOINMARKET/joinmarket/wallet.py
+1480603146|Empty2k12 (Gero G.)|M|/JOINMARKET/wallet-tool.py
+1480625338|Justin Camarena|M|/JOINMARKET/test/test_wallets.py
+1480625338|Justin Camarena|M|/JOINMARKET/wallet-tool.py
+1480679156|Justin Camarena|M|/JOINMARKET/test/test_wallets.py
+1480679156|Justin Camarena|M|/JOINMARKET/wallet-tool.py
+1480928212|eduard6|M|/JOINMARKET/bitcoin/bci.py
+1481018210|Adlai Chandrasekhar|M|/JOINMARKET/joinmarket/support.py
+1481047087|Adam Gibson|M|/JOINMARKET/bitcoin/podle.py
+1481174349|eduard6|M|/JOINMARKET/wallet-tool.py
+1481491718|Alex Cato|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1481491718|Alex Cato|M|/JOINMARKET/joinmarket/configure.py
+1481491718|Alex Cato|M|/JOINMARKET/joinmarket/wallet.py
+1482934579|Adlai|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1482953298|Adlai|M|/JOINMARKET/yield-generator-basic.py
+1482953329|Adlai|M|/JOINMARKET/yg-pe.py
+1483128810|Damian Mee|M|/JOINMARKET/README.md
+1483129967|Damian Mee|M|/JOINMARKET/README.md
+1483130563|chris-belcher|M|/JOINMARKET/patientsendpayment.py
+1483196901|instagibbs|M|/JOINMARKET/README.md
+1483407696|chris-belcher|M|/JOINMARKET/joinmarket/maker.py
+1483495019|chris-belcher|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1483495019|chris-belcher|M|/JOINMARKET/yg-pe.py
+1483495019|chris-belcher|M|/JOINMARKET/yield-generator-basic.py
+1485163567|Adam Gibson|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485163567|Adam Gibson|M|/JOINMARKET/joinmarket/configure.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/__init__.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/configure.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485238855|Michael Wozniak|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485239109|Michael Wozniak|M|/JOINMARKET/joinmarket/__init__.py
+1485239109|Michael Wozniak|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1485239109|Michael Wozniak|M|/JOINMARKET/joinmarket/configure.py
+1485239109|Michael Wozniak|A|/JOINMARKET/joinmarket/electruminterface.py
+1485239131|Michael Wozniak|M|/JOINMARKET/joinmarket/configure.py
+1485239131|Michael Wozniak|M|/JOINMARKET/joinmarket/electruminterface.py
+1485251522|Adam Gibson|M|/JOINMARKET/joinmarket/electruminterface.py
+1485394865|chris-belcher|M|/JOINMARKET/joinmarket/__init__.py
+1485394865|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1485394865|chris-belcher|A|/JOINMARKET/joinmarket/peertopeer.py
+1485394865|chris-belcher|M|/JOINMARKET/joinmarket/taker.py
+1485394865|chris-belcher|M|/JOINMARKET/test/commontest.py
+1485394865|chris-belcher|A|/JOINMARKET/test/test_p2p_protocol.py
+1485595283|Alex Cato|M|/JOINMARKET/yg-pe.py
+1485728182|chris-belcher|M|/JOINMARKET/joinmarket/electruminterface.py
+1486485038|undeath|M|/JOINMARKET/joinmarket/blockchaininterface.py
+1486567466|Adam Gibson|M|/JOINMARKET/sendpayment.py
+1486567466|Adam Gibson|M|/JOINMARKET/tumbler.py
+1488582850|Peter Banik|M|/JOINMARKET/yg-pe.py
+1488582850|Peter Banik|M|/JOINMARKET/yield-generator-basic.py
+1489020430|chris-belcher|M|/JOINMARKET/joinmarket/configure.py
+1489020430|chris-belcher|M|/JOINMARKET/test/test_blockr.py
+1489256451|chris-belcher|M|/JOINMARKET/wallet-tool.py
+1490657586|chris-belcher|M|/JOINMARKET/test/test_p2p_protocol.py
+1491162161|nopara73|M|/JOINMARKET/README.md
+1491842645|Bryan Stitt|M|/JOINMARKET/joinmarket/yieldgenerator.py
+1492133248|Gero G|M|/JOINMARKET/joinmarket/wallet.py
+1492133248|Peter Banik|M|/JOINMARKET/test/test_wallets.py
+1492135145|chris-belcher|M|/JOINMARKET/joinmarket/wallet.py
+1492256865|chris-belcher|M|/JOINMARKET/README.md
+1492256865|chris-belcher|A|/JOINMARKET/doc/release-notes-0.2.3.md
+1531218962|AdamISZ|M|/JOINMARKET/README.md
+1537673056|Adlai|M|/JOINMARKET/README.md
+1539105854|AdamISZ|M|/JOINMARKET/README.md
+1579093606|chris-belcher|D|/JOINMARKET/.coveragerc
+1579093606|chris-belcher|D|/JOINMARKET/.gitignore
+1579093606|chris-belcher|D|/JOINMARKET/.gitmodules
+1579093606|chris-belcher|D|/JOINMARKET/.travis.yml
+1579093606|chris-belcher|D|/JOINMARKET/CONTRIBUTING.md
+1579093606|chris-belcher|M|/JOINMARKET/README.md
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/__init__.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/bci.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/podle.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/py2specials.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/py3specials.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/secp256k1_deterministic.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/secp256k1_main.py
+1579093606|chris-belcher|D|/JOINMARKET/bitcoin/secp256k1_transaction.py
+1579093606|chris-belcher|D|/JOINMARKET/broadcast-tx.py
+1579093606|chris-belcher|D|/JOINMARKET/cmttools/add-utxo.py
+1579093606|chris-belcher|D|/JOINMARKET/cmttools/commitment_utils.py
+1579093606|chris-belcher|D|/JOINMARKET/cmttools/sendtomany.py
+1579093606|chris-belcher|D|/JOINMARKET/create-unsigned-tx.py
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.1.0.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.1.1.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.1.2.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.1.3.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.1.4.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.2.0.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.2.1.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.2.2.md
+1579093606|chris-belcher|D|/JOINMARKET/doc/release-notes-0.2.3.md
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/__init__.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/blockchaininterface.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/configure.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/electruminterface.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/enc_wrapper.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/irc.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/jsonrpc.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/maker.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/message_channel.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/old_mnemonic.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/peertopeer.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/slowaes.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/socks.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/support.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/taker.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/wallet.py
+1579093606|chris-belcher|D|/JOINMARKET/joinmarket/yieldgenerator.py
+1579093606|chris-belcher|D|/JOINMARKET/logs/.gitignore
+1579093606|chris-belcher|D|/JOINMARKET/logs/scrub-log.py
+1579093606|chris-belcher|D|/JOINMARKET/ob-watcher.py
+1579093606|chris-belcher|D|/JOINMARKET/orderbook.html
+1579093606|chris-belcher|D|/JOINMARKET/patientsendpayment.py
+1579093606|chris-belcher|D|/JOINMARKET/requirements-dev.txt
+1579093606|chris-belcher|D|/JOINMARKET/requirements-windows.txt
+1579093606|chris-belcher|D|/JOINMARKET/requirements.txt
+1579093606|chris-belcher|D|/JOINMARKET/sendpayment.py
+1579093606|chris-belcher|D|/JOINMARKET/test/base58_keys_invalid.json
+1579093606|chris-belcher|D|/JOINMARKET/test/base58_keys_valid.json
+1579093606|chris-belcher|D|/JOINMARKET/test/bitcoin.conf
+1579093606|chris-belcher|D|/JOINMARKET/test/commontest.py
+1579093606|chris-belcher|D|/JOINMARKET/test/conftest.py
+1579093606|chris-belcher|D|/JOINMARKET/test/ecc_sigs_rfc6979_valid.json
+1579093606|chris-belcher|D|/JOINMARKET/test/fee-estimation.py
+1579093606|chris-belcher|D|/JOINMARKET/test/randomfunc-test.py
+1579093606|chris-belcher|D|/JOINMARKET/test/regtest_joinmarket.cfg
+1579093606|chris-belcher|D|/JOINMARKET/test/test_addresses.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_bip32.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_blockr.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_broadcast_method.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_btc_formatting.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_donations.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_ecc_signing.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_enc_wrapper.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_irc_messaging.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_keys.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_mnemonic.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_p2p_protocol.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_podle.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_regtest.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_tumbler.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_tx_creation.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_tx_notify.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_tx_serialize.py
+1579093606|chris-belcher|D|/JOINMARKET/test/test_wallets.py
+1579093606|chris-belcher|D|/JOINMARKET/test/tx_valid.json
+1579093606|chris-belcher|D|/JOINMARKET/test/wnb.sh
+1579093606|chris-belcher|D|/JOINMARKET/test/ygrunner.py
+1579093606|chris-belcher|D|/JOINMARKET/tox.ini
+1579093606|chris-belcher|D|/JOINMARKET/tumbler.py
+1579093606|chris-belcher|D|/JOINMARKET/wallet-tool.py
+1579093606|chris-belcher|D|/JOINMARKET/wallets/.gitignore
+1579093606|chris-belcher|D|/JOINMARKET/yg-pe.py
+1579093606|chris-belcher|D|/JOINMARKET/yield-generator-basic.py
