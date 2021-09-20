@@ -6032,3 +6032,6 @@
 1631892135|softsimon|M|/MEMPOOL/backend/src/api/bitcoin/bitcoin-api.interface.ts
 1632043031|softsimon|M|/MEMPOOL/frontend/src/app/components/api-docs/api-docs.component.html
 1632043031|softsimon|M|/MEMPOOL/frontend/src/app/components/api-docs/api-docs.component.ts
+1632070167|softsimon|M|/MEMPOOL/frontend/src/locale/messages.hu.xlf
+1632070167|softsimon|M|/MEMPOOL/frontend/src/locale/messages.mk.xlf
+1632070167|softsimon|M|/MEMPOOL/frontend/src/locale/messages.ro.xlf

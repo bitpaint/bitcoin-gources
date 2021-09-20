@@ -113,7 +113,7 @@ ffmpeg -i gourcesoundfade.mp4 -af "afade=t=out:st=10:d=50"  $1.mp4
 mv $1.mp4 "renders"
 
 cd renders
-source rename.sh
+source _rename.sh
 
 cd ..
 

@@ -17,6 +17,8 @@ echo "          ";
 echo "          ";
 echo "          ";
 
+mkdir repos
+cd repos
 # Download all the repos... that's bad... please help optimize
 git clone https://github.com/bitcoin/bitcoin
 git clone https://github.com/bitcoin/bips
@@ -79,48 +81,25 @@ echo "└─┘└─┘└─┘┴└─└─┘└─┘└─┘  └  ┴�
 
 
 # Create all the txt files for gource ... please help optimize
-gource --output-custom-log bitcoin.txt bitcoin
-gource --output-custom-log bips.txt bips
-gource --output-custom-log libblkmaker.txt libblkmaker
-gource --output-custom-log libbase58.txt libbase58
-gource --output-custom-log btcpayserver.txt btcpayserver
-gource --output-custom-log btcpayserver-docker.txt btcpayserver-docker
-gource --output-custom-log organization.txt organization
-gource --output-custom-log lnd.txt LND
-gource --output-custom-log seedsigner.txt seedsigner
-gource --output-custom-log umbrel.txt umbrel
-echo -ne '#####                     (33%)\r'
-sleep 1
-gource --output-custom-log embassy-os.txt embassy-os
-gource --output-custom-log raspiblitz.txt raspiblitz
-gource --output-custom-log mynode.txt mynode
-gource --output-custom-log electrum.txt electrum
-gource --output-custom-log electrumx.txt electrumx
-gource --output-custom-log joinmarket-clientserver.txt joinmarket-clientserver
-gource --output-custom-log joinmarket.txt joinmarket
-gource --output-custom-log lightning.txt lightning
-gource --output-custom-log elements.txt elements
-gource --output-custom-log lightning-charge.txt lightning-charge
-gource --output-custom-log lntxbot.txt lntxbot
-gource --output-custom-log mempool.txt mempool
-echo -ne '#############             (66%)\r'
-sleep 1
-gource --output-custom-log WalletWasabi.txt WalletWasabi
-gource --output-custom-log simplicity.txt simplicity
-gource --output-custom-log libwally-core.txt libwally-core
-gource --output-custom-log satellite.txt satellite
-gource --output-custom-log esplora.txt esplora
-gource --output-custom-log electrs.txt electrs
-gource --output-custom-log green_android.txt green_android
-gource --output-custom-log specter-desktop.txt specter-desktop
-gource --output-custom-log specter-diy.txt specter-diy
-gource --output-custom-log galoy-mobile.txt galoy-mobile
-gource --output-custom-log galoy.txt galoy
-gource --output-custom-log RTL.txt rtl
-gource --output-custom-log Bitcoin.org.txt Bitcoin.org
-gource --output-custom-log bitcoin-only.txt bitcoin-only
-echo -ne '#######################   (100%)\r'
-echo -ne '\n'
+
+List=( * )
+Loop(){
+	for item in ${*} ;
+	do
+	gource --output-custom-log ${item}.txt ${item}
+	echo Making gource log file for ${item}
+	done
+	}
+
+Loop ${List[*]}
+
+
+mv *.txt ".."
+
+read -t 5 -p "Done."
+
+
+
 
 
 echo "Ok        ";
@@ -133,8 +112,11 @@ echo "└─┘└─┘┴└─ ┴ ┴┘└┘└─┘";
 
 
 
+cd ..
 
 # Sort all the files please help optimize
+# sed -i -r "s#(.+)\|#\1|/GOURCENAME#" logname.txt
+
 sed -i -r "s#(.+)\|#\1|/BITCOIN#" bitcoin.txt
 sed -i -r "s#(.+)\|#\1|/BIPS#" bips.txt
 sed -i -r "s#(.+)\|#\1|/LIBBLMAKER#" libblkmaker.txt
